@@ -22,19 +22,25 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/draft/node_modules/@rails/webpacker/package/loaders/style.js" timestamp="1510223534176" />
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/packs/article_editor.jsx" timestamp="1508418975108">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="44" />
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft/Gemfile" timestamp="1508413264843" />
       <file name="$USER_HOME$/Project/Iroha/dance/app/controllers/movies_controller.rb" timestamp="1503820278072">
         <mark key="'" line="21" column="60" />
         <mark key="[" line="24" column="55" />
         <mark key="]" line="24" column="54" />
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/draft/app/views/layouts/application.html.erb" timestamp="1510223650797">
+        <mark key="[" line="7" column="82" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Project/Iroha/dance/app/models/movie.rb" timestamp="1507989317634">
         <mark key="'" line="27" column="24" />
@@ -53,6 +59,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/instance.rb" timestamp="1510223688924">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/db/migrate/20171019135452_add_column_content_html.rb" timestamp="1508421432698">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
@@ -65,7 +74,10 @@
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft/config/webpack/development.js" timestamp="1508415134309" />
+      <file name="$USER_HOME$/Project/Rails/draft/node_modules/@rails/webpacker/package/loaders/file.js" timestamp="1510223510613" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/manifest.rb" timestamp="1510223697881">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Iroha/dance/app/assets/javascripts/application.js" timestamp="1503809423409">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="16" column="0" />
@@ -76,6 +88,9 @@
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/draft/node_modules/glob/glob.js" timestamp="1510223027406">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/views/articles/new.html.erb" timestamp="1508418559464">
         <mark key="[" line="0" column="64" />
@@ -93,10 +108,6 @@
         <mark key="]" line="22" column="83" />
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
-      </file>
-      <file name="$USER_HOME$/Project/Iroha/dance/app/admin/dancer.rb" timestamp="1503821828860">
-        <mark key="a" line="44" column="15" />
-        <mark key="'" line="41" column="6" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/assets/javascripts/ArticleEditor.js" timestamp="1508414298716">
         <mark key="'" line="0" column="0" />
@@ -174,6 +185,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/draft/app/assets/javascripts/ArticleEditor.js" />
       <jump line="6" column="33" filename="$USER_HOME$/Project/Rails/draft/app/javascript/packs/hello_react.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/draft/app/javascript/packs/hello_react.jsx" />
+      <jump line="42" column="0" filename="$USER_HOME$/Project/Rails/draft/node_modules/glob/glob.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/instance.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/manifest.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -183,7 +197,7 @@
         <text>content</text>
       </register>
       <register name="/" type="4">
-        <text>image_cache</text>
+        <text>lookup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1dHMgJ2doZW9naG9laGdvZScK</text>
@@ -220,9 +234,9 @@
       </register>
     </registers>
     <search>
-      <last-search>image_cache</last-search>
+      <last-search>lookup</last-search>
       <last-offset />
-      <last-pattern>image_cache</last-pattern>
+      <last-pattern>lookup</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -235,6 +249,8 @@
         <entry>#Stripe</entry>
         <entry>image</entry>
         <entry>image_cache</entry>
+        <entry>manife</entry>
+        <entry>lookup</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
