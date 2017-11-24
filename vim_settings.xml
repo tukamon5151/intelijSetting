@@ -16,7 +16,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/uploaders/image_uploader.rb" timestamp="1511530216659" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/uploaders/image_uploader.rb" timestamp="1511532012518" />
       <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/controllers/application_controller.rb" timestamp="1511531024244" />
       <file name="$USER_HOME$/Project/Rails/draft/config/routes.rb" timestamp="1508415207806">
         <mark key="[" line="3" column="2" />
@@ -24,11 +24,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/models/article.rb" timestamp="1511531187332">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="4" column="49" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/models/article.rb" timestamp="1511532228117">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/packs/article_editor.jsx" timestamp="1508418975108">
         <mark key="[" line="23" column="30" />
@@ -81,20 +81,20 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/Gemfile" timestamp="1511529833435">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="16" />
-        <mark key="." line="30" column="16" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/Gemfile" timestamp="1511531965618">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/node_modules/glob/glob.js" timestamp="1510223027406">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/controllers/articles_controller.rb" timestamp="1511531075333">
-        <mark key="[" line="4" column="5" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/controllers/articles_controller.rb" timestamp="1511532437727">
+        <mark key="[" line="7" column="40" />
         <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/views/articles/new.html.erb" timestamp="1508418559464">
         <mark key="[" line="0" column="64" />
@@ -102,17 +102,31 @@
         <mark key="." line="0" column="64" />
         <mark key="^" line="0" column="64" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/javascript/packs/hello_react.jsx" timestamp="1511535022754">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+      </file>
       <file name="$USER_HOME$/Project/Iroha/dance/app/views/layouts/application.html.erb" timestamp="1503809434407">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="83" />
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/db/seeds.rb" timestamp="1511530551988">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="65" />
-        <mark key="^" line="11" column="65" />
-        <mark key="." line="11" column="65" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/db/seeds.rb" timestamp="1511534645577">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/assets/stylesheets/article.scss" timestamp="1511534928696">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/ArticleEditor.js" timestamp="1508421548050">
         <mark key="[" line="23" column="64" />
@@ -120,22 +134,30 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124140043_create_articles.rb" timestamp="1511532117883">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/controllers/articles_controller.rb" timestamp="1508421778129">
         <mark key="[" line="20" column="65" />
         <mark key="]" line="20" column="79" />
         <mark key="." line="20" column="79" />
         <mark key="^" line="20" column="79" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/views/index/index.html.erb" timestamp="1511531338319">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/views/index/index.html.erb" timestamp="1511532632314">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/draft_on_rails/config/routes.rb" timestamp="1511531259753">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/config/routes.rb" timestamp="1511532506683">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -198,46 +220,51 @@
       <jump line="2" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/instance.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/manifest.rb" />
       <jump line="2" column="29" filename="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124132715_create_articles.rb" />
+      <jump line="7" column="29" filename="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124140043_create_articles.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124140043_create_articles.rb" />
+      <jump line="0" column="21" filename="$USER_HOME$/Project/Rails/draft_on_rails/app/models/article.rb" />
+      <jump line="21" column="25" filename="$USER_HOME$/Project/Rails/draft_on_rails/app/javascript/packs/hello_react.jsx" />
+      <jump line="21" column="2" filename="$USER_HOME$/Project/Rails/draft_on_rails/app/assets/stylesheets/article.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text>5px</text>
       </register>
       <register name="/" type="4">
         <text>lookup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1dHMgJ2doZW9naG9laGdvZScK</text>
+        <text encoding="base64">QXJ0aWNsZS5maW5kX29yX2NyZWF0ZSEoCiAgICB0aXRsZTogJ0hlbGxvIFdvcmxkJywKICAgIHN1bW1hcnk6ICdIZWxsbyB3b3JsZO+8iOODj+ODreODvOODu+ODr+ODvOODq+ODie+8ieOBr+OAgeeUu+mdouOBq+OAjEhlbGxvIHdvcmxk44CN44Gr6aGe44GZ44KL5paH5a2X5YiX44KS6KGo56S644GZ44KL44OX44Ot44Kw44Op44Og44Gu6YCa56ew44Gn44GC44KL44CCIOOBl+OBsOOBl+OBsOODl+ODreOCsOODqeODn+ODs+OCsOiogOiqnuOBruWFpemWgOabuOOBp+OAgeOBneOBruiogOiqnuOBruacgOWIneOBruino+iqrOS+i+OBqOOBl+OBpuaPkOekuuOBleOCjOOCi+OAgicsCiAgICB0aHVtYm5haWw6IG9wZW4oUmFpbHMucm9vdC5qb2luKCdwdWJsaWMnLCAnaW1hZ2VzJywgJ2hlbGxvLnBuZycpKQopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBnZXQgJ2luZGV4L2luZGV4Jwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzY29wZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMzAwcHg7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImFydGljbGVfX3RodW1ibmFpbCI+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIEZvciBkZXRhaWxzIG9uIHRoZSBEU0wgYXZhaWxhYmxlIHdpdGhpbiB0aGlzIGZpbGUsIHNlZSBodHRwOi8vZ3VpZGVzLnJ1YnlvbnJhaWxzLm9yZy9yb3V0aW5nLmh0bWwK</text>
+        <text encoding="base64">QQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
