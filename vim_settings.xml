@@ -16,6 +16,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/hello/hello.jsx" timestamp="1512873303882" />
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/application_controller.rb" timestamp="1512871504476">
         <mark key="'" line="15" column="11" />
       </file>
@@ -121,6 +122,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/common.js" timestamp="1512873211887">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/assets/stylesheets/article.scss" timestamp="1511534928696">
         <mark key="'" line="23" column="2" />
         <mark key="[" line="1" column="12" />
@@ -158,6 +164,17 @@
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/app/views/administer/accounts_has_facilities/edit.html.erb" timestamp="1512873255757">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/facility_authority_management_page.jsx" timestamp="1512873147093">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -229,10 +246,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGRpdiBpZD0iaGVsbG8iPjwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>5px</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>lookup</text>
@@ -241,31 +258,31 @@
         <text encoding="base64">QXJ0aWNsZS5maW5kX29yX2NyZWF0ZSEoCiAgICB0aXRsZTogJ0hlbGxvIFdvcmxkJywKICAgIHN1bW1hcnk6ICdIZWxsbyB3b3JsZO+8iOODj+ODreODvOODu+ODr+ODvOODq+ODie+8ieOBr+OAgeeUu+mdouOBq+OAjEhlbGxvIHdvcmxk44CN44Gr6aGe44GZ44KL5paH5a2X5YiX44KS6KGo56S644GZ44KL44OX44Ot44Kw44Op44Og44Gu6YCa56ew44Gn44GC44KL44CCIOOBl+OBsOOBl+OBsOODl+ODreOCsOODqeODn+ODs+OCsOiogOiqnuOBruWFpemWgOabuOOBp+OAgeOBneOBruiogOiqnuOBruacgOWIneOBruino+iqrOS+i+OBqOOBl+OBpuaPkOekuuOBleOCjOOCi+OAgicsCiAgICB0aHVtYm5haWw6IG9wZW4oUmFpbHMucm9vdC5qb2luKCdwdWJsaWMnLCAnaW1hZ2VzJywgJ2hlbGxvLnBuZycpKQopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGRpdiBpZD0iaGVsbG8iPjwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aDogMzAwcHg7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogMzAwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImFydGljbGVfX3RodW1ibmFpbCI+Cg==</text>
+        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QQo=</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
