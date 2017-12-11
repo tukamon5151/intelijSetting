@@ -26,11 +26,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/administer/accounts_has_facilities_controller.rb" timestamp="1512887992670">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/administer/accounts_has_facilities_controller.rb" timestamp="1512992590546">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/models/article.rb" timestamp="1511532228117">
         <mark key="'" line="0" column="21" />
@@ -137,11 +137,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityManagementForm.jsx" timestamp="1512989275503">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="23" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityManagementForm.jsx" timestamp="1512992826148">
+        <mark key="[" line="106" column="35" />
+        <mark key="]" line="106" column="40" />
+        <mark key="." line="106" column="40" />
+        <mark key="^" line="106" column="40" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/common.js" timestamp="1512873211887">
         <mark key="[" line="5" column="0" />
@@ -273,11 +273,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/models/recent_facility.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>datwa</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text>datwa</text>
       </register>
       <register name="/" type="4">
         <text>lookup</text>
@@ -286,16 +286,16 @@
         <text encoding="base64">Y2xhc3MgUmVjZW50RmFjaWxpdHkgPCBSdXNvbjo6QmFzZQogIGRlbGVnYXRlIDp0b19zLCB0bzogOnRvX2gKCiAgZGVmIGluaXRpYWxpemUoanNvbiwgb3B0aW9ucyA9IHt9KQogICAgc3VwZXIganNvbiwgb3B0aW9ucwogICAgc2VsZi5hY2Nlc3NlZF9hdCA9IFRpbWUuem9uZS5wYXJzZSBhY2Nlc3NlZF9hdAogIGVuZAoKICBkZWYgZmllbGRzCiAgICBmaWVsZCA6aWQKICAgIGZpZWxkIDp0eXBlCiAgICBmaWVsZCA6YWNjZXNzZWRfYXQKICBlbmQKCiAgZGVmIHRvX2gKICAgIHsKICAgICAgaWQ6ICAgICAgICAgIGlkLAogICAgICB0eXBlOiAgICAgICAgdHlwZSwKICAgICAgYWNjZXNzZWRfYXQ6IGFjY2Vzc2VkX2F0CiAgICB9CiAgZW5kCgogIGRlZiA8PT4ob3RoZXIpCiAgICBvdGhlci5hY2Nlc3NlZF9hdCA8PT4gYWNjZXNzZWRfYXQKICBlbmQKZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -304,13 +304,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWxlZ2F0ZSA6aWQsIHRvOiA6YWNjb3VudF9oYXNfZmFjaWxpdHkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
