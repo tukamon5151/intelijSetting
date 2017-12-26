@@ -16,6 +16,9 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1514254591721">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/config/routes.rb" timestamp="1508415207806">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="10" />
