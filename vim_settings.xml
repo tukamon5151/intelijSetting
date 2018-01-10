@@ -6,12 +6,11 @@
       <file name="/a.dummy" timestamp="1514254591721">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchBox.jsx" timestamp="1515590391382">
-        <mark key="'" line="38" column="8" />
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
-        <mark key="^" line="64" column="26" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchBox.jsx" timestamp="1515592617608">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/components/_prefectures.html.erb" timestamp="1515587067194">
         <mark key="'" line="0" column="5" />
@@ -101,11 +100,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchButton.jsx" timestamp="1515589312766">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-        <mark key="^" line="5" column="6" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchButton.jsx" timestamp="1515591407145">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/ArticleEditor.js" timestamp="1508421548050">
         <mark key="[" line="23" column="64" />
@@ -343,43 +342,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaXNTZWxlY3RBcmVhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXJlYS1zZWxlY3RfX2J1dHRvbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICByaWdodDogIjAiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaXNTZWxlY3RBcmVhKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIOKGkAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGhyZWY9Ii8xIj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxBcmVhU2VhcmNoQnV0dG9uIG9uQ2xpY2s9e18gPT4gdGhpcy5jbGlja0FyZWEoYXJlYSl9PgogICAgICAgICAgICB7YXJlYX0KICAgICAgICAgIDwvQXJlYVNlYXJjaEJ1dHRvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiAibm9uZSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdpZHRoID0gd2luZG93LnBhcmVudC5zY3JlZW4ud2lkdGg7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuc2VsZWN0ZWRBcmVhID09PSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJCYWNrQnV0dG9uKCl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
