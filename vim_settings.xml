@@ -15,11 +15,18 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/ikou_show.html.erb" timestamp="1515760991647">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/ikou_show.html.erb" timestamp="1515852838102">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" timestamp="1515852599345">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="61" column="1" />
+        <mark key="." line="61" column="1" />
+        <mark key="^" line="61" column="1" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/layouts/administer_and_biz.html.erb" timestamp="1515760180809">
         <mark key="[" line="9" column="58" />
@@ -58,6 +65,13 @@
         <mark key="^" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/search_facility_page.jsx" timestamp="1515586839093">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/layouts/application.html.erb" timestamp="1515759086776">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -69,11 +83,23 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/ikou-destination.scss" timestamp="1515846621288">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="14" />
+        <mark key="." line="67" column="14" />
+        <mark key="^" line="67" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/.eslintignore" timestamp="1513942629923">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="39" />
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/age-rate.scss" timestamp="1515851372661">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/db/migrate/20171019135452_add_column_content_html.rb" timestamp="1508421432698">
         <mark key="[" line="2" column="23" />
@@ -89,6 +115,11 @@
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityPage.jsx" timestamp="1515760474081">
         <mark key="'" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/article-list.scss" timestamp="1515850233996">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/manifest.rb" timestamp="1510223697881">
         <mark key="'" line="11" column="0" />
@@ -138,6 +169,18 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/pie.scss" timestamp="1515852793164">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" timestamp="1515852769597">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="51" />
+        <mark key="^" line="32" column="51" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/ArticleEditor.js" timestamp="1508421548050">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="64" />
@@ -149,6 +192,13 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124140043_create_articles.rb" timestamp="1511532117883">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" timestamp="1515762691289">
         <mark key="[" line="13" column="43" />
@@ -162,6 +212,13 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124132715_create_articles.rb" timestamp="1511530071783">
+        <mark key="'" line="2" column="29" />
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/google_map.js" timestamp="1515759775904" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/facility_show_page.js" timestamp="1515761344530">
         <mark key="[" line="22" column="0" />
@@ -174,6 +231,13 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/Gemfile" timestamp="1513945707188">
+        <mark key="'" line="72" column="3" />
+        <mark key="[" line="99" column="13" />
+        <mark key="]" line="99" column="17" />
+        <mark key="." line="99" column="17" />
+        <mark key="^" line="99" column="17" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/area/top.html.erb" timestamp="1515586924711">
         <mark key="[" line="16" column="0" />
@@ -209,6 +273,12 @@
       <file name="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/instance.rb" timestamp="1510223688924">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513500975630">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -243,6 +313,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/javascript/packs/hello_react.jsx" timestamp="1511535022754">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1515760874134">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -260,6 +337,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/assets/stylesheets/article.scss" timestamp="1511534928696">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/controllers/articles_controller.rb" timestamp="1508421778129">
         <mark key="[" line="20" column="65" />
@@ -285,6 +369,13 @@
         <mark key="^" line="0" column="113" />
         <mark key="." line="0" column="113" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_ikou_destination.html.erb" timestamp="1515847301566">
+        <mark key="'" line="7" column="87" />
+        <mark key="[" line="0" column="96" />
+        <mark key="]" line="0" column="95" />
+        <mark key="." line="0" column="95" />
+        <mark key="^" line="0" column="95" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/facility_authority_management_page.jsx" timestamp="1512885855363">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -293,13 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="7" filename="$USER_HOME$/Project/Iroha/dance/app/controllers/movies_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/Iroha/dance/app/controllers/movies_controller.rb" />
-      <jump line="14" column="4" filename="$USER_HOME$/Project/Iroha/dance/app/controllers/movies_controller.rb" />
-      <jump line="11" column="4" filename="$USER_HOME$/Project/Iroha/dance/app/controllers/movies_controller.rb" />
-      <jump line="21" column="60" filename="$USER_HOME$/Project/Iroha/dance/app/controllers/movies_controller.rb" />
-      <jump line="1" column="10" filename="$USER_HOME$/Project/Iroha/dance/app/controllers/musics_controller.rb" />
-      <jump line="96" column="0" filename="$USER_HOME$/Project/React/tofino/app/ui/content/views/history/index.jsx" />
       <jump line="117" column="24" filename="$USER_HOME$/Project/React/tofino/app/ui/browser-modern/views/browser/tabbar/tab-contents.jsx" />
       <jump line="46" column="22" filename="$USER_HOME$/Project/React/tofino/app/ui/browser-modern/views/browser/tabbar/tab-contents.jsx" />
       <jump line="49" column="6" filename="$USER_HOME$/Project/React/tofino/app/ui/browser-modern/views/browser/tabbar/tab-contents.jsx" />
@@ -392,46 +476,54 @@
       <jump line="4" column="7" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityPage.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/ikou_show.html.erb" />
       <jump line="120" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/ikou_show.html.erb" />
+      <jump line="4" column="3" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_ikou_destination.html.erb" />
+      <jump line="7" column="87" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_ikou_destination.html.erb" />
+      <jump line="2" column="66" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" />
+      <jump line="3" column="1" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" />
+      <jump line="15" column="4" filename="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" />
+      <jump line="55" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" />
+      <jump line="5" column="2" filename="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIDxociBjbGFzcz0iZmFjaWxpdHktbWluaW11bS1pbmZvLWxpbmUiPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>rott</text>
+        <text>teen_count</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9qYXZhc2NyaXB0cy91c2VyL2ZhY2lsaXR5X3Nob3dfcGFnZSc7Cg==</text>
+        <text encoding="base64">ICAgIDxociBjbGFzcz0iZmFjaWxpdHktbWluaW11bS1pbmZvLWxpbmUiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIHRlZW5fcmF0ZV9mcm9tX21heAogICAgdGVlbl9jb3VudCAvIG1heF9nZW5lcmF0aW9uX2NvdW50LnRvX2YKICBlbmQKCiAgZGVmIHR3ZW50aWVzX3JhdGVfZnJvbV9tYXgKICAgIHR3ZW50aWVzX2NvdW50IC8gbWF4X2dlbmVyYXRpb25fY291bnQudG9fZgogIGVuZAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoc2Nyb2xsVG9wQnV0dG9uKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9qYXZhc2NyaXB0cy91c2VyL2ZhY2lsaXR5X3Nob3dfcGFnZSc7CmltcG9ydCAnLi4vamF2YXNjcmlwdHMvdXNlci90b3Bfc2Nyb2xsX2J1dHRvbic7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkZWYgbWF4X2dlbmVyYXRpb25fY291bnQKICAgIEBtYXhfZ2VuZXJhdGlvbl9jb3VudCB8fD0gWwogICAgICB0ZWVuX2NvdW50LCB0d2VudGllc19jb3VudCwgdGhpcnRpZXNfY291bnQsIGZvdXJ0aWVzX2NvdW50LCBmaWZ0aWVzX2NvdW50LCBvdmVyX3NpeHRpZXNfY291bnQKICAgIF0ubWF4CiAgZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxTbGlkZTogMCwK</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCUgY29udGVudF9mb3IgOmphdmFzY3JpcHQgZG8gJT4KICA8JT0gamF2YXNjcmlwdF93ZWJwYWNrX3RhZygnZmFjaWxpdHlfc2hvd19wYWdlJywgJ2RhdGEtdHVyYm9saW5rcy10cmFjayc6ICdyZWxvYWQnKSAlPgo8JSBlbmQgJT4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhZ2UtcmF0ZV9fYmFyIiBzdHlsZT0iaGVpZ2h0OiA0MCUiPjwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCU9IGphdmFzY3JpcHRfd2VicGFja190YWcgJ2ZhY2lsaXR5X2F1dGhvcml0eV9wYWdlJyAlPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
