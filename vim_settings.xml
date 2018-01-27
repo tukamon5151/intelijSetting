@@ -128,16 +128,22 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/UploadingFacilityImage.jsx" timestamp="1517062559634">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+        <mark key="^" line="10" column="63" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/config/routes.rb" timestamp="1508415207806">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/accounts-table.scss" timestamp="1516593818040">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/accounts-table.scss" timestamp="1517061504374">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/controllers/ArticlesController.rb" timestamp="1511531002277">
         <mark key="[" line="1" column="11" />
@@ -196,6 +202,12 @@
         <mark key="." line="7" column="107" />
         <mark key="^" line="7" column="107" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/traffic-value.scss" timestamp="1517061587342">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/user.js" timestamp="1516594646436">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="44" />
@@ -211,6 +223,12 @@
         <mark key="]" line="8" column="44" />
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/uploading-image.scss" timestamp="1517063444836">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/administer/accounts_has_facilities/edit.html.erb" timestamp="1512885183497">
         <mark key="[" line="0" column="113" />
@@ -363,10 +381,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" timestamp="1516600147280">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" timestamp="1517063625238">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="127" column="113" />
+        <mark key="]" line="127" column="93" />
+        <mark key="." line="127" column="93" />
+        <mark key="^" line="127" column="93" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
         <mark key="[" line="6" column="0" />
@@ -451,10 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="2" filename="$USER_HOME$/Project/Iroha/dance/app/assets/javascripts/music_dropdownbutton.js" />
-      <jump line="60" column="22" filename="$USER_HOME$/Project/Iroha/dance/app/views/movies/show.html.erb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/Iroha/dance/app/views/movies/show.html.erb" />
-      <jump line="22" column="0" filename="$USER_HOME$/Project/Iroha/dance/app/views/movies/show.html.erb" />
       <jump line="4" column="6" filename="$USER_HOME$/Project/Iroha/dance/app/models/movie.rb" />
       <jump line="41" column="6" filename="$USER_HOME$/Project/Iroha/dance/app/admin/dancer.rb" />
       <jump line="35" column="6" filename="$USER_HOME$/Project/Iroha/dance/app/admin/movie.rb" />
@@ -551,46 +567,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/picture_stocks_controller.rb" />
       <jump line="14" column="24" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/Modal.jsx" />
       <jump line="42" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPointsPage.jsx" />
+      <jump line="53" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
+      <jump line="112" column="28" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
+      <jump line="107" column="39" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
+      <jump line="14" column="3" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>inear</text>
       </register>
       <register name="-" type="4">
-        <text>changePicture</text>
+        <text>inear</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRvcDogNDBweDsK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMzBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2hvdWxkQ2xvc2VPbk92ZXJsYXlDbGljawo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBpY3R1cmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFVwbG9hZGluZ0ZhY2lsaXR5SW1hZ2UKICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly9tdXNpY2EtbmV0LmpwL2FydGljbGVzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA3LzA1X1VOSVNPTi1TUVVBUkUtR0FSREVOLTYwMHgzODkuanBnIgogICAgICAgICAgICAgIHVwbG9hZGluZ1Byb2dyZXNzUmF0ZT17MC4zfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icGljdHVyZS1zdG9jay1zZWxlY3Rvcl9fcGljdHVyZS13cmFwcGVyIgogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaWx0ZXI6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGVQaWN0dXJlID0gKCkgPT4ge30K</text>
+        <text encoding="base64">ICB3aWR0aDogMjAlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJvdHRvbTogMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbAo=</text>
+        <text encoding="base64">ICAgIHRvcDogMDsKICAgIGJvdHRvbTogMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgYWZ0ZXJPcGVuRm4gPSBhcHBlYWxQb2ludElkID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoeyBzZWxlY3RQaWN0dXJlVGFyZ2V0QXBwZWFsUG9pbnRJZDogMSB9KQogIH07Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -654,6 +674,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
