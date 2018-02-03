@@ -56,13 +56,6 @@
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/biz/appeal_points_controller.rb" timestamp="1516596852437">
-        <mark key="'" line="1" column="47" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/controllers/articles_controller.rb" timestamp="1511532437727">
         <mark key="[" line="7" column="40" />
         <mark key="]" line="8" column="24" />
@@ -342,6 +335,12 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/biz-appeal-point-input.scss" timestamp="1517664705435">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" timestamp="1515762691289">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="42" />
@@ -434,13 +433,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/config/routes.rb" timestamp="1516596315295">
-        <mark key="'" line="98" column="6" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/controllers/articles_controller.rb" timestamp="1508421778129">
         <mark key="[" line="20" column="65" />
@@ -565,7 +557,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1c28K</text>
       </register>
       <register name="-" type="4">
         <text>inear</text>
@@ -577,31 +569,31 @@
         <text encoding="base64">ICAgIGhlaWdodDogMzBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1c28K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VG9wUGljdHVyZUZvcm1JdGVtLmRlZmF1bHRQcm9wcyA9IHsKICB0b3BQaWN0dXJlOiAK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">VG9wUGljdHVyZUZvcm1JdGVtLmRlZmF1bHRQcm9wcyA9IHsKICB0b3BQaWN0dXJlOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
