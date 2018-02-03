@@ -140,6 +140,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/TopPictureFormItem.jsx" timestamp="1517663486056">
+        <mark key="[" line="52" column="49" />
+        <mark key="]" line="52" column="37" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="37" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/accounts-table.scss" timestamp="1517061504374">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -191,6 +197,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/TopPicturesPage.jsx" timestamp="1517663503160">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="37" />
+        <mark key="^" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/facility_top_pictures.js" timestamp="1515935733972">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -207,10 +219,6 @@
         <mark key="]" line="4" column="44" />
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/biz/application_controller.rb" timestamp="1516596414306">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="18" column="6" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/picture_uploader.jsx" timestamp="1515896293099">
         <mark key="[" line="8" column="46" />
@@ -404,10 +412,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/biz/business_hours_controller.rb" timestamp="1516596697757">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="39" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1515760874134">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -458,7 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="6" filename="$USER_HOME$/Project/Iroha/dance/app/models/movie.rb" />
       <jump line="41" column="6" filename="$USER_HOME$/Project/Iroha/dance/app/admin/dancer.rb" />
       <jump line="35" column="6" filename="$USER_HOME$/Project/Iroha/dance/app/admin/movie.rb" />
       <jump line="21" column="15" filename="$USER_HOME$/Project/Iroha/dance/app/admin/movie.rb" />
@@ -558,10 +561,11 @@
       <jump line="112" column="28" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
       <jump line="107" column="39" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
       <jump line="14" column="3" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
+      <jump line="82" column="6" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/TopPictureFormItem.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>inear</text>
@@ -573,31 +577,31 @@
         <text encoding="base64">ICAgIGhlaWdodDogMzBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
+        <text encoding="base64">VG9wUGljdHVyZUZvcm1JdGVtLmRlZmF1bHRQcm9wcyA9IHsKICB0b3BQaWN0dXJlOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFVwbG9hZGluZ0ZhY2lsaXR5SW1hZ2UKICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly9tdXNpY2EtbmV0LmpwL2FydGljbGVzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA3LzA1X1VOSVNPTi1TUVVBUkUtR0FSREVOLTYwMHgzODkuanBnIgogICAgICAgICAgICAgIHVwbG9hZGluZ1Byb2dyZXNzUmF0ZT17MC4zfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icGljdHVyZS1zdG9jay1zZWxlY3Rvcl9fcGljdHVyZS13cmFwcGVyIgogICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWx0ZXI6Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjAlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
