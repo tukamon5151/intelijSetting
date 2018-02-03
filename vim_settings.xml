@@ -105,6 +105,12 @@
         <mark key="." line="32" column="51" />
         <mark key="^" line="32" column="51" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/InputCounter.jsx" timestamp="1517662496891">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/ArticleEditor.js" timestamp="1508421548050">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="64" />
@@ -195,12 +201,6 @@
         <mark key="]" line="7" column="107" />
         <mark key="." line="7" column="107" />
         <mark key="^" line="7" column="107" />
-      </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/traffic-value.scss" timestamp="1517061587342">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/user.js" timestamp="1516594646436">
         <mark key="[" line="4" column="0" />
@@ -374,12 +374,6 @@
         <mark key="]" line="8" column="36" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
-      </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" timestamp="1517114756033">
-        <mark key="'" line="14" column="3" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
         <mark key="[" line="6" column="0" />
@@ -567,7 +561,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>inear</text>
@@ -579,31 +573,31 @@
         <text encoding="base64">ICAgIGhlaWdodDogMzBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
+        <text encoding="base64">ICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvcGY7CiAgICBudWxsOwogICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFVwbG9hZGluZ0ZhY2lsaXR5SW1hZ2UKICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly9tdXNpY2EtbmV0LmpwL2FydGljbGVzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA3LzA1X1VOSVNPTi1TUVVBUkUtR0FSREVOLTYwMHgzODkuanBnIgogICAgICAgICAgICAgIHVwbG9hZGluZ1Byb2dyZXNzUmF0ZT17MC4zfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icGljdHVyZS1zdG9jay1zZWxlY3Rvcl9fcGljdHVyZS13cmFwcGVyIgogICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFVwbG9hZGluZ0ZhY2lsaXR5SW1hZ2UKICAgICAgICAgICAgICBzcmM9Imh0dHA6Ly9tdXNpY2EtbmV0LmpwL2FydGljbGVzL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA3LzA1X1VOSVNPTi1TUVVBUkUtR0FSREVOLTYwMHgzODkuanBnIgogICAgICAgICAgICAgIHVwbG9hZGluZ1Byb2dyZXNzUmF0ZT17MC4zfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0icGljdHVyZS1zdG9jay1zZWxlY3Rvcl9fcGljdHVyZS13cmFwcGVyIgogICAgICAgICAgICAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaWx0ZXI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjAlOwo=</text>
+        <text encoding="base64">ICBmaWx0ZXI6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvdHRvbTogMDsK</text>
+        <text encoding="base64">ICB3aWR0aDogMjAlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
