@@ -244,6 +244,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/package.json" timestamp="1519631263846">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/config/routes.rb" timestamp="1508415207806">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="10" />
@@ -559,7 +564,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4zLjcuMSIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>search_api_v1_administer_facility_path</text>
@@ -571,31 +576,31 @@
         <text encoding="base64">ICAgICAgICAgIGZhY2lsaXR5ID0gRmFjaWxpdHkuZmluZF9ieShpZDogcGFyYW1zWzppZF0pCiAgICAgICAgICBpZiBmYWNpbGl0eQogICAgICAgICAgICByZW5kZXIganNvbjogZmFjaWxpdHkudG9fanNvbihvbmx5OiAlaVtpZCBuYW1lIGFkZHJlc3MgdHlwZV0pCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHJlbmRlciBqc29uOiB7IGVycm9yczogWyfmlr3oqK3jgYzjgb/jgaTjgYvjgorjgb7jgZvjgpPjgafjgZfjgZ/jgIInXSB9LCBzdGF0dXM6IDQwNAogICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4zLjcuMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjQuOS4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICJjb21wcmVzc2lvbi13ZWJwYWNrLXBsdWdpbiI6ICJeMS4wLjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICJjb21wcmVzc2lvbi13ZWJwYWNrLXBsdWdpbiI6ICJeMS4wLjEiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiXjguMC4zIiwKICAgICJiYWJlbC1sb2FkZXIiOiAiXjcuMS4yIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4zLjcuMSIsCiAgICAid2VicGFjay1kZXYtc2VydmVyIjogIl4yLjkuMiIsCiAgICAid2VicGFjay1tYW5pZmVzdC1wbHVnaW4iOiAiXjEuMy4yIiwKICAgICJ3ZWJwYWNrLW1lcmdlIjogIl40LjEuMCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgb25DaGFuZ2VGYWNpbGl0eUlkID0gZSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsgZmFjaWxpdHlJZDogZS50YXJnZXQudmFsdWUgfSk7CiAgfTsKCiAgb25DaGFuZ2VGYWNpbGl0eU5hbWUgPSBlID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoeyBmYWNpbGl0eU5hbWU6IGUudGFyZ2V0LnZhbHVlIH0pOwogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0ICdzZWFyY2gnLCBhY3Rpb246IDpzZWFyY2gsIGFzOiA6c2VhcmNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
