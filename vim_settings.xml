@@ -14,6 +14,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/WithPictureStockSelect.jsx" timestamp="1520821456206">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="39" />
+        <mark key="^" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" timestamp="1519738604982">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -202,6 +209,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelectorModal.jsx" timestamp="1520821440115">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" timestamp="1515852769597">
         <mark key="[" line="32" column="52" />
         <mark key="]" line="32" column="51" />
@@ -260,6 +272,11 @@
         <mark key="]" line="3" column="10" />
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/TopPictureFormItem.jsx" timestamp="1520820570658">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="120" column="33" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/accounts-table.scss" timestamp="1517061504374">
         <mark key="[" line="10" column="0" />
@@ -336,6 +353,9 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1520820524283">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPoint.jsx" timestamp="1516890527856">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="17" />
@@ -366,7 +386,13 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" timestamp="1520780914650" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" timestamp="1520821939007">
+        <mark key="'" line="77" column="31" />
+        <mark key="[" line="81" column="41" />
+        <mark key="]" line="81" column="19" />
+        <mark key="^" line="81" column="19" />
+        <mark key="." line="81" column="19" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/models/facility_authority.rb" timestamp="1512988822853">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="18" column="0" />
@@ -468,14 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="15" filename="$USER_HOME$/Project/Iroha/dance/app/admin/movie.rb" />
-      <jump line="2" column="46" filename="$USER_HOME$/Project/Iroha/dance/app/admin/movie.rb" />
-      <jump line="6" column="38" filename="$USER_HOME$/Project/Rails/draft/app/assets/javascripts/ArticleEditor.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Project/Rails/draft/app/assets/javascripts/ArticleEditor.js" />
-      <jump line="15" column="6" filename="$USER_HOME$/Project/Rails/draft/app/assets/javascripts/ArticleEditor.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/draft/app/assets/javascripts/ArticleEditor.js" />
-      <jump line="6" column="33" filename="$USER_HOME$/Project/Rails/draft/app/javascript/packs/hello_react.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/draft/app/javascript/packs/hello_react.jsx" />
       <jump line="42" column="0" filename="$USER_HOME$/Project/Rails/draft/node_modules/glob/glob.js" />
       <jump line="2" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/instance.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/webpacker-3.0.2/lib/webpacker/manifest.rb" />
@@ -568,46 +586,54 @@
       <jump line="34" column="7" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilitySearchBox.jsx" />
       <jump line="47" column="32" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilitySearchBox.jsx" />
       <jump line="43" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilitySearchBox.jsx" />
+      <jump line="4" column="34" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/TopPictureFormItem.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/TopPictureFormItem.jsx" />
+      <jump line="31" column="16" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/WithPictureStockSelect.jsx" />
+      <jump line="1" column="34" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/WithPictureStockSelect.jsx" />
+      <jump line="63" column="11" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" />
+      <jump line="143" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" />
+      <jump line="114" column="1" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" />
+      <jump line="77" column="31" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgY29tbWFfc3BsaXRfc3RhdGlvbnMKICAgIHN0YXRpb25zLnRyeSg6c3BsaXQsICcsJykgfHwgW10K</text>
+      <register name="&quot;" type="4">
+        <text>openModal</text>
       </register>
       <register name="-" type="4">
-        <text>search_api_v1_administer_facility_path</text>
+        <text>openModal</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZhY2lsaXR5ID0gRmFjaWxpdHkuZmluZF9ieShpZDogcGFyYW1zWzppZF0pCiAgICAgICAgICBpZiBmYWNpbGl0eQogICAgICAgICAgICByZW5kZXIganNvbjogZmFjaWxpdHkudG9fanNvbihvbmx5OiAlaVtpZCBuYW1lIGFkZHJlc3MgdHlwZV0pCiAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHJlbmRlciBqc29uOiB7IGVycm9yczogWyfmlr3oqK3jgYzjgb/jgaTjgYvjgorjgb7jgZvjgpPjgafjgZfjgZ/jgIInXSB9LCBzdGF0dXM6IDQwNAogICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBpbnB1dEZpZWxkTmFtZSA9IG5hbWUgPT4gYGZhY2lsaXR5W3N0YWZmX2ludHJvZHVjdGlvbnNfYXR0cmlidXRlc1ske3RoaXMucHJvcHMuaW5kZXh9XVske25hbWV9XV1gOwoKICByZW5kZXJQaWN0dXJlID0gKCkgPT4gewogICAgaWYgKHRoaXMuc3RhdGUucGljdHVyZVVybCkgewogICAgICByZXR1cm4gKAogICAgICAgIDxGYWNpbGl0eUltYWdlIHNyYz17dGhpcy5zdGF0ZS5waWN0dXJlVXJsfSBhbHQ9IiIgLz4KICAgICAgKTsKICAgIH0KCiAgICByZXR1cm4gKAogICAgICA8Tm9JbWFnZSAvPgogICAgKTsKICB9OwoKICByZW5kZXJFcnJvciA9ICgpID0+IHsKICAgIGNvbnN0IHsgc3RhZmZJbnRyb2R1Y3Rpb24gfSA9IHRoaXMucHJvcHM7CiAgICBpZiAoXy5pc0VtcHR5KHN0YWZmSW50cm9kdWN0aW9uLmZ1bGxfZXJyb3JfbWVzc2FnZXMpKSByZXR1cm4gbnVsbDsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaXotc3RhZmYtaW50cm9kdWN0aW9uLWlucHV0X19lcnJvciI+CiAgICAgICAgPEVycm9yTWVzc2FnZSBlcnJvcnM9e3N0YWZmSW50cm9kdWN0aW9uLmZ1bGxfZXJyb3JfbWVzc2FnZXN9IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgY29tbWFfc3BsaXRfc3RhdGlvbnMKICAgIHN0YXRpb25zLnRyeSg6c3BsaXQsICcsJykgfHwgW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFBpY3R1cmVTdG9ja1NlbGVjdG9yTW9kYWwKICAgICAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUubW9kYWxJc09wZW59CiAgICAgICAgICAgICAgb25SZXF1ZXN0Q2xvc2U9e3RoaXMuY2xvc2VNb2RhbH0KICAgICAgICAgICAgICBmYWNpbGl0eUlkPXtmYWNpbGl0eUlkfQogICAgICAgICAgICAgIG9uUGljdHVyZVN0b2NrU2VsZWN0b3JTdWJtaXQ9ewogICAgICAgICAgICAgICAgcGljdHVyZSA9PiB0aGlzLm9uUGljdHVyZVN0b2NrU2VsZWN0b3JTdWJtaXQocGljdHVyZSwgZm9ybUFwaSkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4zLjcuMSIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhZmZJbnRyb2R1Y3Rpb24gfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlc2xpbnQiOiAiXjQuOS4wIiwK</text>
+        <text encoding="base64">Y2xhc3MgU3RhZmZJbnRyb2R1Y3Rpb25Gb3JtSXRlbSBleHRlbmRzIENvbXBvbmVudCB7CiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKICAgIHRoaXMuc3RhdGUgPSB7IG1vZGFsSXNPcGVuOiBmYWxzZSwgcGljdHVyZVVybDogdGhpcy5wcm9wcy5zdGFmZkludHJvZHVjdGlvbi5waWN0dXJlX3VybCB9OwogIH0KCiAgb25QaWN0dXJlU3RvY2tTZWxlY3RvclN1Ym1pdCA9IChwaWN0dXJlLCBmb3JtQXBpKSA9PiB7CiAgICBmb3JtQXBpLnNldFZhbHVlKCdwaWN0dXJlX3N0b2NrX2lkJywgcGljdHVyZS5pZCk7CiAgICB0aGlzLnNldFN0YXRlKHsgcGljdHVyZVVybDogcGljdHVyZS5waWN0dXJlX3VybCB9KTsKICAgIHRoaXMuY2xvc2VNb2RhbCgpOwogIH07CgogIGNsb3NlTW9kYWwgPSAoKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsgbW9kYWxJc09wZW46IGZhbHNlIH0pOwogIH07CgogIGNsZWFyUGljdHVyZSA9IChlLCBmb3JtQXBpKSA9PiB7CiAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICBmb3JtQXBpLnNldFZhbHVlKCdwaWN0dXJlX3N0b2NrX2lkJywgJycpOwogICAgdGhpcy5zZXRTdGF0ZSh7IHBpY3R1cmVVcmw6ICcnIH0pOwogIH07CgogIG9wZW5Nb2RhbCA9ICgpID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoeyBtb2RhbElzT3BlbjogdHJ1ZSB9KTsKICB9OwoKICBpbnB1dEZpZWxkTmFtZSA9IG5hbWUgPT4gYGZhY2lsaXR5W3N0YWZmX2ludHJvZHVjdGlvbnNfYXR0cmlidXRlc1ske3RoaXMucHJvcHMuaW5kZXh9XVske25hbWV9XV1gOwoKICByZW5kZXJQaWN0dXJlID0gKCkgPT4gewogICAgaWYgKHRoaXMuc3RhdGUucGljdHVyZVVybCkgewogICAgICByZXR1cm4gKAogICAgICAgIDxGYWNpbGl0eUltYWdlIHNyYz17dGhpcy5zdGF0ZS5waWN0dXJlVXJsfSBhbHQ9IiIgLz4KICAgICAgKTsKICAgIH0KCiAgICByZXR1cm4gKAogICAgICA8Tm9JbWFnZSAvPgogICAgKTsKICB9OwoKICByZW5kZXJFcnJvciA9ICgpID0+IHsKICAgIGNvbnN0IHsgc3RhZmZJbnRyb2R1Y3Rpb24gfSA9IHRoaXMucHJvcHM7CiAgICBpZiAoXy5pc0VtcHR5KHN0YWZmSW50cm9kdWN0aW9uLmZ1bGxfZXJyb3JfbWVzc2FnZXMpKSByZXR1cm4gbnVsbDsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaXotc3RhZmYtaW50cm9kdWN0aW9uLWlucHV0X19lcnJvciI+CiAgICAgICAgPEVycm9yTWVzc2FnZSBlcnJvcnM9e3N0YWZmSW50cm9kdWN0aW9uLmZ1bGxfZXJyb3JfbWVzc2FnZXN9IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9OwoKICByZW5kZXIoKSB7CiAgICBjb25zdCB7IGluZGV4LCBmYWNpbGl0eUlkLCBzdGFmZkludHJvZHVjdGlvbiB9ID0gdGhpcy5wcm9wczsKICAgIHJldHVybiAoCiAgICAgIDxOZXN0ZWRGb3JtIGZpZWxkPXtbJ3N0YWZmX2ludHJvZHVjdGlvbicsIGluZGV4XX0ga2V5PXtgc3RhZmYtaW50cm9kdWN0aW9uLSR7aW5kZXh9YH0+CiAgICAgICAgPEZvcm0KICAgICAgICAgIGRlZmF1bHRWYWx1ZXM9e3sKICAgICAgICAgICAgaWQ6IHN0YWZmSW50cm9kdWN0aW9uLmlkLAogICAgICAgICAgICB0aXRsZTogc3RhZmZJbnRyb2R1Y3Rpb24udGl0bGUsCiAgICAgICAgICAgIGNvbnRlbnQ6IHN0YWZmSW50cm9kdWN0aW9uLmNvbnRlbnQsCiAgICAgICAgICAgIHBpY3R1cmVfc3RvY2tfaWQ6IHN0YWZmSW50cm9kdWN0aW9uLnBpY3R1cmVfc3RvY2tfaWQgfHwgJycsCiAgICAgICAgICB9fQogICAgICAgID4KICAgICAgICAgIHtmb3JtQXBpID0+ICgKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJpei1zdGFmZi1pbnRyb2R1Y3Rpb24taW5wdXQiPgogICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgdHlwZT0iaGlkZGVuIgogICAgICAgICAgICAgICAgbmFtZT17dGhpcy5pbnB1dEZpZWxkTmFtZSgnaWQnKX0KICAgICAgICAgICAgICAgIHZhbHVlPXtzdGFmZkludHJvZHVjdGlvbi5pZH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgdHlwZT0iaGlkZGVuIgogICAgICAgICAgICAgICAgbmFtZT17dGhpcy5pbnB1dEZpZWxkTmFtZSgncGljdHVyZV9zdG9ja19pZCcpfQogICAgICAgICAgICAgICAgdmFsdWU9e2Zvcm1BcGkudmFsdWVzLnBpY3R1cmVfc3RvY2tfaWR9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8UGljdHVyZVN0b2NrU2VsZWN0b3JNb2RhbAogICAgICAgICAgICAgICAgaXNPcGVuPXt0aGlzLnN0YXRlLm1vZGFsSXNPcGVufQogICAgICAgICAgICAgICAgb25SZXF1ZXN0Q2xvc2U9e3RoaXMuY2xvc2VNb2RhbH0KICAgICAgICAgICAgICAgIGZhY2lsaXR5SWQ9e2ZhY2lsaXR5SWR9CiAgICAgICAgICAgICAgICBvblBpY3R1cmVTdG9ja1NlbGVjdG9yU3VibWl0PXsKICAgICAgICAgICAgICAgICAgcGljdHVyZSA9PiB0aGlzLm9uUGljdHVyZVN0b2NrU2VsZWN0b3JTdWJtaXQocGljdHVyZSwgZm9ybUFwaSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDxTZWNvbmRhcnlIZWFkZXIgdGV4dD17YOOCueOCv+ODg+ODlSR7aW5kZXh9YH0gLz4KICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJFcnJvcigpfQogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaXotc3RhZmYtaW50cm9kdWN0aW9uLWlucHV0X19mb3JtIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaXotc3RhZmYtaW50cm9kdWN0aW9uLWlucHV0X19mb3JtLWxhYmVsLWFyZWEiPgogICAgICAgICAgICAgICAgICA8Rm9ybUxhYmVsIHRleHQ9IuOCueOCv+ODg+ODleWQjSIgaXNSZXF1aXJlZCAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8VGV4dAogICAgICAgICAgICAgICAgICBmaWVsZD0idGl0bGUiCiAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLjgrnjgr/jg4Pjg5Xjga7msI/lkI3jgIHjg4vjg4Pjgq/jg43jg7zjg6DnrYnjgpLlhaXlipvjgZfjgabjgY/jgaDjgZXjgYQiCiAgICAgICAgICAgICAgICAgIG5hbWU9e3RoaXMuaW5wdXRGaWVsZE5hbWUoJ3RpdGxlJyl9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYml6LXN0YWZmLWludHJvZHVjdGlvbi1pbnB1dF9fdGl0bGUgdGV4dC1maWVsZCIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8Q2hhcmFjdGVyQ291bnQgY29udGVudD17Zm9ybUFwaS52YWx1ZXMudGl0bGV9IG1heENvbnRlbnRMZW5ndGg9ezIwfSAvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJpei1zdGFmZi1pbnRyb2R1Y3Rpb24taW5wdXRfX2JvZHkiPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYml6LXN0YWZmLWludHJvZHVjdGlvbi1pbnB1dF9faW1hZ2UtYXJlYSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJpei1zdGFmZi1pbnRyb2R1Y3Rpb24taW5wdXRfX2Zvcm0tbGFiZWwtYXJlYSI+CiAgICAgICAgICAgICAgICAgICAgICA8Rm9ybUxhYmVsIHRleHQ9IueUu+WDjyIgLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IG9uQ2xpY2s9e3RoaXMub3Blbk1vZGFsfT4KICAgICAgICAgICAgICAgICAgICAgIHt0aGlzLnJlbmRlclBpY3R1cmUoKX0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICB0aGlzLnN0YXRlLnBpY3R1cmVVcmwgJiYKICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17ZSA9PiB0aGlzLmNsZWFyUGljdHVyZShlLCBmb3JtQXBpKX0+44GT44Gu55S75YOP44KS6Kej6Zmk44GZ44KLPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJpei1zdGFmZi1pbnRyb2R1Y3Rpb24taW5wdXRfX2NvbnRlbnQtYXJlYSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJpei1zdGFmZi1pbnRyb2R1Y3Rpb24taW5wdXRfX2Zvcm0tbGFiZWwtYXJlYSI+CiAgICAgICAgICAgICAgICAgICAgICA8Rm9ybUxhYmVsIHRleHQ9Iue0ueS7iyIgaXNSZXF1aXJlZCAvPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiaXotc3RhZmYtaW50cm9kdWN0aW9uLWlucHV0X19jb250ZW50LXdyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgPFRleHRBcmVhCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkPSJjb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i44K544K/44OD44OV44Gu57S55LuL5paH44KS5YWl5Yqb44GX44Gm5LiL44GV44GEIgogICAgICAgICAgICAgICAgICAgICAgICBuYW1lPXt0aGlzLmlucHV0RmllbGROYW1lKCdjb250ZW50Jyl9CiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYml6LXN0YWZmLWludHJvZHVjdGlvbi1pbnB1dF9fY29udGVudCB0ZXh0LWFyZWEiCiAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICAgPENoYXJhY3RlckNvdW50IGNvbnRlbnQ9e2Zvcm1BcGkudmFsdWVzLmNvbnRlbnR9IG1heENvbnRlbnRMZW5ndGg9ezE1MH0gLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQogICAgICAgIDwvRm9ybT4KICAgICAgPC9OZXN0ZWRGb3JtPgogICAgKTsKICB9Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjb21wcmVzc2lvbi13ZWJwYWNrLXBsdWdpbiI6ICJeMS4wLjEiLAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjb21wcmVzc2lvbi13ZWJwYWNrLXBsdWdpbiI6ICJeMS4wLjEiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiXjguMC4zIiwKICAgICJiYWJlbC1sb2FkZXIiOiAiXjcuMS4yIiwK</text>
+        <text encoding="base64">aW1wb3J0IFBpY3R1cmVTdG9ja1NlbGVjdG9yTW9kYWwgZnJvbSAnLi9QaWN0dXJlU3RvY2tTZWxlY3Rvck1vZGFsJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4zLjcuMSIsCiAgICAid2VicGFjay1kZXYtc2VydmVyIjogIl4yLjkuMiIsCiAgICAid2VicGFjay1tYW5pZmVzdC1wbHVnaW4iOiAiXjEuMy4yIiwKICAgICJ3ZWJwYWNrLW1lcmdlIjogIl40LjEuMCIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxQaWN0dXJlU3RvY2tTZWxlY3Rvck1vZGFsIGlzT3Blbj17dGhpcy5zdGF0ZS5tb2RhbElzT3Blbn0KICAgICAgICAgICAgb25SZXF1ZXN0Q2xvc2U9e3RoaXMuY2xvc2VNb2RhbH0KICAgICAgICAgICAgZmFjaWxpdHlJZD17dGhpcy5wcm9wcy5mYWNpbGl0eUlkfQogICAgICAgICAgICBvblBpY3R1cmVTdG9ja1NlbGVjdG9yU3VibWl0PXsKICAgICAgICAgICAgICBwaWN0dXJlID0+IHRoaXMub25QaWN0dXJlU3RvY2tTZWxlY3RvclN1Ym1pdChwaWN0dXJlLCBmb3JtQXBpKQogICAgICAgICAgICB9CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYWNpbGl0eUlkPXtmYWNpbGl0eUlkfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey4uLm90aGVyfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
