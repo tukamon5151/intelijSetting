@@ -255,6 +255,10 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/Editor/resolveDecorators.js" timestamp="1522657938470" />
+      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/Editor/index.js" timestamp="1522658285739">
+        <mark key="'" line="310" column="23" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/picture-selector.scss" timestamp="1516616184491">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="19" />
@@ -480,7 +484,6 @@
       <file name="$USER_HOME$/Project/React/medium-draft/src/components/entities/link.js" timestamp="1522654465347" />
     </filemarks>
     <jumps>
-      <jump line="6" column="47" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityManagementForm.jsx" />
       <jump line="25" column="8" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityManagementForm.jsx" />
       <jump line="24" column="4" filename="$USER_HOME$/Project/Rails/snabi/app/models/recent_facility.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/models/recent_facility.rb" />
@@ -580,6 +583,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/entities/link.jsx" />
       <jump line="16" column="14" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/utils/create_editor_state.js" />
       <jump line="509" column="28" filename="$USER_HOME$/Project/React/medium-draft/src/example.js" />
+      <jump line="310" column="23" filename="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/Editor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
