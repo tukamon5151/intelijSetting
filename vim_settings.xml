@@ -206,6 +206,9 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/React/medium-draft/src/example.js" timestamp="1522629518525">
+        <mark key="'" line="353" column="25" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/picture_uploader.jsx" timestamp="1515896293099">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="44" />
@@ -442,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="29" filename="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124132715_create_articles.rb" />
       <jump line="7" column="29" filename="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124140043_create_articles.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/draft_on_rails/db/migrate/20171124140043_create_articles.rb" />
       <jump line="0" column="21" filename="$USER_HOME$/Project/Rails/draft_on_rails/app/models/article.rb" />
@@ -542,6 +544,7 @@
       <jump line="47" column="3" filename="$USER_HOME$/Project/React/medium-draft/src/index.js" />
       <jump line="166" column="8" filename="$USER_HOME$/Project/React/medium-draft/src/editor.js" />
       <jump line="87" column="6" filename="$USER_HOME$/Project/React/medium-draft/node_modules/draft-js/lib/DraftEditor.react.js.flow" />
+      <jump line="353" column="25" filename="$USER_HOME$/Project/React/medium-draft/src/example.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
