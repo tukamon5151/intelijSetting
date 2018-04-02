@@ -13,7 +13,7 @@
       <file name="$USER_HOME$/Project/React/medium-draft/node_modules/draft-js/lib/DraftEditor.react.js.flow" timestamp="1522587100275">
         <mark key="'" line="87" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-inline-toolbar-plugin/src/components/Toolbar/index.js" timestamp="1522666647176" />
+      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-inline-toolbar-plugin/src/components/Toolbar/index.js" timestamp="1522669730564" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/biz-page.js" timestamp="1515759708963">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="51" />
@@ -302,12 +302,12 @@
         <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/Editor/createCompositeDecorator.js" timestamp="1522657722797" />
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Editor.jsx" timestamp="1522655988886">
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Editor.jsx" timestamp="1522669787109">
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="10" column="53" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="48" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/appeal-point-edit.scss" timestamp="1516595073131">
         <mark key="[" line="25" column="17" />
@@ -387,7 +387,7 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/index.js" timestamp="1522657580866" />
+      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/index.js" timestamp="1522670104230" />
       <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1515760874134">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -588,7 +588,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUVkaXRvclN0YXRlIGZyb20gJy4vdXRpbHMvY3JlYXRlX2VkaXRvcl9zdGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvCg==</text>
       </register>
       <register name="-" type="4">
         <text>EditorState</text>
@@ -600,28 +600,28 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEhBTkRMRUQgPSAnaGFuZGxlZCc7CmV4cG9ydCBjb25zdCBOT1RfSEFORExFRCA9ICdub3RfaGFuZGxlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUVkaXRvclN0YXRlIGZyb20gJy4vdXRpbHMvY3JlYXRlX2VkaXRvcl9zdGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNyZWF0ZUVkaXRvclN0YXRlIGZyb20gJy4vdXRpbHMvY3JlYXRlX2VkaXRvcl9zdGF0ZSc7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZUVkaXRvclN0YXRlIGZyb20gJy4vdXRpbHMvY3JlYXRlX2VkaXRvcl9zdGF0ZSc7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY3JlYXRlRWRpdG9yU3RhdGU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY3JlYXRlRWRpdG9yU3RhdGU7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
