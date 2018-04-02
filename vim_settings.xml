@@ -24,13 +24,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/WithPictureStockSelect.jsx" timestamp="1520821456206">
-        <mark key="'" line="1" column="34" />
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="39" />
-        <mark key="^" line="41" column="39" />
-        <mark key="." line="41" column="39" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" timestamp="1519738604982">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -186,13 +179,6 @@
         <mark key="." line="85" column="57" />
         <mark key="^" line="85" column="57" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AccountAuthorityPage.jsx" timestamp="1519043218721">
-        <mark key="'" line="94" column="5" />
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="64" column="56" />
-        <mark key="^" line="64" column="56" />
-        <mark key="." line="64" column="56" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FileUploader.jsx" timestamp="1515931596023">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="42" />
@@ -310,6 +296,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/Editor/createCompositeDecorator.js" timestamp="1522657722797" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Editor.jsx" timestamp="1522655988886">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="5" column="0" />
@@ -395,13 +382,7 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/StaffIntroductionFormItem.jsx" timestamp="1520821939007">
-        <mark key="'" line="77" column="31" />
-        <mark key="[" line="81" column="41" />
-        <mark key="]" line="81" column="19" />
-        <mark key="^" line="81" column="19" />
-        <mark key="." line="81" column="19" />
-      </file>
+      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-plugins-editor/src/index.js" timestamp="1522657580866" />
       <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1515760874134">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
