@@ -151,10 +151,10 @@
         <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/admin.js" timestamp="1522636418704">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="10" column="47" />
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Constants.js" timestamp="1522653466171">
         <mark key="[" line="3" column="16" />
@@ -175,10 +175,7 @@
         <mark key="^" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/article_edit_page.jsx" timestamp="1522656020888">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="9" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Project/Iroha/dance/app/views/layouts/application.html.erb" timestamp="1503809434407">
         <mark key="[" line="21" column="0" />
@@ -235,9 +232,9 @@
         <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/editorial-department-article-form.scss" timestamp="1522652831722">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" timestamp="1515762691289">
         <mark key="[" line="13" column="43" />
@@ -291,10 +288,6 @@
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Editor.jsx" timestamp="1522674779670">
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="26" column="48" />
-        <mark key="." line="26" column="48" />
-        <mark key="^" line="26" column="48" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/appeal-point-edit.scss" timestamp="1516595073131">
         <mark key="[" line="25" column="17" />
@@ -326,6 +319,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/editorial_department/articles_controller.rb" timestamp="1529070868581" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
