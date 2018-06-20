@@ -117,6 +117,12 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/article-show-quotation.scss" timestamp="1529501594043">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/db/migrate/20171019135452_add_column_content_html.rb" timestamp="1508421432698">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
@@ -251,6 +257,12 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/customRenderer.jsx" timestamp="1529501065642">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/package.json" timestamp="1508415120947">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="17" />
@@ -301,6 +313,12 @@
         <mark key="]" line="20" column="51" />
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/utils/beforeInput.js" timestamp="1529501092072">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/biz/picture_stocks/index.html.erb" timestamp="1515897250676">
         <mark key="[" line="1" column="0" />
@@ -368,6 +386,7 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/lib/tasks/manuscript_htmlize.rake" timestamp="1529501168357" />
       <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1515760874134">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="1" />
@@ -412,6 +431,12 @@
         <mark key="]" line="8" column="44" />
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/BlockQuote.jsx" timestamp="1529502023074">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/uploading-image.scss" timestamp="1517063444836">
         <mark key="[" line="9" column="34" />
@@ -564,43 +589,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNvbnRlbnRFZGl0YWJsZT17ZmFsc2V9IGNsYXNzTmFtZT0iYXJ0aWNsZS1zaG93LXF1b3RhdGlvbl9fc291cmNlIj4KICAgICAgICAgIOW8leeUqCA6IOOBvuOBoOWPguiAg+WFpeWKm+OBleOCjOOBpuOBhOOBquOBhOOBp+OBmSEhCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXJ0aWNsZS1zaG93LXF1b3RhdGlvbl9fc291cmNlLWlucHV0Ij4KICAgICAgICAgICAgPGlucHV0IC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text>EditorState</text>
+        <text>参考</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEhBTkRMRUQgPSAnaGFuZGxlZCc7CmV4cG9ydCBjb25zdCBOT1RfSEFORExFRCA9ICdub3RfaGFuZGxlZCc7Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgQmxvY2suSDQ6IHJldHVybiB7CiAgICAgIGNvbXBvbmVudDogSGVhZGVyRm91ciwKICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNvbnRlbnRFZGl0YWJsZT17ZmFsc2V9IGNsYXNzTmFtZT0iYXJ0aWNsZS1zaG93LXF1b3RhdGlvbl9fc291cmNlIj4KICAgICAgICAgIOW8leeUqCA6IOOBvuOBoOWPguiAg+WFpeWKm+OBleOCjOOBpuOBhOOBquOBhOOBp+OBmSEhCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXJ0aWNsZS1zaG93LXF1b3RhdGlvbl9fc291cmNlLWlucHV0Ij4KICAgICAgICAgICAgPGlucHV0IC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUVkaXRvclN0YXRlIGZyb20gJy4vdXRpbHMvY3JlYXRlX2VkaXRvcl9zdGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUVkaXRvclN0YXRlIGZyb20gJy4vdXRpbHMvY3JlYXRlX2VkaXRvcl9zdGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICDlhaXlipsKICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvdHRvbTogMTAwJTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhcnRpY2xlLXNob3ctcXVvdGF0aW9uX19zb3VyY2UtaW5wdXQiPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIOWFpeWKmwogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGlucHV0IC8+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY3JlYXRlRWRpdG9yU3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgIHdpZG93czo7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
