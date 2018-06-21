@@ -169,6 +169,12 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Editor.jsx" timestamp="1529591482523">
+        <mark key="[" line="67" column="52" />
+        <mark key="]" line="67" column="61" />
+        <mark key="^" line="67" column="61" />
+        <mark key="." line="67" column="61" />
+      </file>
       <file name="$USER_HOME$/Project/React/medium-draft/src/model/index.js" timestamp="1529412439694" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/Blockquote.jsx" timestamp="1529589370246">
         <mark key="'" line="0" column="0" />
@@ -336,7 +342,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/medium-draft/src/editor.js" timestamp="1529586819723">
+      <file name="$USER_HOME$/Project/React/medium-draft/src/editor.js" timestamp="1529591722419">
         <mark key="'" line="166" column="8" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Constants.js" timestamp="1522653466171">
@@ -625,10 +631,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>ATOMIC</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ATOMIC</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
