@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/model/InquiryInput.js" timestamp="1531407284306">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/biz-page.js" timestamp="1515759708963">
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="51" />
@@ -395,6 +401,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="85" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/InquiryForm.jsx" timestamp="1531407393515">
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="28" />
+        <mark key="^" line="91" column="28" />
+        <mark key="." line="91" column="28" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/appeal-point-edit.scss" timestamp="1516595073131">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="26" column="19" />
@@ -499,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="2" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchBox.jsx" />
       <jump line="26" column="8" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchBox.jsx" />
       <jump line="14" column="2" filename="$USER_HOME$/Project/Rails/snabi/frontend/packs/common.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/packs/facility_authority_page.jsx" />
@@ -599,46 +610,47 @@
       <jump line="30" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/SnabiLinkInput.jsx" />
       <jump line="18" column="22" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/Blockquote.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/Blockquote.jsx" />
+      <jump line="18" column="30" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/model/InquiryInput.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB0ZXh0ID0gaGVhZGVyVHdvLnRleHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXBpX3YxX2FydGljbGVfcGF0aCBhcyBhcnRpY2xlUGF0aCB9IGZyb20gJy4uLy4uLy4uL2xpYi9yYWlscy1yb3V0ZXMnOwo=</text>
+        <text encoding="base64">ICAgICAgdGVsOiBuZXcgSW5wdXRNb2RlbCh7CiAgICAgICAgdmFsdWU6IHRlbCwKICAgICAgICBjb21wbGV0ZWQ6ICEhdGVsICYmIHZhbGlkYXRlLnRlbCh0ZWwpLAogICAgICAgIGNoZWNrVmFsaWRhdGU6IHZhbGlkYXRlLnRlbCwKICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCB0ZXh0ID0gaGVhZGVyVHdvLnRleHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICBpc0NvbXBsZXRlZCA9IChpbnB1dE5hbWUsIHZhbHVlKSA9PiB7CiAgICBjb25zdCBlcnJvciA9IHRoaXMuY2hlY2tWYWxpZGF0ZShpbnB1dE5hbWUsIHZhbHVlKTsKICAgIHJldHVybiAhIXZhbHVlICYmICFlcnJvcjsKICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJsb2NrTWFwLmZpcnN0KCkuZ2V0VGV4dCgpOwo=</text>
+        <text encoding="base64">CiAgY2hlY2tWYWxpZGF0ZSA9IChpbnB1dE5hbWUsIHZhbHVlKSA9PiB7CiAgICBzd2l0Y2ggKGlucHV0TmFtZSkgewogICAgICBjYXNlICduYW1lJzoKICAgICAgICBpZiAoIXZhbHVlKSByZXR1cm4gJ+WFpeWKm+W/hemgiOOBp+OBmSc7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgJ2h1cmlnYW5hJzoKICAgICAgICBpZiAoIXZhbHVlKSByZXR1cm4gJ+WFpeWKm+W/hemgiOOBp+OBmSc7CiAgICAgICAgaWYgKCF2YWxpZGF0b3IubWF0Y2hlcyh2YWx1ZSwgL15b44GBLeOCkyggfOOAgCldKyQvKSkgcmV0dXJuICfjgbLjgonjgYzjgarjgaflhaXlipvjgZfjgabkuIvjgZXjgYQnOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdlbWFpbCc6CiAgICAgICAgaWYgKCF2YWx1ZSkgcmV0dXJuICflhaXlipvlv4XpoIjjgafjgZknOwogICAgICAgIGlmICghdmFsaWRhdG9yLmlzRW1haWwodmFsdWUpKSByZXR1cm4gJ+acieWKueOBquODoeODvOODq+OCouODieODrOOCueOCkuWFpeWKm+OBl+OBpuS4i+OBleOBhCc7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgJ3RlbCc6CiAgICAgICAgaWYgKCF2YWx1ZSkgcmV0dXJuICflhaXlipvlv4XpoIjjgafjgZknOwogICAgICAgIGlmICghdmFsaWRhdG9yLm1hdGNoZXModmFsdWUucmVwbGFjZSgvXEQvZywgJycpLCAvXlxkezEwLDExfSQvKSkgcmV0dXJuICfmnInlirnjgarpm7voqbHnlarlj7fjgpLlhaXlipvjgZfjgabkuIvjgZXjgYQnOwogICAgICAgIGJyZWFrOwogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiAnJzsKICAgIH0KICAgIHJldHVybiAnJzsKICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJsb2NrTWFwLmZvckVhY2goYmxvY2sgPT4gY29uc29sZS5sb2coYmxvY2suZ2V0VGV4dCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuLi50aGlzLnN0YXRlW2lucHV0TmFtZV0sCiAgICAgICAgZXJyb3IsCiAgICAgICAgY29tcGxldGVkOiAsCiAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVycm9yID0gaW5wdXRPYmplY3QuY2hlY2tWYWxpZGF0ZSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuSGVhZGVyVHdvT3JkZXJNYXAoKS5zaXplKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gdGhpcy52YWx1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBibG9ja01hcDsK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1ZhbGlkYXRlOiB2YWxpZGF0ZS50ZWwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
