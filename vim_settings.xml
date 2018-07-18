@@ -51,6 +51,11 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityFinder.jsx" timestamp="1519039747048">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/.eslintignore" timestamp="1513942629923">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="39" />
@@ -136,6 +141,11 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/editorial-department-article-form.scss" timestamp="1522652831722">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/customRenderer.jsx" timestamp="1529589769159">
         <mark key="[" line="25" column="27" />
@@ -269,6 +279,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/administer/facilities_controller.rb" timestamp="1519043063096">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/layouts/administer_and_biz.html.erb" timestamp="1515760180809">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="9" column="62" />
@@ -368,6 +383,16 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelectorModal.jsx" timestamp="1520821440115">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/Reference.jsx" timestamp="1531922356601">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" timestamp="1515762691289">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="42" />
@@ -391,6 +416,11 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/package.json" timestamp="1519631263846">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/area/top.html.erb" timestamp="1515586924711">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -400,12 +430,6 @@
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/cities_controller.rb" timestamp="1529588447698">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="85" />
-      </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/InquiryForm.jsx" timestamp="1531407393515">
-        <mark key="[" line="91" column="28" />
-        <mark key="]" line="91" column="28" />
-        <mark key="^" line="91" column="28" />
-        <mark key="." line="91" column="28" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/appeal-point-edit.scss" timestamp="1516595073131">
         <mark key="[" line="25" column="17" />
@@ -614,10 +638,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>fourceSelection</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
@@ -626,31 +650,31 @@
         <text encoding="base64">ICAgICAgdGVsOiBuZXcgSW5wdXRNb2RlbCh7CiAgICAgICAgdmFsdWU6IHRlbCwKICAgICAgICBjb21wbGV0ZWQ6ICEhdGVsICYmIHZhbGlkYXRlLnRlbCh0ZWwpLAogICAgICAgIGNoZWNrVmFsaWRhdGU6IHZhbGlkYXRlLnRlbCwKICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpc0NvbXBsZXRlZCA9IChpbnB1dE5hbWUsIHZhbHVlKSA9PiB7CiAgICBjb25zdCBlcnJvciA9IHRoaXMuY2hlY2tWYWxpZGF0ZShpbnB1dE5hbWUsIHZhbHVlKTsKICAgIHJldHVybiAhIXZhbHVlICYmICFlcnJvcjsKICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgY2hlY2tWYWxpZGF0ZSA9IChpbnB1dE5hbWUsIHZhbHVlKSA9PiB7CiAgICBzd2l0Y2ggKGlucHV0TmFtZSkgewogICAgICBjYXNlICduYW1lJzoKICAgICAgICBpZiAoIXZhbHVlKSByZXR1cm4gJ+WFpeWKm+W/hemgiOOBp+OBmSc7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgJ2h1cmlnYW5hJzoKICAgICAgICBpZiAoIXZhbHVlKSByZXR1cm4gJ+WFpeWKm+W/hemgiOOBp+OBmSc7CiAgICAgICAgaWYgKCF2YWxpZGF0b3IubWF0Y2hlcyh2YWx1ZSwgL15b44GBLeOCkyggfOOAgCldKyQvKSkgcmV0dXJuICfjgbLjgonjgYzjgarjgaflhaXlipvjgZfjgabkuIvjgZXjgYQnOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdlbWFpbCc6CiAgICAgICAgaWYgKCF2YWx1ZSkgcmV0dXJuICflhaXlipvlv4XpoIjjgafjgZknOwogICAgICAgIGlmICghdmFsaWRhdG9yLmlzRW1haWwodmFsdWUpKSByZXR1cm4gJ+acieWKueOBquODoeODvOODq+OCouODieODrOOCueOCkuWFpeWKm+OBl+OBpuS4i+OBleOBhCc7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgJ3RlbCc6CiAgICAgICAgaWYgKCF2YWx1ZSkgcmV0dXJuICflhaXlipvlv4XpoIjjgafjgZknOwogICAgICAgIGlmICghdmFsaWRhdG9yLm1hdGNoZXModmFsdWUucmVwbGFjZSgvXEQvZywgJycpLCAvXlxkezEwLDExfSQvKSkgcmV0dXJuICfmnInlirnjgarpm7voqbHnlarlj7fjgpLlhaXlipvjgZfjgabkuIvjgZXjgYQnOwogICAgICAgIGJyZWFrOwogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiAnJzsKICAgIH0KICAgIHJldHVybiAnJzsKICB9Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuLi50aGlzLnN0YXRlW2lucHV0TmFtZV0sCiAgICAgICAgZXJyb3IsCiAgICAgICAgY29tcGxldGVkOiAsCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYmxvY2sgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm9yID0gaW5wdXRPYmplY3QuY2hlY2tWYWxpZGF0ZSh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gdGhpcy52YWx1ZTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpc0NvbXBsZXRlZCA9IChpbnB1dE5hbWUsIHZhbHVlKSA9PiB7CiAgICBjb25zdCBlcnJvciA9IHRoaXMuY2hlY2tWYWxpZGF0ZShpbnB1dE5hbWUsIHZhbHVlKTsKICAgIHJldHVybiAhIXZhbHVlICYmICFlcnJvcjsKICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja1ZhbGlkYXRlOiB2YWxpZGF0ZS50ZWwsCg==</text>
+        <text encoding="base64">CiAgY2hlY2tWYWxpZGF0ZSA9IChpbnB1dE5hbWUsIHZhbHVlKSA9PiB7CiAgICBzd2l0Y2ggKGlucHV0TmFtZSkgewogICAgICBjYXNlICduYW1lJzoKICAgICAgICBpZiAoIXZhbHVlKSByZXR1cm4gJ+WFpeWKm+W/hemgiOOBp+OBmSc7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgJ2h1cmlnYW5hJzoKICAgICAgICBpZiAoIXZhbHVlKSByZXR1cm4gJ+WFpeWKm+W/hemgiOOBp+OBmSc7CiAgICAgICAgaWYgKCF2YWxpZGF0b3IubWF0Y2hlcyh2YWx1ZSwgL15b44GBLeOCkyggfOOAgCldKyQvKSkgcmV0dXJuICfjgbLjgonjgYzjgarjgaflhaXlipvjgZfjgabkuIvjgZXjgYQnOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdlbWFpbCc6CiAgICAgICAgaWYgKCF2YWx1ZSkgcmV0dXJuICflhaXlipvlv4XpoIjjgafjgZknOwogICAgICAgIGlmICghdmFsaWRhdG9yLmlzRW1haWwodmFsdWUpKSByZXR1cm4gJ+acieWKueOBquODoeODvOODq+OCouODieODrOOCueOCkuWFpeWKm+OBl+OBpuS4i+OBleOBhCc7CiAgICAgICAgYnJlYWs7CiAgICAgIGNhc2UgJ3RlbCc6CiAgICAgICAgaWYgKCF2YWx1ZSkgcmV0dXJuICflhaXlipvlv4XpoIjjgafjgZknOwogICAgICAgIGlmICghdmFsaWRhdG9yLm1hdGNoZXModmFsdWUucmVwbGFjZSgvXEQvZywgJycpLCAvXlxkezEwLDExfSQvKSkgcmV0dXJuICfmnInlirnjgarpm7voqbHnlarlj7fjgpLlhaXlipvjgZfjgabkuIvjgZXjgYQnOwogICAgICAgIGJyZWFrOwogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiAnJzsKICAgIH0KICAgIHJldHVybiAnJzsKICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
