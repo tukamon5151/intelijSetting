@@ -222,11 +222,6 @@
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/Reference.jsx" timestamp="1532445980917">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/ArticleEditor.js" timestamp="1508421548050">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="23" column="64" />
@@ -244,12 +239,6 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/customRenderer.jsx" timestamp="1529589769159">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="26" column="21" />
-        <mark key="^" line="26" column="21" />
-        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/picture-selector.scss" timestamp="1516616184491">
         <mark key="[" line="15" column="12" />
