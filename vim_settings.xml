@@ -264,6 +264,9 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/Project/LitaLico/a_team/src/assets/css/animation.css" timestamp="1534676296010">
+        <mark key="^" line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/config/routes.rb" timestamp="1508415207806">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="10" />
@@ -599,7 +602,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoKzEwJSk7CiAgICAgICAgb3BhY2l0eTogMDsK</text>
       </register>
       <register name="-" type="4">
         <text>fourceSelection</text>
@@ -608,7 +611,7 @@
         <text>accounts_has</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGVsOiBuZXcgSW5wdXRNb2RlbCh7CiAgICAgICAgdmFsdWU6IHRlbCwKICAgICAgICBjb21wbGV0ZWQ6ICEhdGVsICYmIHZhbGlkYXRlLnRlbCh0ZWwpLAogICAgICAgIGNoZWNrVmFsaWRhdGU6IHZhbGlkYXRlLnRlbCwKICAgICAgfSksCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoKzEwJSk7CiAgICAgICAgb3BhY2l0eTogMDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGMK</text>
