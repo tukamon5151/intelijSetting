@@ -54,6 +54,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actioncable-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actioncable-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actioncable-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.4, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.4/lib" />
@@ -115,6 +124,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionmailer-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionmailer-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionmailer-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.4, rbenv: 2.3.3) [gem]">
@@ -180,6 +198,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionpack-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionpack-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionpack-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v4.2.4, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/actionview-4.2.4/lib" />
@@ -241,6 +268,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionview-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionview-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionview-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="active_model_serializers (v0.10.7, rbenv: 2.4.3) [gem]">
@@ -319,6 +355,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activejob-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activejob-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activejob-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.4, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/activemodel-4.2.4/lib" />
@@ -380,6 +425,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activemodel-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activemodel-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activemodel-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="activemodel-serializers-xml (v1.0.2, rbenv: 2.4.2) [gem]">
@@ -463,6 +517,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activerecord-5.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activerecord-5.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activestorage (v5.2.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.0/db" />
@@ -476,6 +539,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.0/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="activestorage (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activestorage-5.2.1/config" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.4, rbenv: 2.3.3) [gem]">
@@ -539,6 +617,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activesupport-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activesupport-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activesupport-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.5.1, rbenv: 2.4.1) [gem]">
@@ -710,6 +797,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-eventstream-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.102.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-partitions-1.102.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-partitions-1.102.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.39.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-partitions-1.39.0/lib" />
@@ -845,6 +941,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-acm-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-acm (v1.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-acm-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-acm-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-acmpca (v1.0.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-acmpca-1.0.0/lib" />
@@ -917,6 +1022,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-alexaforbusiness-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-alexaforbusiness (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-alexaforbusiness-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-alexaforbusiness-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-apigateway (v1.10.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-apigateway-1.10.0/lib" />
@@ -933,6 +1047,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-apigateway-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-apigateway (v1.13.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-apigateway-1.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-apigateway-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-apigateway (v1.5.0, rbenv: 2.4.2) [gem]">
@@ -960,6 +1083,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-apigateway-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-applicationautoscaling (v1.11.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-applicationautoscaling-1.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-applicationautoscaling-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-applicationautoscaling (v1.6.0, rbenv: 2.4.2) [gem]">
@@ -1043,6 +1175,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-applicationdiscoveryservice-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-applicationdiscoveryservice (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-applicationdiscoveryservice-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-applicationdiscoveryservice-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-appstream (v1.11.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appstream-1.11.0/lib" />
@@ -1050,6 +1191,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appstream-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-appstream (v1.13.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appstream-1.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appstream-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-appstream (v1.2.0, rbenv: 2.4.2) [gem]">
@@ -1142,6 +1292,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appsync-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-appsync (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appsync-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-appsync-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-athena (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-athena-1.0.0/lib" />
@@ -1221,6 +1380,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-autoscaling-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-autoscaling (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-autoscaling-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-autoscaling-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-autoscalingplans (v1.1.0, rbenv: 2.4.3) [gem]">
@@ -1502,6 +1670,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudfront-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudfront (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudfront-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudfront-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cloudhsm (v1.3.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudhsm-1.3.0/lib" />
@@ -1554,6 +1731,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudhsmv2-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-cloudhsmv2 (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudhsmv2-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudhsmv2-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-cloudsearch (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -1745,6 +1931,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchevents-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudwatchevents (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchevents-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchevents-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cloudwatchlogs (v1.2.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchlogs-1.2.0/lib" />
@@ -1781,6 +1976,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchlogs-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudwatchlogs (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchlogs-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cloudwatchlogs-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-codebuild (v1.10.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-codebuild-1.10.0/lib" />
@@ -1788,6 +1992,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-codebuild-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codebuild (v1.14.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-codebuild-1.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-codebuild-1.14.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-codebuild (v1.4.0, rbenv: 2.4.2) [gem]">
@@ -2069,6 +2282,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cognitoidentityprovider-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cognitoidentityprovider (v1.6.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cognitoidentityprovider-1.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-cognitoidentityprovider-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cognitosync (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-cognitosync-1.0.0/lib" />
@@ -2132,6 +2354,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-comprehend-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-comprehend (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-comprehend-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-comprehend-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-configservice (v1.10.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-configservice-1.10.0/lib" />
@@ -2148,6 +2379,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-configservice-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-configservice (v1.13.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-configservice-1.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-configservice-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-configservice (v1.4.0, rbenv: 2.4.2) [gem]">
@@ -2193,6 +2433,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-connect-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-connect (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-connect-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-connect-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.11.0, rbenv: 2.4.2) [gem]">
@@ -2247,6 +2496,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.22.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.25.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.25.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-core-3.25.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.9.0, rbenv: 2.4.2) [gem]">
@@ -2339,6 +2597,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-costexplorer-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-costexplorer (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-costexplorer-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-costexplorer-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-databasemigrationservice (v1.3.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-databasemigrationservice-1.3.0/lib" />
@@ -2382,6 +2649,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-databasemigrationservice-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-databasemigrationservice (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-databasemigrationservice-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-databasemigrationservice-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-datapipeline (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -2456,6 +2732,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dax-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-dax (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dax-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dax-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-devicefarm (v1.2.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-devicefarm-1.2.0/lib" />
@@ -2501,6 +2786,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-devicefarm-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-devicefarm (v1.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-devicefarm-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-devicefarm-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-directconnect (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-directconnect-1.1.0/lib" />
@@ -2526,6 +2820,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-directconnect-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-directconnect (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-directconnect-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-directconnect-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-directoryservice (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -2562,6 +2865,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-directoryservice-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-dlm (v1.1.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dlm-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dlm-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-dynamodb (v1.11.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dynamodb-1.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-dynamodb-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-dynamodb (v1.2.0, rbenv: 2.4.2) [gem]">
@@ -2726,6 +3047,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ec2-1.36.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-ec2 (v1.43.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ec2-1.43.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ec2-1.43.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-ecr (v1.2.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-ecr-1.2.0/lib" />
@@ -2778,6 +3108,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ecs-1.15.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ecs (v1.17.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ecs-1.17.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ecs-1.17.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ecs (v1.4.0, rbenv: 2.4.2) [gem]">
@@ -2841,6 +3180,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-efs-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-efs (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-efs-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-efs-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-eks (v1.1.0, rbenv: 2.4.3) [gem]">
@@ -2933,6 +3281,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticbeanstalk-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-elasticbeanstalk (v1.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticbeanstalk-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticbeanstalk-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-elasticloadbalancing (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticloadbalancing-1.1.0/lib" />
@@ -2976,6 +3333,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticloadbalancingv2-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticloadbalancingv2 (v1.12.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticloadbalancingv2-1.12.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticloadbalancingv2-1.12.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-elasticloadbalancingv2 (v1.6.0, rbenv: 2.4.2) [gem]">
@@ -3059,6 +3425,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticsearchservice-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-elasticsearchservice (v1.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticsearchservice-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-elasticsearchservice-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-elastictranscoder (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-elastictranscoder-1.0.0/lib" />
@@ -3120,6 +3495,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-emr-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-emr (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-emr-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-emr-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-firehose (v1.1.0, rbenv: 2.4.2) [gem]">
@@ -3284,6 +3668,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-glacier-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-glacier (v1.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-glacier-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-glacier-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-glue (v1.14.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-glue-1.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-glue-1.14.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-glue (v1.2.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-glue-1.2.0/lib" />
@@ -3383,6 +3785,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-greengrass-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-greengrass (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-greengrass-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-greengrass-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-guardduty (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-guardduty-1.0.0/lib" />
@@ -3473,6 +3884,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-health-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-health (v1.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-health-1.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-health-1.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-iam (v1.3.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-iam-1.3.0/lib" />
@@ -3507,6 +3927,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iam-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iam (v1.6.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iam-1.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iam-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-importexport (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -3581,6 +4010,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-inspector-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-inspector (v1.6.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-inspector-1.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-inspector-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-iot (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-iot-1.0.0/lib" />
@@ -3588,6 +4026,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-iot-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iot (v1.13.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iot-1.13.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iot-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-iot (v1.2.0, rbenv: 2.4.2) [gem]">
@@ -3689,6 +4136,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iotanalytics-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-iotanalytics (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iotanalytics-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-iotanalytics-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-iotdataplane (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-iotdataplane-1.0.0/lib" />
@@ -3788,6 +4244,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesis-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kinesis (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesis-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesis-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-kinesisanalytics (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisanalytics-1.1.0/lib" />
@@ -3842,6 +4307,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideo-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kinesisvideo (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideo-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideo-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-kinesisvideoarchivedmedia (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideoarchivedmedia-1.0.0/lib" />
@@ -3867,6 +4341,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideoarchivedmedia-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kinesisvideoarchivedmedia (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideoarchivedmedia-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kinesisvideoarchivedmedia-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kinesisvideomedia (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -3941,6 +4424,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kms-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-kms (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kms-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kms-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-lambda (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-lambda-1.0.0/lib" />
@@ -3993,6 +4485,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-lambda-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lambda (v1.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-lambda-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-lambda-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-lambdapreview (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -4119,6 +4620,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-lexmodelbuildingservice-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lexmodelbuildingservice (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-lexmodelbuildingservice-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-lexmodelbuildingservice-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-lightsail (v1.2.0, rbenv: 2.4.2) [gem]">
@@ -4355,6 +4865,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mediaconvert-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-mediaconvert (v1.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mediaconvert-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mediaconvert-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-medialive (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-medialive-1.0.0/lib" />
@@ -4409,6 +4928,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-medialive-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-medialive (v1.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-medialive-1.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-medialive-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-mediapackage (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-mediapackage-1.0.0/lib" />
@@ -4443,6 +4971,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mediapackage-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-mediapackage (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mediapackage-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mediapackage-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-mediastore (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -4607,6 +5144,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mq-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-mq (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mq-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-mq-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-mturk (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-mturk-1.1.0/lib" />
@@ -4695,6 +5241,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-opsworks-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-opsworks (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-opsworks-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-opsworks-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-opsworkscm (v1.2.0, rbenv: 2.4.2) [gem]">
@@ -4814,6 +5369,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-pinpoint-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-pinpoint (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-pinpoint-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-pinpoint-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-polly (v1.4.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-polly-1.4.0/lib" />
@@ -4839,6 +5403,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-polly-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-polly (v1.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-polly-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-polly-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-pricing (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -4904,6 +5477,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-rds-1.23.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-rds (v1.26.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-rds-1.26.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-rds-1.26.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-rds (v1.8.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-rds-1.8.0/lib" />
@@ -4958,6 +5540,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-redshift-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-redshift (v1.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-redshift-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-redshift-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-rekognition (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-rekognition-1.1.0/lib" />
@@ -5003,6 +5594,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-rekognition-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-rekognition (v1.6.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-rekognition-1.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-rekognition-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resourcegroups (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-resourcegroups-1.0.0/lib" />
@@ -5028,6 +5628,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resourcegroups-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resourcegroups (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resourcegroups-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resourcegroups-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resourcegroupstaggingapi (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -5121,6 +5730,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-3.21.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-resources (v3.25.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-3.25.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-3.25.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-3.25.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-3.25.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources (v3.3.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-resources-3.3.0/bin" />
@@ -5139,6 +5759,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-route53-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-route53 (v1.10.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-route53-1.10.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-route53-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-route53 (v1.5.0, rbenv: 2.4.2) [gem]">
@@ -5231,6 +5860,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-s3-1.16.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.17.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-s3-1.17.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-s3-1.17.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.7.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-s3-1.7.0/lib" />
@@ -5274,6 +5912,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-sagemaker-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sagemaker (v1.15.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-sagemaker-1.15.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-sagemaker-1.15.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-sagemaker (v1.3.0, rbenv: 2.4.2) [gem]">
@@ -5348,6 +5995,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-sagemakerruntime-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-sagemakerruntime (v1.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-sagemakerruntime-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-sagemakerruntime-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-secretsmanager (v1.12.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-secretsmanager-1.12.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-secretsmanager-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-secretsmanager (v1.4.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-secretsmanager-1.4.0/lib" />
@@ -5400,6 +6065,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-serverlessapplicationrepository-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-serverlessapplicationrepository (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-serverlessapplicationrepository-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-serverlessapplicationrepository-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-servicecatalog (v1.1.0, rbenv: 2.4.2) [gem]">
@@ -5564,6 +6238,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-shield-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-signer (v1.1.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-signer-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-signer-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-simpledb (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-simpledb-1.0.0/lib" />
@@ -5672,6 +6355,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-snowball-1.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-snowball (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-snowball-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-snowball-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-sns (v1.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-sns-1.1.0/lib" />
@@ -5742,6 +6434,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ssm-1.16.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ssm (v1.23.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ssm-1.23.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-ssm-1.23.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ssm (v1.4.0, rbenv: 2.4.2) [gem]">
@@ -5852,6 +6553,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-storagegateway-1.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-storagegateway (v1.7.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-storagegateway-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-storagegateway-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-support (v1.0.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/aws-sdk-support-1.0.0/lib" />
@@ -5949,6 +6659,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-transcribeservice-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-transcribeservice (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-transcribeservice-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-transcribeservice-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-translate (v1.0.0, rbenv: 2.4.2) [gem]">
@@ -6219,6 +6938,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-xray-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-xray (v1.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-xray-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-xray-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv2 (v1.0.1, rbenv: 2.4.2) [gem]">
@@ -6708,6 +7436,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/carrierwave-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="carrierwave (v1.2.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/carrierwave-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/carrierwave-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="case_transform (v0.2, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/case_transform-0.2/lib" />
@@ -6944,6 +7681,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/counter_culture-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="counter_culture (v2.0.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/counter_culture-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/counter_culture-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="crass (v1.0.2, rbenv: 2.4.2) [gem]">
@@ -7279,6 +8025,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot-4.10.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v4.11.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot-4.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot-4.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot (v4.8.2, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/factory_bot-4.8.2/lib" />
@@ -7314,6 +8069,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.10.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.10.0/features" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.10.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v4.11.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.11.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/factory_bot_rails-4.11.0/lib" />
       </SOURCES>
     </library>
     <library name="factory_bot_rails (v4.8.2, rbenv: 2.4.2) [gem]">
@@ -7776,6 +8540,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/fuubar-2.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="fuubar (v2.3.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/fuubar-2.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/fuubar-2.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="geocoder (v1.4.4, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/geocoder-1.4.4/bin" />
@@ -7829,6 +8602,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/geocoder-1.4.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/geocoder-1.4.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="geocoder (v1.5.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/geocoder-1.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/geocoder-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/geocoder-1.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/geocoder-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.4.0, rbenv: 2.3.3) [gem]">
@@ -8438,6 +9222,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/js_rails_routes-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="js_rails_routes (v0.9.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/js_rails_routes-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/js_rails_routes-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="json (v2.1.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
@@ -8885,6 +9678,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-3.1/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.2.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-3.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-3.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types-data (v3.2016.0521, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
@@ -8927,6 +9729,19 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2016.0521/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2016.0521/data" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mime-types-data-3.2018.0812/types" />
       </SOURCES>
     </library>
     <library name="mimemagic (v0.3.2, rbenv: 2.4.3) [gem]">
@@ -8995,6 +9810,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.0/bench" />
+      </SOURCES>
+    </library>
+    <library name="mini_mime (v1.0.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bench" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mini_mime-1.0.1/bench" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.2.0, rbenv: 2.3.3) [gem]">
@@ -9263,6 +10091,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mustermann-1.0.2/bench" />
       </SOURCES>
     </library>
+    <library name="mustermann (v1.0.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mustermann-1.0.3/bench" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.4.10, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
@@ -9319,6 +10158,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.1/support" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.5.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.5.2" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/mysql2-0.5.2/support" />
       </SOURCES>
     </library>
     <library name="nenv (v0.3.0, rbenv: 2.4.2) [gem]">
@@ -9483,6 +10337,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.2.0.345/cert" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.2.0.345/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.2.0.345/recipes" />
+      </SOURCES>
+    </library>
+    <library name="newrelic_rpm (v5.3.0.346, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/recipes" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.3.0.346/recipes" />
       </SOURCES>
     </library>
     <library name="nio4r (v2.1.0, rbenv: 2.4.1) [gem]">
@@ -9699,6 +10570,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.3/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.4, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.4" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.4/suppressions" />
+      </SOURCES>
+    </library>
     <library name="notiffany (v0.1.1, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/notiffany-0.1.1/lib" />
@@ -9781,6 +10673,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/parser-2.5.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/parser-2.5.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.1.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/parser-2.5.1.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/parser-2.5.1.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/parser-2.5.1.2/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, rbenv: 2.3.3) [gem]">
@@ -10071,6 +10974,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.11.4/tools" />
       </SOURCES>
     </library>
+    <library name="puma (v3.12.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/puma-3.12.0/tools" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.9.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.9.1" />
@@ -10251,6 +11171,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-attack-5.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack-attack (v5.4.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-attack-5.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-attack-5.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.0.3, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-protection-2.0.3/lib" />
@@ -10321,6 +11250,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-test-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v1.1.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-timeout (v0.5.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-timeout-0.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-timeout-0.5.1/lib" />
       </SOURCES>
     </library>
     <library name="rack-user_agent (v0.5.2, rbenv: 2.4.3) [gem]">
@@ -10397,6 +11344,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-5.2.0" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-5.2.1" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-5.2.1" />
       </SOURCES>
     </library>
     <library name="rails-controller-testing (v1.0.2, rbenv: 2.4.2) [gem]">
@@ -10559,6 +11515,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.2/assets" />
       </SOURCES>
     </library>
+    <library name="rails_best_practices (v1.19.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.3/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails_best_practices-1.19.3/assets" />
+      </SOURCES>
+    </library>
     <library name="railties (v4.2.4, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/railties-4.2.4/bin" />
@@ -10634,6 +11603,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/railties-5.2.0/exe" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/railties-5.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.2.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/railties-5.2.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/railties-5.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/railties-5.2.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/railties-5.2.1/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.2.2, rbenv: 2.4.2) [gem]">
@@ -10869,6 +11849,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.1/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/benchmarking" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-4.0.2/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v5.0.2, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-actionpack-5.0.2/lib" />
@@ -10898,6 +11893,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-activesupport-5.0.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-activesupport-5.0.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="redis-activesupport (v5.0.7, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-activesupport-5.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-activesupport-5.0.7/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-activesupport-5.0.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/redis-activesupport-5.0.7/gemfiles" />
       </SOURCES>
     </library>
     <library name="redis-rack (v2.0.4, rbenv: 2.4.3) [gem]">
@@ -11073,6 +12079,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-core-3.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-core-3.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-core-3.8.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-core-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.7.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.7.0/lib" />
@@ -11089,6 +12106,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.8.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.8.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.7.0, rbenv: 2.4.2) [gem]">
@@ -11109,6 +12135,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.7.2, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/rspec-rails-3.7.2/lib" />
@@ -11125,6 +12160,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-rails-3.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-rails-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.7.0, rbenv: 2.4.2) [gem]">
@@ -11152,6 +12196,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-support-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-support-3.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rspec-support-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.51.0, rbenv: 2.4.2) [gem]">
@@ -11261,6 +12314,43 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.57.2/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.58.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-0.58.2/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-rspec (v1.29.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-rspec-1.29.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-rspec-1.29.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-rspec-1.29.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rubocop-rspec-1.29.0/config" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.9.0, rbenv: 2.4.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.9.0/lib" />
@@ -11348,6 +12438,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruson-0.0.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruson-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruson (v0.0.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruson-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruson-0.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruson-0.0.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/ruson-0.0.2/lib" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.24, rbenv: 2.4.1) [gem]">
@@ -11440,6 +12541,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.6/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.6/extra" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.6/rails" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.5.7, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/rails" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/sass-3.5.7/rails" />
       </SOURCES>
     </library>
     <library name="sass-listen (v4.0.0, rbenv: 2.4.2) [gem]">
@@ -11731,6 +12847,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/split-3.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/split-3.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="split (v3.3.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/split-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/split-3.3.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/split-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/split-3.3.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="spring (v2.0.2, rbenv: 2.4.1) [gem]">
@@ -12205,6 +13332,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-5.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-5.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-5.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks-source (v5.0.3, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.0.3/lib" />
@@ -12239,6 +13375,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.2.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/turbolinks-source-5.2.0/lib" />
       </SOURCES>
     </library>
     <library name="turnout (v2.4.1, rbenv: 2.4.2) [gem]">
@@ -12287,6 +13432,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.10.5/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.10.5/conf" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.10.5/githooks" />
+      </SOURCES>
+    </library>
+    <library name="twilio-ruby (v5.12.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.12.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.12.3/conf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.12.3/githooks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.12.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.12.3/conf" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/twilio-ruby-5.12.3/githooks" />
       </SOURCES>
     </library>
     <library name="twilio-ruby (v5.5.1, rbenv: 2.4.2) [gem]">
@@ -12624,6 +13782,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/woothee-1.7.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/woothee-1.7.0/scripts" />
+      </SOURCES>
+    </library>
+    <library name="woothee (v1.8.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/woothee-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/woothee-1.8.0/scripts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/woothee-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/woothee-1.8.0/scripts" />
       </SOURCES>
     </library>
     <library name="xmlrpc (v0.2.1, rbenv: 2.4.1) [gem]">

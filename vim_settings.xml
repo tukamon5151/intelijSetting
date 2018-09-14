@@ -96,7 +96,6 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/React/draft-js-plugins/draft-js-side-toolbar-plugin/src/components/BlockTypeSelect/index.js" timestamp="1534662829489" />
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/articles_controller.rb" timestamp="1529589569751">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="49" />
@@ -208,11 +207,23 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/AddButton.jsx" timestamp="1536931876489">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/pie.scss" timestamp="1515852793164">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="13" />
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/common.js" timestamp="1536932242944">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" timestamp="1515852769597">
         <mark key="[" line="32" column="52" />
@@ -287,9 +298,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/cities_controller.rb" timestamp="1529588447698">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="85" />
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/ToolbarContainer.jsx" timestamp="1536932598579">
+        <mark key="[" line="31" column="48" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="$USER_HOME$/Project/Rails/draft_on_rails/app/controllers/ArticlesController.rb" timestamp="1511531002277">
         <mark key="[" line="1" column="11" />
@@ -392,11 +405,11 @@
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1515760874134">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
+      <file name="$USER_HOME$/Project/Rails/snabi/webpack/shared.config.js" timestamp="1536931674290">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/picture_stocks_controller.rb" timestamp="1516597036806">
         <mark key="[" line="7" column="104" />
@@ -604,11 +617,11 @@
       <jump line="56" column="8" filename="$USER_HOME$/Project/LitaLico/a_team/src/assets/js/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoKzEwJSk7CiAgICAgICAgb3BhY2l0eTogMDsK</text>
+      <register name="&quot;" type="4">
+        <text>CSSTransitionGroup</text>
       </register>
       <register name="-" type="4">
-        <text>fourceSelection</text>
+        <text>CSSTransitionGroup</text>
       </register>
       <register name="/" type="4">
         <text>accounts_has</text>
