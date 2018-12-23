@@ -54,6 +54,12 @@
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513500975630">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/packs/article_editor.jsx" timestamp="1508418975108">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="44" />
@@ -90,7 +96,6 @@
         <mark key="." line="67" column="14" />
         <mark key="^" line="67" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/BlogArticleViewer.jsx" timestamp="1542290052106" />
       <file name="$USER_HOME$/Project/Rails/snabi/.eslintignore" timestamp="1513942629923">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="39" />
@@ -340,18 +345,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/Modal.jsx" timestamp="1542383490350" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513500975630">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/packs/admin-page.js" timestamp="1515763353021">
         <mark key="[" line="0" column="9" />
@@ -437,6 +435,7 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
+      <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/BlogArticleEditor/BlogArticleEditor.jsx" timestamp="1545529775149" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/ToolBar.jsx" timestamp="1529590070346">
         <mark key="[" line="70" column="45" />
         <mark key="]" line="70" column="45" />
