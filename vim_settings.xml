@@ -172,6 +172,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="3" column="53" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/.circleci/config.yml" timestamp="1548654675641">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/config/routes.rb" timestamp="1508415207806">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="10" />
@@ -596,9 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="4" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/facility_show_page.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/packs/user-page.js" />
-      <jump line="10" column="3" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" />
       <jump line="4" column="7" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityPage.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/ikou_show.html.erb" />
       <jump line="120" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/ikou_show.html.erb" />
@@ -696,13 +699,16 @@
       <jump line="13" column="1" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
       <jump line="89" column="1" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
+      <jump line="67" column="7" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
+      <jump line="56" column="2" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGNkIC9teS1zaXRlLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>eslintrc</text>
+        <text>lint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
@@ -711,31 +717,31 @@
         <text encoding="base64">ICAgICJlc2xpbnQiOiAiZXNsaW50IC1jIC4vLmVzbGludHJjICdzcmMvKiovKi57dHMsdHN4fSciLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLSBydW46IGNkIC9teS1zaXRlLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiB3YWl0IGZvciBkYgogICAgICAgICAgY29tbWFuZDogZG9ja2VyaXplIC13YWl0IHRjcDovLzEyNy4wLjAuMTozMzA2IC10aW1lb3V0IDFtCiAgICAgIC0gcnVuOgogICAgICAgICAgbmFtZTogZGF0YWJhc2UKICAgICAgICAgIGNvbW1hbmQ6IGJ1bmRsZSBleGVjIHJha2UgZGI6Y3JlYXRlIGRiOnRlc3Q6cHJlcGFyZQogICAgICAtIHJ1bjogYnVuZGxlIGV4ZWMgcnNwZWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IHlhcm5fYnVpbGQKICAgICAgICAgIGNvbW1hbmQ6IHlhcm4gYnVpbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL2xheW91dC5jc3MnCg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46IHlhcm4gbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLSByZXN0b3JlX2NhY2hlOgogICAgICAgICAga2V5czoKICAgICAgICAgICAgLSBidW5kbGUte3sgY2hlY2tzdW0gIkdlbWZpbGUiIH19CiAgICAgIC0gcnVuOiBidW5kbGUgaW5zdGFsbCAtLXBhdGg9dmVuZG9yL2J1bmRsZQogICAgICAtIHNhdmVfY2FjaGU6CiAgICAgICAgICBrZXk6IGJ1bmRsZS17eyBjaGVja3N1bSAiR2VtZmlsZSIgfX0KICAgICAgICAgIHBhdGhzOiB2ZW5kb3IvYnVuZGxlCiAgICAgIC0gcnVuOiBidW5kbGUgZXhlYyBydWJvY29wCiAgICAgIC0gcnVuOiBidW5kbGUgZXhlYyByYWlsc19iZXN0X3ByYWN0aWNlcwogICAgICAtIHJ1bjogYnVuZGxlIGV4ZWMgYnJha2VtYW4gLS1yYWlsczUgLS1jb25maWRlbmNlLWxldmVsIDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFsbGVsaXNtOiAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzdHlsZWxpbnQtc2NzcyIsCg==</text>
+        <text encoding="base64">ICAgICAgLSBpbWFnZTogY2lyY2xlY2kvbXlzcWw6NS43LjIzCiAgICAgICAgZW52aXJvbm1lbnQ6CiAgICAgICAgICAtIE1ZU1FMX0FMTE9XX0VNUFRZX1BBU1NXT1JEPW5vCiAgICAgICAgICAtIE1ZU1FMX1JPT1RfUEFTU1dPUkQ9cm9vdAogICAgICAgICAgLSBNWVNRTF9ST09UX0hPU1Q9JQogICAgICAtIGltYWdlOiByZWRpcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyOiByb290CiAgICAgICAgZW52aXJvbm1lbnQ6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gTEFORz1qYV9KUC5VVEYtOAogICAgICAgICAgLSBMQ19BTEw9Qy5VVEYtOAogICAgICAgICAgLSBMQU5HVUFHRT1qYV9KUC5VVEYtOAogICAgICAgICAgLSBUWj0vdXNyL3NoYXJlL3pvbmVpbmZvL0FzaWEvVG9reW8KICAgICAgICAgIC0gUkFJTFNfRU5WPXRlc3QKICAgICAgICAgIC0gTVlTUUxfUE9SVD0zMzA2CiAgICAgICAgICAtIFNFUlZJQ0VfVVJMPWh0dHA6Ly9kZXZlbG9wbWVudC5zbmFiaS5qcAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
