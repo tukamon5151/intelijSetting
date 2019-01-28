@@ -163,11 +163,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/package.json" timestamp="1548651418147">
-        <mark key="[" line="41" column="40" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-        <mark key="^" line="41" column="50" />
+      <file name="$USER_HOME$/Project/my-site/package.json" timestamp="1548673363672">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="40" column="50" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/facility_show_page.js" timestamp="1515761344530">
         <mark key="[" line="22" column="0" />
@@ -432,6 +432,12 @@
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/.env" timestamp="1548673675904">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/models/application_record.rb" timestamp="1529588539821">
         <mark key="[" line="4" column="20" />
         <mark key="]" line="4" column="20" />
@@ -530,11 +536,11 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1548656885250">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1548673651247">
+        <mark key="[" line="20" column="99" />
+        <mark key="]" line="20" column="62" />
+        <mark key="." line="20" column="62" />
+        <mark key="^" line="20" column="62" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPoint.jsx" timestamp="1516890527856">
         <mark key="[" line="22" column="12" />
@@ -731,10 +737,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gc3Rvcmllc09mKCdCdXR0b24nLCBtb2R1bGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>defaultConfig</text>
+        <text>NODE_ENV</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
@@ -743,31 +749,31 @@
         <text encoding="base64">c3Rvcmllc09mKCdCdXR0b24nLCBtb2R1bGUpLmFkZCgnd2l0aCB0ZXh0JywgKCkgPT4gKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gc3Rvcmllc09mKCdCdXR0b24nLCBtb2R1bGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoYmFzZUNvbmZpZywgZW52LCBkZWZhdWx0Q29uZmlnKSA9PiB7CiAgLy8gVHJhbnNwaWxlIEdhdHNieSBtb2R1bGUgYmVjYXVzZSBHYXRzYnkgaW5jbHVkZXMgdW4tdHJhbnNwaWxlZCBFUzYgY29kZS4KICBkZWZhdWx0Q29uZmlnLm1vZHVsZS5ydWxlc1swXS5leGNsdWRlID0gWy9ub2RlX21vZHVsZXNcLyg/IShnYXRzYnkpXC8pL10KCiAgLy8gdXNlIGluc3RhbGxlZCBiYWJlbC1sb2FkZXIgd2hpY2ggaXMgdjguMC1iZXRhICh3aGljaCBpcyBtZWFudCB0byB3b3JrIHdpdGggQGJhYmVsL2NvcmVANykKICBkZWZhdWx0Q29uZmlnLm1vZHVsZS5ydWxlc1swXS51c2VbMF0ubG9hZGVyID0gcmVxdWlyZS5yZXNvbHZlKCdiYWJlbC1sb2FkZXInKQoKICAvLyB1c2UgQGJhYmVsL3ByZXNldC1yZWFjdCBmb3IgSlNYIGFuZCBlbnYgKGluc3RlYWQgb2Ygc3RhZ2VkIHByZXNldHMpCiAgZGVmYXVsdENvbmZpZy5tb2R1bGUucnVsZXNbMF0udXNlWzBdLm9wdGlvbnMucHJlc2V0cyA9IFsKICAgIHJlcXVpcmUucmVzb2x2ZSgnQGJhYmVsL3ByZXNldC1yZWFjdCcpLAogICAgcmVxdWlyZS5yZXNvbHZlKCdAYmFiZWwvcHJlc2V0LWVudicpLAogIF0KCiAgLy8gdXNlIEBiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcyBmb3IgY2xhc3MgYXJyb3cgZnVuY3Rpb25zCiAgZGVmYXVsdENvbmZpZy5tb2R1bGUucnVsZXNbMF0udXNlWzBdLm9wdGlvbnMucGx1Z2lucyA9IFsKICAgIHJlcXVpcmUucmVzb2x2ZSgnQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzJyksCiAgXQoKICBkZWZhdWx0Q29uZmlnLm1vZHVsZS5ydWxlcy5wdXNoKHsKICAgIHRlc3Q6IC8udHN4PyQvLAogICAgdXNlOiBbCiAgICAgIHsKICAgICAgICBsb2FkZXI6IHJlcXVpcmUucmVzb2x2ZSgnYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlcicpLAogICAgICB9LAogICAgICB7CiAgICAgICAgbG9hZGVyOiByZXF1aXJlLnJlc29sdmUoJ3JlYWN0LWRvY2dlbi10eXBlc2NyaXB0LWxvYWRlcicpLAogICAgICB9LAogICAgXSwKICAgIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXMvLAogICAgaW5jbHVkZTogWy9zdG9yaWVzLywgL2NvbXBvbmVudHMvXSwKICAgIGxvYWRlcjogJ3RzLWxvYWRlcicsCiAgfSkKICBjb25maWcucmVzb2x2ZS5leHRlbnNpb25zLnB1c2goJy50cycsICd0c3gnKQoKICAvLyBQcmVmZXIgR2F0c2J5IEVTNiBlbnRyeXBvaW50IChtb2R1bGUpIG92ZXIgY29tbW9uanMgKG1haW4pIGVudHJ5cG9pbnQKICBkZWZhdWx0Q29uZmlnLnJlc29sdmUubWFpbkZpZWxkcyA9IFsnYnJvd3NlcicsICdtb2R1bGUnLCAnbWFpbiddCgogIHJldHVybiBkZWZhdWx0Q29uZmlnCn0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZG90ZW52LmNvbmZpZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGlua1RvIH0gZnJvbSAnQHN0b3J5Ym9vay9hZGRvbi1saW5rcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHVzZTogWwogICAgICB7CiAgICAgIH0KICAgIF0s</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgZG90ZW52IGZyb20gJ2RvdGVudic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJmcyI6ICJeMC4wLjEtc2VjdXJpdHkiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnZG90ZW52JykuY29uZmlnKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICApKTsK</text>
+        <text encoding="base64">Ly8gc3Rvcmllc09mKCdCdXR0b24nLCBtb2R1bGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
