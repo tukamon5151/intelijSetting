@@ -510,11 +510,11 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1548652540849">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
+      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1548656885250">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPoint.jsx" timestamp="1516890527856">
         <mark key="[" line="22" column="12" />
@@ -704,11 +704,11 @@
       <jump line="56" column="2" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46IGNkIC9teS1zaXRlLwo=</text>
+      <register name="&quot;" type="4">
+        <text>hoge</text>
       </register>
       <register name="-" type="4">
-        <text>lint</text>
+        <text>hoge</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
