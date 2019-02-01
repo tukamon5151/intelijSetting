@@ -157,11 +157,12 @@
       <file name="$USER_HOME$/Project/my-site/node_modules/@types/react-helmet/index.d.ts" timestamp="1548643021908">
         <mark key="'" line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/gatsby-node.js" timestamp="1549016026416">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Project/my-site/gatsby-node.js" timestamp="1549017831304">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="25" column="56" />
       </file>
       <file name="$USER_HOME$/Project/my-site/.eslintignore" timestamp="1548644374739">
         <mark key="[" line="1" column="6" />
@@ -414,11 +415,12 @@
       <file name="$USER_HOME$/Project/React/medium-draft/src/editor.js" timestamp="1529591722419">
         <mark key="'" line="166" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" timestamp="1548676552657">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="11" />
+      <file name="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" timestamp="1549017811896">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="56" />
+        <mark key="^" line="27" column="10" />
+        <mark key="." line="25" column="56" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Constants.js" timestamp="1522653466171">
         <mark key="[" line="3" column="16" />
@@ -548,10 +550,11 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1548677903070">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
+      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1549017801330">
+        <mark key="'" line="58" column="27" />
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="27" />
+        <mark key="." line="58" column="27" />
         <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPoint.jsx" timestamp="1516890527856">
@@ -646,13 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="1" filename="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" />
-      <jump line="15" column="4" filename="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" />
-      <jump line="55" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" />
-      <jump line="5" column="2" filename="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" />
-      <jump line="8" column="9" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/area_search_box.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/views/components/_prefectures.html.erb" />
-      <jump line="1" column="21" filename="$USER_HOME$/Project/Rails/snabi/app/views/components/_prefectures.html.erb" />
       <jump line="18" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AreaSearchBox.jsx" />
       <jump line="9" column="7" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/administer/facilities_controller.rb" />
       <jump line="39" column="26" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockUploader.jsx" />
@@ -746,46 +742,53 @@
       <jump line="62" column="13" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
       <jump line="3" column="2" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
       <jump line="50" column="4" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
+      <jump line="25" column="19" filename="$USER_HOME$/Project/my-site/gatsby-node.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/Project/my-site/gatsby-node.js" />
+      <jump line="19" column="15" filename="$USER_HOME$/Project/my-site/gatsby-node.js" />
+      <jump line="26" column="9" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
+      <jump line="58" column="27" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
+      <jump line="8" column="2" filename="$USER_HOME$/Project/my-site/gatsby-node.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>childMarkdownRemark</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ2dhdHNieScKCmltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9sYXlvdXQnCmltcG9ydCBTRU8gZnJvbSAnLi4vY29tcG9uZW50cy9zZW8nCg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj5pZDoge2lkfTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbENvbnRlbnRmdWxCbG9nczogewogICAgICBlZGdlczogewogICAgICAgIG5vZGU6IHsKICAgICAgICAgIGlkOiBzdHJpbmcKICAgICAgICAgIHRpdGxlOiBzdHJpbmcKICAgICAgICAgIGRlc2NyaXB0aW9uOiBzdHJpbmcKICAgICAgICAgIGNvbnRlbnQ6IHsKICAgICAgICAgICAgY29udGVudAogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfVtdCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
