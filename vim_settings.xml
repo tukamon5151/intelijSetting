@@ -157,6 +157,12 @@
       <file name="$USER_HOME$/Project/my-site/node_modules/@types/react-helmet/index.d.ts" timestamp="1548643021908">
         <mark key="'" line="31" column="13" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/gatsby-node.js" timestamp="1549016026416">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/.eslintignore" timestamp="1548644374739">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
@@ -742,8 +748,8 @@
       <jump line="50" column="4" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>childMarkdownRemark</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>childMarkdownRemark</text>
@@ -755,31 +761,31 @@
         <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ2dhdHNieScKCmltcG9ydCBMYXlvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9sYXlvdXQnCmltcG9ydCBTRU8gZnJvbSAnLi4vY29tcG9uZW50cy9zZW8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudDogewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
