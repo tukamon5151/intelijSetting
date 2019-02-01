@@ -383,11 +383,11 @@
         <mark key="." line="67" column="14" />
         <mark key="^" line="67" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/.eslintrc" timestamp="1548647090843">
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="23" column="4" />
+      <file name="$USER_HOME$/Project/my-site/.eslintrc" timestamp="1549022443148">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/age-rate.scss" timestamp="1515851372661">
         <mark key="[" line="10" column="18" />
@@ -417,11 +417,11 @@
         <mark key="'" line="166" column="8" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" timestamp="1549020611395">
-        <mark key="'" line="53" column="19" />
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="53" column="41" />
-        <mark key="^" line="53" column="41" />
-        <mark key="." line="53" column="41" />
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Constants.js" timestamp="1522653466171">
         <mark key="[" line="3" column="16" />
@@ -753,10 +753,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
@@ -765,31 +765,31 @@
         <text encoding="base64">ICAgICAgPGRpdj5kZXNjcmlwdGlvbjoge2Rlc2NyaXB0aW9ufTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNyYwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHNyYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgSW1hZ2UgZnJvbSAnZ2F0c2J5LWltYWdlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNyYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgSW1hZ2UgZnJvbSAnZ2F0c2J5LWltYWdlJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4uLkdhdHNieUNvbnRlbnRmdWxTaXplcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC4uLkdhdHNieUNvbnRlbnRmdWxTaXplcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gYm9keTogewogICAgICAvLyAgIGNoaWxkTWFya2Rvd25SZW1hcms6IHsKICAgICAgLy8gICAgIGh0bWw6IHN0cmluZwogICAgICAvLyAgIH0KICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gYm9keSB7CiAgICAgIC8vICAgY2hpbGRNYXJrZG93blJlbWFyayB7CiAgICAgIC8vICAgICBodG1sCiAgICAgIC8vICAgfQogICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gYm9keTogewogICAgICAvLyAgIGNoaWxkTWFya2Rvd25SZW1hcms6IHsKICAgICAgLy8gICAgIGh0bWw6IHN0cmluZwogICAgICAvLyAgIH0KICAgICAgLy8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
