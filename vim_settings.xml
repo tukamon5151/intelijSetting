@@ -63,12 +63,12 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/layout.tsx" timestamp="1549023951284">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Project/my-site/src/components/layout.tsx" timestamp="1549543961106">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/articles_controller.rb" timestamp="1529589569751">
         <mark key="[" line="6" column="45" />
@@ -339,19 +339,18 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/gatsby-config.js" timestamp="1549018853681">
+      <file name="$USER_HOME$/Project/my-site/gatsby-config.js" timestamp="1549543036382">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="55" column="31" />
-        <mark key="]" line="55" column="31" />
-        <mark key="." line="55" column="31" />
-        <mark key="^" line="55" column="31" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="51" />
+        <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/header.tsx" timestamp="1548641620500">
-        <mark key="'" line="31" column="1" />
-        <mark key="[" line="5" column="59" />
-        <mark key="]" line="5" column="62" />
-        <mark key="." line="5" column="62" />
-        <mark key="^" line="5" column="62" />
+      <file name="$USER_HOME$/Project/my-site/src/components/header.tsx" timestamp="1549542616809">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/layouts/administer_and_biz.html.erb" timestamp="1515760180809">
         <mark key="[" line="9" column="58" />
@@ -419,6 +418,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/node_modules/ress/dist/ress.min.css" timestamp="1549544188035" />
       <file name="$USER_HOME$/Project/Rails/draft/db/migrate/20171019135452_add_column_content_html.rb" timestamp="1508421432698">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
@@ -434,8 +434,8 @@
       <file name="$USER_HOME$/Project/React/medium-draft/src/editor.js" timestamp="1529591722419">
         <mark key="'" line="166" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" timestamp="1549026136835">
-        <mark key="'" line="2" column="19" />
+      <file name="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" timestamp="1549542671217">
+        <mark key="'" line="17" column="17" />
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
@@ -497,11 +497,6 @@
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/seo.js" timestamp="1548641829855">
         <mark key="'" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/my-site/src/stories/index.stories.js" timestamp="1548658879923">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" timestamp="1515762691289">
         <mark key="[" line="13" column="43" />
@@ -670,9 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="6" filename="$USER_HOME$/Project/Rails/snabi/config/routes.rb" />
-      <jump line="12" column="19" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/administer/application_controller.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/administer/application_controller.rb" />
       <jump line="0" column="1" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/administer/facilities_controller.rb" />
       <jump line="1" column="10" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/picture_stocks_controller.rb" />
       <jump line="0" column="9" filename="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/administer/accounts_has_facilities_controller.rb" />
@@ -770,13 +762,16 @@
       <jump line="52" column="19" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="51" column="42" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="45" column="21" filename="$USER_HOME$/Project/my-site/node_modules/gatsby-image/index.d.ts" />
+      <jump line="22" column="12" filename="$USER_HOME$/Project/my-site/src/components/layout.tsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/Project/my-site/src/components/header.tsx" />
+      <jump line="17" column="17" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rehypeReact</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>rehypeReact</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
@@ -785,31 +780,31 @@
         <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBQcm9wcyB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYXNlVXJsIjogIi4vIiwKICAgICJwYXRocyI6IHsicmVoeXBlLXJlYWN0IjogWyJ0eXBlcy9yZWh5cGUtcmVhY3QiXX0sCiAgICAidHlwZVJvb3RzIjogWyJ0eXBlcyIsICJub2RlX21vZHVsZXMvQHR5cGVzIl0K</text>
+        <text encoding="base64">aW1wb3J0ICIuLi8uLi9ub2RlX21vZHVsZXMvcmVzcy9kaXN0L3Jlc3MubWluLmNzcyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IGJvZHkuY2hpbGRNYXJrZG93blJlbWFyay5odG1sIH19Cg==</text>
+        <text encoding="base64">aW1wb3J0ICd+cmVzcycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCByZWh5cGVSZWFjdCBmcm9tICdyZWh5cGUtcmVhY3QnCg==</text>
+        <text encoding="base64">aW1wb3J0ICd+cmVzcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlaHlwZVJlYWN0IGZyb20gJ3JlaHlwZS1yZWFjdCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgwqkge25ldyBEYXRlKCkuZ2V0RnVsbFllYXIoKX0sIEJ1aWx0IHdpdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAge2AgYH0KICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly93d3cuZ2F0c2J5anMub3JnIj5HYXRzYnk8L2E+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQmxvZ0hlYWRlck9uZTogUmVhY3QuRnVuY3Rpb25Db21wb25lbnQ8UHJvcHM+ID0gcHJvcHMgPT4gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIG1hcmdpbjogYDAgYXV0b2AsCiAgICAgICAgICAgIG1heFdpZHRoOiA5NjAsCiAgICAgICAgICAgIHBhZGRpbmc6IGAwcHggMS4wODc1cmVtIDEuNDVyZW1gLAogICAgICAgICAgICBwYWRkaW5nVG9wOiAwLAogICAgICAgICAgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjbwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlZCBmcm9tICcuLi90aGVtZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
