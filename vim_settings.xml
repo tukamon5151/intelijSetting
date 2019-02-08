@@ -69,12 +69,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/layout.tsx" timestamp="1549580513165">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Project/my-site/src/components/layout.tsx" timestamp="1549642935874">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/articles_controller.rb" timestamp="1529589569751">
         <mark key="[" line="6" column="45" />
@@ -247,11 +247,11 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/theme/index.ts" timestamp="1548649901259">
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="16" column="46" />
-        <mark key="." line="16" column="46" />
+      <file name="$USER_HOME$/Project/my-site/src/theme/index.ts" timestamp="1549642753504">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="11" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/editorial_department/articles/edit.html.erb" timestamp="1522637325408">
         <mark key="[" line="23" column="27" />
@@ -623,6 +623,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/src/components/GlobalStyle.tsx" timestamp="1549643083333">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="2" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/.storybook/config.js" timestamp="1548660042181">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="34" />
@@ -673,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="24" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/Modal.jsx" />
       <jump line="42" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPointsPage.jsx" />
       <jump line="53" column="0" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
       <jump line="112" column="28" filename="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/PictureStockSelector.jsx" />
@@ -765,7 +770,6 @@
       <jump line="52" column="19" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="51" column="42" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="45" column="21" filename="$USER_HOME$/Project/my-site/node_modules/gatsby-image/index.d.ts" />
-      <jump line="22" column="12" filename="$USER_HOME$/Project/my-site/src/components/layout.tsx" />
       <jump line="30" column="0" filename="$USER_HOME$/Project/my-site/src/components/header.tsx" />
       <jump line="17" column="17" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="56" column="0" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
@@ -773,13 +777,15 @@
       <jump line="2" column="16" filename="$USER_HOME$/Project/my-site/src/stylesheets/application.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/my-site/src/stylesheets/application.scss" />
       <jump line="3" column="3" filename="$USER_HOME$/Project/my-site/.stylelintrc" />
+      <jump line="22" column="21" filename="$USER_HOME$/Project/my-site/src/components/layout.tsx" />
+      <jump line="23" column="22" filename="$USER_HOME$/Project/my-site/src/components/layout.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/**/*.</text>
+        <text>styled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdFw+</text>
@@ -788,31 +794,31 @@
         <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBQcm9wcyB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICd+cmVzcy9kaXN0L3Jlc3MubWluLmNzcycK</text>
+        <text encoding="base64">ICAgICAgICA8R3JvYmFsU3R5bGUvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdyZXNzJwppbXBvcnQgJy4vc3JjL3N0eWxlc2hlZXRzL2FwcGxpY2F0aW9uLnNjc3MnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzZWxlY3Rvci1saXN0LWNvbW1hLW5ld2xpbmUtYWZ0ZXIiOiBudWxsLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZWNsYXJhdGlvbi1jb2xvbi1zcGFjZS1hZnRlciI6IG51bGwsCg==</text>
+        <text encoding="base64">ICBpbmplY3RHbG9iYWwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJmb250LWZhbWlseS1uby1taXNzaW5nLWdlbmVyaWMtZmFtaWx5LWtleXdvcmQiOiBudWxsLAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAke1RoZW1lLnByaW1hcnlDb2xvcn07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzdHlsZWxpbnQtcHJvY2Vzc29yLXN0eWxlZC1jb21wb25lbnRzIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicHJvY2Vzc29ycyI6IFsKICAgICJzdHlsZWxpbnQtcHJvY2Vzc29yLXN0eWxlZC1jb21wb25lbnRzIgogIF0sCg==</text>
+        <text encoding="base64">Y29uc3QgZwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
