@@ -400,11 +400,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/gatsby-config.js" timestamp="1549716211818">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="51" />
-        <mark key="^" line="5" column="51" />
-        <mark key="." line="5" column="51" />
+      <file name="$USER_HOME$/Project/my-site/gatsby-config.js" timestamp="1549717401625">
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="42" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="28" column="42" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/header.tsx" timestamp="1549681646641">
         <mark key="[" line="12" column="31" />
@@ -896,10 +896,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
