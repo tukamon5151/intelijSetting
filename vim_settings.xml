@@ -152,12 +152,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/Seo.tsx" timestamp="1549765393821">
+      <file name="$USER_HOME$/Project/my-site/src/components/Seo.tsx" timestamp="1549766025132">
         <mark key="'" line="41" column="41" />
-        <mark key="[" line="39" column="27" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="39" column="34" />
+        <mark key="[" line="68" column="31" />
+        <mark key="]" line="68" column="42" />
+        <mark key="." line="68" column="42" />
+        <mark key="^" line="68" column="42" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityManagementForm.jsx" timestamp="1513265016711">
         <mark key="[" line="68" column="0" />
