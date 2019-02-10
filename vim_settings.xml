@@ -73,6 +73,12 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="39" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/src/utils/index.ts" timestamp="1549765374206">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/src/stylesheets/reset.scss" timestamp="1549546170507">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="1" column="1" />
@@ -146,11 +152,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/Seo.tsx" timestamp="1549762085486">
-        <mark key="[" line="81" column="14" />
-        <mark key="]" line="81" column="21" />
-        <mark key="." line="81" column="21" />
-        <mark key="^" line="81" column="21" />
+      <file name="$USER_HOME$/Project/my-site/src/components/Seo.tsx" timestamp="1549765393821">
+        <mark key="'" line="41" column="41" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+        <mark key="^" line="39" column="34" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/FacilityAuthorityManagementForm.jsx" timestamp="1513265016711">
         <mark key="[" line="68" column="0" />
@@ -644,9 +651,9 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/BlogLink.tsx" timestamp="1549703489739">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
+      <file name="$USER_HOME$/Project/my-site/src/components/BlogLink.tsx" timestamp="1549764624914">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="1" column="33" />
       </file>
@@ -656,11 +663,11 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/constants/index.ts" timestamp="1549701525612">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/Project/my-site/src/constants/index.ts" timestamp="1549765233081">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1549762975050">
         <mark key="'" line="89" column="0" />
@@ -792,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="1" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
       <jump line="89" column="1" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
       <jump line="67" column="7" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
@@ -892,46 +898,47 @@
       <jump line="9" column="0" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="39" column="16" filename="$USER_HOME$/Project/my-site/src/components/NewestBlogCard.tsx" />
       <jump line="87" column="0" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
+      <jump line="41" column="41" filename="$USER_HOME$/Project/my-site/src/components/Seo.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>pathToUrl</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>pathToUrl</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG15SWNvbiBmcm9tICcuLi9pbWFnZXMvbXktaWNvbi5qcGcnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVVJMIH0gZnJvbSAndW5pdmVyc2FsLXVybCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWV0YVRpdGxlID0gdGl0bGUgfHwgZGF0YS5zaXRlLnNpdGVNZXRhZGF0YS50aXRsZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVVJMIH0gZnJvbSAndW5pdmVyc2FsLXVybCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvZ+OBruioreWumuOBl+OBnwo=</text>
+        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9nSW1hZ2U6IHJlcXVpcmUoJycpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgb2dVcmwgPSBuZXcgVVJMKG1ldGFPZ0ltYWdlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb2cK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWV0YVRpdGxlID0gdGl0bGUgfHwgZGF0YS5zaXRlLnNpdGVNZXRhZGF0YS50aXRsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvZ+OBruioreWumuOBl+OBnwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
