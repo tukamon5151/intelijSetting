@@ -263,6 +263,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/blog/src/templates/sample-template.js" timestamp="1550386707801">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/ToolbarContainer.jsx" timestamp="1536932598579">
         <mark key="[" line="31" column="48" />
         <mark key="]" line="31" column="47" />
@@ -431,6 +437,13 @@
         <mark key="]" line="9" column="62" />
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
+      </file>
+      <file name="$USER_HOME$/Project/blog/gatsby-node.js" timestamp="1550386934276">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
@@ -805,9 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="1" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
-      <jump line="24" column="0" filename="$USER_HOME$/Project/my-site/src/components/seo.tsx" />
-      <jump line="67" column="7" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
       <jump line="56" column="2" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
       <jump line="14" column="12" filename="$USER_HOME$/Project/my-site/.circleci/webpack.config.js" />
@@ -905,13 +915,16 @@
       <jump line="39" column="16" filename="$USER_HOME$/Project/my-site/src/components/NewestBlogCard.tsx" />
       <jump line="87" column="0" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="41" column="41" filename="$USER_HOME$/Project/my-site/src/components/Seo.tsx" />
+      <jump line="17" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
+      <jump line="16" column="3" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Abount</text>
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text>Abount</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -920,31 +933,31 @@
         <text>`%s | ${data.site.siteMetadata.title}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVVJMIH0gZnJvbSAndW5pdmVyc2FsLXVybCcK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
+        <text encoding="base64">ICAgIHJlc29sdmUoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gZ2F0c2J5LW5vZGUuanMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgVVJMIH0gZnJvbSAndW5pdmVyc2FsLXVybCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgb2dVcmwgPSBuZXcgVVJMKG1ldGFPZ0ltYWdlKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWV0YVRpdGxlID0gdGl0bGUgfHwgZGF0YS5zaXRlLnNpdGVNZXRhZGF0YS50aXRsZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvZ+OBruioreWumuOBl+OBnwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
