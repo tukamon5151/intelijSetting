@@ -58,9 +58,6 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/BlogHeaderThree.tsx" timestamp="1549700276453">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_top_pictures.html.erb" timestamp="1515759496154">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="26" />
@@ -240,6 +237,13 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
+      <file name="$USER_HOME$/Project/blog/src/templates/blog-template.js" timestamp="1550396582599">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/facility_show_page.js" timestamp="1515761344530">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -349,11 +353,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/blog/src/markdowns/my-first-post.md" timestamp="1550390341506">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
+      <file name="$USER_HOME$/Project/blog/src/markdowns/my-first-post.md" timestamp="1550396390712">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/picture_stocks_controller.rb" timestamp="1516597036806">
         <mark key="[" line="7" column="104" />
@@ -439,8 +443,11 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/blog/gatsby-node.js" timestamp="1550394046336">
+      <file name="$USER_HOME$/Project/blog/gatsby-node.js" timestamp="1550396530395">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
@@ -483,6 +490,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Project/blog/src/markdowns/my-second-post.md" timestamp="1550396394574">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/ikou-destination.scss" timestamp="1515846621288">
         <mark key="[" line="67" column="19" />
@@ -615,9 +628,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/my-site/node_modules/gatsby-image/index.d.ts" timestamp="1549715641489">
-        <mark key="'" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/area/top.html.erb" timestamp="1515586924711">
         <mark key="[" line="16" column="0" />
@@ -821,9 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Project/my-site/.circleci/webpack.config.js" />
-      <jump line="1" column="9" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
       <jump line="62" column="13" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
       <jump line="3" column="2" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
       <jump line="50" column="4" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
@@ -918,16 +925,19 @@
       <jump line="17" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="16" column="3" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="10" column="20" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
+      <jump line="2" column="2" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
+      <jump line="10" column="10" filename="$USER_HOME$/Project/blog/src/templates/blog-template.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/src/templates/blog-template.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXY+cGF0aCA6IHtwYXRofTwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>page</text>
+        <text>allMarkdwonRemark</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -936,31 +946,31 @@
         <text>`%s | ${data.site.siteMetadata.title}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXY+cGF0aCA6IHtwYXRofTwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoOiBibG9nLnBhdGgsCiAgICAgICAgZGF0ZTogYmxvZy5kYXRlLAogICAgICAgIHRpdGxlOiBibG9nLnRpdGxlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBibG9nOiB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwoKY29uc3QgU2FtcGxlVGVtcGxhdGUgPSAoeyBwYWdlQ29udGV4dDogeyBuYW1lIH0gfSkgPT4gKAogIDxkaXY+CiAgICA8aDE+e2Ake25hbWV9IFBhZ2VgfTwvaDE+CiAgICA8ZGl2PgogICAgICB7YFRoaXMgaXMgJHtuYW1lfSBQYWdlYH0KICAgIDwvZGl2PgogIDwvZGl2PgopCgpleHBvcnQgZGVmYXVsdCBTYW1wbGVUZW1wbGF0ZQ==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhdGg6IG5vZGUuZnJvbnRtYXR0ZXIucGF0aCwK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQoKZXhwb3J0cy5jcmVhdGVQYWdlcyA9ICh7IGdyYXBocWwsIGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9ucwogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBbJ3NhbXBsZTEnLCAnc2FtcGxlMicsICdzYW1wbGUzJ10uZm9yRWFjaChzYW1wbGVOYW1lID0+IGNyZWF0ZVBhZ2UoewogICAgICAvLyDjg5rjg7zjgrjjga7jg5HjgrnlkI0KICAgICAgcGF0aDogc2FtcGxlTmFtZSwKICAgICAgLy8g44OG44Oz44OX44Os44O844OI44Go44Gq44KL44Kz44Oz44Od44O844ON44Oz44OI44Gu5oyH5a6aCiAgICAgIGNvbXBvbmVudDogcGF0aC5yZXNvbHZlKGBzcmMvdGVtcGxhdGVzL3NhbXBsZS10ZW1wbGF0ZS5qc2ApLAogICAgICAvLyDjg4bjg7Pjg5fjg6zjg7zjg4jjgajjgarjgovjgrPjg7Pjg53jg7zjg43jg7Pjg4jjgavmuKHjgZnlpInmlbAKICAgICAgY29udGV4dDogewogICAgICAgIG5hbWU6IHNhbXBsZU5hbWUKICAgICAgfSwKICAgIH0pKQogICAgcmVzb2x2ZSgpCiAgfSkKfQ==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwoKY29uc3QgQmxvZ1RlbXBsYXRlID0gKHsgcGFnZUNvbnRleHQ6IHsgYmxvZyB9IH0pID0+ICgKICA8ZGl2PgogICAgPGgxPntgJHtibG9nLnRpdGxlfSBQYWdlYH08L2gxPgogICAgPGRpdj5wYXRoIDoge2Jsb2cucGF0aH08L2Rpdj4KICAgIDxkaXY+ZGF0ZSA6IHtibG9nLmRhdGV9PC9kaXY+CiAgPC9kaXY+CikKCmV4cG9ydCBkZWZhdWx0IEJsb2dUZW1wbGF0ZQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKY29uc3QgYmxvZ3MgPSBbCiAgewogICAgcGF0aDogImJsb2dzLzEiLAogICAgZGF0ZTogIjIwMTkvMDIvMTUiLAogICAgdGl0bGU6ICJNeSBmaXJzdCBibG9nIHBvc3QiCiAgfSwKICB7CiAgICBwYXRoOiAiYmxvZ3MvMiIsCiAgICBkYXRlOiAiMjAxOS8wMi8xNiIsCiAgICB0aXRsZTogIk15IHNlY29uZCBibG9nIHBvc3QiCiAgfQpdOwoKZXhwb3J0cy5jcmVhdGVQYWdlcyA9ICh7IGdyYXBocWwsIGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9uczsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgYmxvZ3MuZm9yRWFjaChibG9nID0+CiAgICAgIGNyZWF0ZVBhZ2UoewogICAgICAgIC8vIOODmuODvOOCuOOBruODkeOCueWQjQogICAgICAgIHBhdGg6IGJsb2cucGF0aCwKICAgICAgICAvLyDjg4bjg7Pjg5fjg6zjg7zjg4jjgajjgarjgovjgrPjg7Pjg53jg7zjg43jg7Pjg4jjga7mjIflrpoKICAgICAgICBjb21wb25lbnQ6IHBhdGgucmVzb2x2ZShgc3JjL3RlbXBsYXRlcy9ibG9nLXRlbXBsYXRlLmpzYCksCiAgICAgICAgLy8g44OG44Oz44OX44Os44O844OI44Go44Gq44KL44Kz44Oz44Od44O844ON44Oz44OI44Gr5rih44GZ5aSJ5pWwCiAgICAgICAgY29udGV4dDogeyBibG9nIH0KICAgICAgfSkKICAgICk7CiAgICByZXNvbHZlKCk7CiAgfSk7Cn07</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gZ2F0c2J5LW5vZGUuanMK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
