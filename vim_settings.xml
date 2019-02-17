@@ -263,11 +263,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/blog/src/templates/sample-template.js" timestamp="1550386707801">
+      <file name="$USER_HOME$/Project/blog/src/templates/sample-template.js" timestamp="1550393837877">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/components/ToolbarContainer.jsx" timestamp="1536932598579">
         <mark key="[" line="31" column="48" />
@@ -438,12 +439,8 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/blog/gatsby-node.js" timestamp="1550389521581">
+      <file name="$USER_HOME$/Project/blog/gatsby-node.js" timestamp="1550394046336">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
@@ -824,9 +821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
-      <jump line="56" column="2" filename="$USER_HOME$/Project/my-site/.circleci/config.yml" />
-      <jump line="14" column="12" filename="$USER_HOME$/Project/my-site/.circleci/webpack.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/my-site/.circleci/webpack.config.js" />
       <jump line="1" column="9" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Project/my-site/gatsby-config.js" />
@@ -923,11 +917,14 @@
       <jump line="41" column="41" filename="$USER_HOME$/Project/my-site/src/components/Seo.tsx" />
       <jump line="17" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="16" column="3" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
+      <jump line="10" column="20" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>page</text>
@@ -939,31 +936,31 @@
         <text>`%s | ${data.site.siteMetadata.title}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZ2F0c2J5LW5vZGUuanMK</text>
+        <text encoding="base64">ICAgICAgICBwYXRoOiBibG9nLnBhdGgsCiAgICAgICAgZGF0ZTogYmxvZy5kYXRlLAogICAgICAgIHRpdGxlOiBibG9nLnRpdGxlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVVJMIH0gZnJvbSAndW5pdmVyc2FsLXVybCcK</text>
+        <text encoding="base64">ICAgICAgICBibG9nOiB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwoKY29uc3QgU2FtcGxlVGVtcGxhdGUgPSAoeyBwYWdlQ29udGV4dDogeyBuYW1lIH0gfSkgPT4gKAogIDxkaXY+CiAgICA8aDE+e2Ake25hbWV9IFBhZ2VgfTwvaDE+CiAgICA8ZGl2PgogICAgICB7YFRoaXMgaXMgJHtuYW1lfSBQYWdlYH0KICAgIDwvZGl2PgogIDwvZGl2PgopCgpleHBvcnQgZGVmYXVsdCBTYW1wbGVUZW1wbGF0ZQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQoKZXhwb3J0cy5jcmVhdGVQYWdlcyA9ICh7IGdyYXBocWwsIGFjdGlvbnMgfSkgPT4gewogIGNvbnN0IHsgY3JlYXRlUGFnZSB9ID0gYWN0aW9ucwogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBbJ3NhbXBsZTEnLCAnc2FtcGxlMicsICdzYW1wbGUzJ10uZm9yRWFjaChzYW1wbGVOYW1lID0+IGNyZWF0ZVBhZ2UoewogICAgICAvLyDjg5rjg7zjgrjjga7jg5HjgrnlkI0KICAgICAgcGF0aDogc2FtcGxlTmFtZSwKICAgICAgLy8g44OG44Oz44OX44Os44O844OI44Go44Gq44KL44Kz44Oz44Od44O844ON44Oz44OI44Gu5oyH5a6aCiAgICAgIGNvbXBvbmVudDogcGF0aC5yZXNvbHZlKGBzcmMvdGVtcGxhdGVzL3NhbXBsZS10ZW1wbGF0ZS5qc2ApLAogICAgICAvLyDjg4bjg7Pjg5fjg6zjg7zjg4jjgajjgarjgovjgrPjg7Pjg53jg7zjg43jg7Pjg4jjgavmuKHjgZnlpInmlbAKICAgICAgY29udGV4dDogewogICAgICAgIG5hbWU6IHNhbXBsZU5hbWUKICAgICAgfSwKICAgIH0pKQogICAgcmVzb2x2ZSgpCiAgfSkKfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJlc29sdmUoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8gZ2F0c2J5LW5vZGUuanMK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
