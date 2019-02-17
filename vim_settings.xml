@@ -67,6 +67,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Project/blog/src/pages/About.js" timestamp="1550385244476">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/.eslintignore" timestamp="1513942629923">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="39" />
@@ -902,10 +908,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`%s | ${data.site.siteMetadata.title}`</text>
+        <text>Abount</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>Abount</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
