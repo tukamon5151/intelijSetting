@@ -261,11 +261,6 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/styled-components.ts" timestamp="1549680274647">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/blog/src/templates/sample-template.js" timestamp="1550393837877">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -339,11 +334,6 @@
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Project/my-site/tsconfig.json" timestamp="1549025679152">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/BlogHeaderOne.tsx" timestamp="1549722214933">
         <mark key="'" line="0" column="0" />
@@ -425,10 +415,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/gatsby-config.js" timestamp="1550475243568">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Project/my-site/gatsby-config.js" timestamp="1550476586128">
+        <mark key="[" line="66" column="11" />
+        <mark key="]" line="66" column="11" />
+        <mark key="." line="66" column="11" />
+        <mark key="^" line="66" column="11" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/header.tsx" timestamp="1549681646641">
         <mark key="[" line="12" column="31" />
@@ -768,11 +759,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/components/GlobalStyle.tsx" timestamp="1549707172875">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/Project/my-site/src/components/GlobalStyle.tsx" timestamp="1550476742690">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="49" column="16" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="49" column="16" />
       </file>
       <file name="$USER_HOME$/Project/my-site/.storybook/config.js" timestamp="1548660042181">
         <mark key="[" line="3" column="31" />
@@ -932,11 +923,11 @@
       <jump line="17" column="11" filename="$USER_HOME$/Project/blog/src/templates/blog-template.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsdWdpbnM6IFsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICdnYXRzYnktcmVtYXJrLWVtYmVkLXlvdXR1YmUnLA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">ICAgICAgICAgICdnYXRzYnktcmVtYXJrLWVtYmVkLXlvdXR1YmUnLA==</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -945,31 +936,31 @@
         <text>`%s | ${data.site.siteMetadata.title}`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsdWdpbnM6IFsK</text>
+        <text encoding="base64">ICAgICAgICAgICdnYXRzYnktcmVtYXJrLWVtYmVkLXlvdXR1YmUnLAogICAgICAgICAgJ2dhdHNieS1yZW1hcmstcmVzcG9uc2l2ZS1pZnJhbWUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBsdWdpbnM6IFsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlID0gZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRlID0gZGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2PgogICAgPGgxPntgJHt0aXRsZX0gUGFnZWB9PC9oMT4KICAgIDxkaXY+ZGF0ZSA6IHtkYXRlfTwvZGl2PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
