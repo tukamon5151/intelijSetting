@@ -481,6 +481,7 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Project/my-site/node_modules/@types/react/index.d.ts" timestamp="1555164265972" />
       <file name="$USER_HOME$/Project/blog/src/markdowns/my-second-post.md" timestamp="1550396394574">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -695,12 +696,12 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1551271161399">
+      <file name="$USER_HOME$/Project/my-site/src/pages/index.tsx" timestamp="1555163935815">
         <mark key="'" line="49" column="27" />
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="2" />
+        <mark key="." line="61" column="2" />
+        <mark key="^" line="61" column="2" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPoint.jsx" timestamp="1516890527856">
         <mark key="[" line="22" column="12" />
