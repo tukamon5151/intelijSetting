@@ -9,6 +9,7 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/components/Layout.tsx" timestamp="1556888929730" />
       <file name="$USER_HOME$/Project/my-site/src/utils/styled-components.ts" timestamp="1549674864370">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="22" />
@@ -946,11 +947,11 @@
       <jump line="31" column="14" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Link</text>
       </register>
       <register name="-" type="4">
-        <text>yled</text>
+        <text>Link</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
