@@ -21,6 +21,10 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" timestamp="1556877656684">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/decorators/facility_decorator.rb" timestamp="1519738604982">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -354,6 +358,12 @@
         <mark key="^" line="170" column="49" />
         <mark key="." line="170" column="49" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/scripts/start.js" timestamp="1556877130551">
+        <mark key="[" line="43" column="55" />
+        <mark key="]" line="43" column="58" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="58" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/models/article_picture.rb" timestamp="1529588663337">
         <mark key="[" line="23" column="19" />
         <mark key="]" line="24" column="16" />
@@ -421,6 +431,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" timestamp="1556878116504">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="5" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/layouts/administer_and_biz.html.erb" timestamp="1515760180809">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="9" column="62" />
@@ -438,12 +454,6 @@
         <mark key="]" line="20" column="10" />
         <mark key="^" line="20" column="10" />
         <mark key="." line="20" column="10" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513500975630">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/lib/ReactUtil.jsx" timestamp="1515679191683">
         <mark key="[" line="0" column="0" />
@@ -475,7 +485,6 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/node_modules/@types/react/index.d.ts" timestamp="1555164265972" />
       <file name="$USER_HOME$/Project/blog/src/markdowns/my-second-post.md" timestamp="1550396394574">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="11" />
@@ -556,7 +565,6 @@
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Project/my-site/.env" timestamp="1551267419615" />
       <file name="$USER_HOME$/Project/my-site/src/components/Layout.tsx" timestamp="1549683185417">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -594,6 +602,12 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1513500975630">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/facility_authority_page.jsx" timestamp="1515762691289">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="42" />
@@ -611,6 +625,11 @@
         <mark key="]" line="20" column="17" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/Home.tsx" timestamp="1556877532341">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/layout.css" timestamp="1548651864625">
         <mark key="[" line="0" column="0" />
@@ -734,6 +753,11 @@
         <mark key="^" line="39" column="34" />
         <mark key="." line="39" column="34" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/config/webpack.config.js" timestamp="1556876987363">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/src/theme/typography.ts" timestamp="1549708478935">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="30" />
@@ -814,9 +838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Project/my-site/gatsby-node.js" />
-      <jump line="45" column="5" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
-      <jump line="50" column="0" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="52" column="19" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="51" column="42" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="45" column="21" filename="$USER_HOME$/Project/my-site/node_modules/gatsby-image/index.d.ts" />
@@ -914,46 +935,49 @@
       <jump line="38" column="18" filename="$USER_HOME$/Project/my-site/src/components/Seo.tsx" />
       <jump line="109" column="16" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="49" column="27" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
+      <jump line="20" column="2" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
+      <jump line="32" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Utils</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsPXtVcmxIZWxwZXIuYmxvZ1VybChzbHVnKX0K</text>
+        <text encoding="base64">LyoqIEBqc3gganN4ICovCmltcG9ydCB7IGpzeCB9IGZyb20gJ0BlbW90aW9uL2NvcmUnOwppbXBvcnQgc3R5bGVkIGZyb20gJ0BlbW90aW9uL3N0eWxlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsPXtgJHtDb25zdGFudHMuQkFTRVVSTH0vYmxvZ3MvJHtzbHVnfWB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsPXtgJHtDb25zdGFudHMuQkFTRVVSTH0vYmxvZ3MvJHtzbHVnfWB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBteVNpdGVQYXRoVG9VcmwsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8Q29udGFpbmVyPgogIDwvQ29udGFpbmVyPjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhvZ2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0YW50cyBmcm9tICcuLi9jb25zdGFudHMnCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
@@ -1026,6 +1050,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

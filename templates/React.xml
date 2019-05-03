@@ -1,0 +1,14 @@
+<templateSet group="React">
+  <template name="rfc" value="import * as React from 'react';&#10;&#10;// ===&#10;// @interface&#10;&#10;interface Props {&#10;}&#10;&#10;// ===&#10;// @view&#10;const $TM_FILENAME_BASE$: React.FC&lt;Props&gt; = props =&gt; {&#10;  return (&#10;  )&#10;};&#10;&#10;// ===&#10;// @styled&#10;&#10;// ===&#10;// @container&#10;&#10;// ===&#10;// @export&#10;export default $TM_FILENAME_BASE$;" description="Typescript React Function Component boilerplate" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="emotion" value="/** @jsx jsx */&#10;import { jsx, css } from '@emotion/styled';&#10;import styled from '@emotion/styled';" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
