@@ -431,11 +431,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" timestamp="1556878116504">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-        <mark key="^" line="21" column="5" />
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" timestamp="1556878674377">
+        <mark key="'" line="31" column="14" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/layouts/administer_and_biz.html.erb" timestamp="1515760180809">
         <mark key="[" line="9" column="58" />
@@ -836,9 +837,13 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/config/paths.js" timestamp="1556878999606">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="19" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="51" column="42" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="45" column="21" filename="$USER_HOME$/Project/my-site/node_modules/gatsby-image/index.d.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/Project/my-site/src/components/header.tsx" />
@@ -938,13 +943,14 @@
       <jump line="20" column="2" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
       <jump line="32" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
+      <jump line="31" column="14" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>yled</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -953,25 +959,25 @@
         <text encoding="base64">LyoqIEBqc3gganN4ICovCmltcG9ydCB7IGpzeCB9IGZyb20gJ0BlbW90aW9uL2NvcmUnOwppbXBvcnQgc3R5bGVkIGZyb20gJ0BlbW90aW9uL3N0eWxlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8Q29udGFpbmVyPgogIDwvQ29udGFpbmVyPjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvZ2UK</text>
+        <text encoding="base64">ICA8Q29udGFpbmVyPgogIDwvQ29udGFpbmVyPjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGhvZ2UK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAK</text>
