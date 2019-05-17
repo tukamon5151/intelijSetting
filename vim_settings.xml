@@ -154,12 +154,12 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" timestamp="1558099223342">
-        <mark key="'" line="94" column="34" />
-        <mark key="[" line="77" column="6" />
-        <mark key="]" line="77" column="6" />
-        <mark key="^" line="77" column="6" />
-        <mark key="." line="77" column="6" />
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" timestamp="1558101015801">
+        <mark key="'" line="104" column="34" />
+        <mark key="[" line="76" column="62" />
+        <mark key="]" line="76" column="72" />
+        <mark key="^" line="76" column="72" />
+        <mark key="." line="76" column="72" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/user/top_scroll_button.js" timestamp="1515763978780">
         <mark key="[" line="4" column="0" />
@@ -928,10 +928,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBSZWFjdC51c2VFZmZlY3QoKCkgPT4gZmV0Y2hVc2VyKCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>DispatchToProps</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -940,31 +940,31 @@
         <text encoding="base64">LyoqIEBqc3gganN4ICovCmltcG9ydCB7IGpzeCB9IGZyb20gJ0BlbW90aW9uL2NvcmUnOwppbXBvcnQgc3R5bGVkIGZyb20gJ0BlbW90aW9uL3N0eWxlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBSZWFjdC51c2VFZmZlY3QoKCkgPT4gZmV0Y2hVc2VyKCkpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGxhaW5Ub0NsYXNzIH0gZnJvbSAnY2xhc3MtdHJhbnNmb3JtZXInOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBSZWFjdC51c2VFZmZlY3QoZGQpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBSZWFjdC51c2VFZmZlY3QoKCkgPT4gZmV0Y2hVc2VyKCkpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZCwKICAgICAgICBuYW1lOiAnaG9nZScsCiAgICAgICAgcGljdHVyZVVybDoKICAgICAgICAgICdodHRwczovL2Nkbi1uYXRnZW8ubmlra2VpYnAuY28uanAvYXRjbC9uZXdzLzE2LzA2MDIwMDE5Ny9waF90aHVtYi5qcGc/X19zY2FsZT13OjUwMCxoOjQ2OCZfc2g9MGNhMDI1MDRhMCcsCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgcGxhaW5Ub0NsYXNzIH0gZnJvbSAnY2xhc3MtdHJhbnNmb3JtZXInOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSBtYXRjaC5wYXJhbXM7Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBSZWFjdC51c2VFZmZlY3QoZGQpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZCwKICAgICAgICBuYW1lOiAnaG9nZScsCiAgICAgICAgcGljdHVyZVVybDoKICAgICAgICAgICdodHRwczovL2Nkbi1uYXRnZW8ubmlra2VpYnAuY28uanAvYXRjbC9uZXdzLzE2LzA2MDIwMDE5Ny9waF90aHVtYi5qcGc/X19zY2FsZT13OjUwMCxoOjQ2OCZfc2g9MGNhMDI1MDRhMCcsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCB7IGlkIH0gPSBtYXRjaC5wYXJhbXM7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0ZS51c2Rka28K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
