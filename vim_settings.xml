@@ -316,6 +316,13 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/App.tsx" timestamp="1558092647217">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="16" column="53" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+        <mark key="^" line="16" column="55" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/editorial_department/articles/edit.html.erb" timestamp="1522637325408">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="75" />
@@ -444,12 +451,6 @@
         <mark key="]" line="9" column="62" />
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
-      </file>
-      <file name="$USER_HOME$/Project/blog/gatsby-node.js" timestamp="1550396530395">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
@@ -749,6 +750,12 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Project/React/react-tutorial/src/models/user.ts" timestamp="1558092492848">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/models/article.rb" timestamp="1529588887099">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="34" />
@@ -845,7 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="42" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="45" column="21" filename="$USER_HOME$/Project/my-site/node_modules/gatsby-image/index.d.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/Project/my-site/src/components/header.tsx" />
       <jump line="17" column="17" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
@@ -945,13 +951,14 @@
       <jump line="32" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
       <jump line="31" column="14" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
+      <jump line="14" column="37" filename="$USER_HOME$/Project/React/react-tutorial/src/App.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Link</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Um91dGRka2sK</text>
       </register>
       <register name="-" type="4">
-        <text>Link</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -960,31 +967,31 @@
         <text encoding="base64">LyoqIEBqc3gganN4ICovCmltcG9ydCB7IGpzeCB9IGZyb20gJ0BlbW90aW9uL2NvcmUnOwppbXBvcnQgc3R5bGVkIGZyb20gJ0BlbW90aW9uL3N0eWxlZCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGRka2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8Q29udGFpbmVyPgogIDwvQ29udGFpbmVyPjsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhvZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
