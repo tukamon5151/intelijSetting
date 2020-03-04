@@ -395,11 +395,11 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/app.rb" timestamp="1583328949717">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="32" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="32" />
+      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/app.rb" timestamp="1583333841817">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/picture_stocks_controller.rb" timestamp="1516597036806">
         <mark key="[" line="7" column="104" />
@@ -503,11 +503,12 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" timestamp="1583329341978">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" timestamp="1583333437954">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="15" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
@@ -807,6 +808,13 @@
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/juice_stock.rb" timestamp="1583332339105">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="20" column="1" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/AppealPoint.jsx" timestamp="1516890527856">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="22" column="17" />
@@ -929,11 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
-      <jump line="39" column="16" filename="$USER_HOME$/Project/my-site/src/components/NewestBlogCard.tsx" />
-      <jump line="87" column="0" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
-      <jump line="41" column="41" filename="$USER_HOME$/Project/my-site/src/components/Seo.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="16" column="3" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="10" column="20" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
@@ -1029,46 +1032,51 @@
       <jump line="4" column="8" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
       <jump line="24" column="4" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
       <jump line="32" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
+      <jump line="27" column="4" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
+      <jump line="7" column="9" filename="$USER_HOME$/Project/Ruby/vending_machine/src/juice_stock.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
+      <jump line="49" column="25" filename="$USER_HOME$/Project/Ruby/vending_machine/src/app.rb" />
+      <jump line="19" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/app.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHV0cyB2ZW5kaW5nX21hY2hpbmUuaW5wdXRfYW1vdW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stock_reduce</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHV0cyB2ZW5kaW5nX21hY2hpbmUuc2FsZXNfYW1vdW50Cg==</text>
+        <text encoding="base64">cHV0cyB2ZW5kaW5nX21hY2hpbmUuaW5wdXRfYW1vdW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmVuZGluZ19tYWNoaW5lLmFkZF9tb25leSgxMCkKcHV0cyB2ZW5kaW5nX21hY2hpbmUuaW5wdXRfYW1vdW50CnZlbmRpbmdfbWFjaGluZS5hZGRfbW9uZXkoMTApCnB1dHMgdmVuZGluZ19tYWNoaW5lLmlucHV0X2Ftb3VudAp2ZW5kaW5nX21hY2hpbmUuYWRkX21vbmV5KDUwKQpwdXRzIHZlbmRpbmdfbWFjaGluZS5pbnB1dF9hbW91bnQKCnB1dHMgdmVuZGluZ19tYWNoaW5lLnJldHVybl9tb25leQpwdXRzIHZlbmRpbmdfbWFjaGluZS5pbnB1dF9hbW91bnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcmVkdWNlX3N0b2NrCiAgICAKICBlbmQK</text>
+        <text encoding="base64">CnZlbmRpbmdfbWFjaGluZS5hZGRfbW9uZXkoNTAwKQpwdXRzIHZlbmRpbmdfbWFjaGluZS5pbnB1dF9hbW91bnQKcHV0cyB2ZW5kaW5nX21hY2hpbmUuanVpY2Vfc3RvY2tfaW5mb3JtYXRpb24KcHV0cyB2ZW5kaW5nX21hY2hpbmUuYnV5YWJsZV9qdWljZV9saXN0CgpwdXRzIHZlbmRpbmdfbWFjaGluZS5idXkoJ+OCs+ODvOODqScpCnB1dHMgdmVuZGluZ19tYWNoaW5lLmp1aWNlX3N0b2NrX2luZm9ybWF0aW9uCnB1dHMgdmVuZGluZ19tYWNoaW5lLmJ1eWFibGVfanVpY2VfbGlzdApwdXRzIHZlbmRpbmdfbWFjaGluZS5zYWxlc19hbW91bnQKcHV0cyB2ZW5kaW5nX21hY2hpbmUuaW5wdXRfYW1vdW50CnB1dHMgdmVuZGluZ19tYWNoaW5lLmJ1eSgn44Os44OD44OJ44OW44OrJykKcHV0cyB2ZW5kaW5nX21hY2hpbmUuc2FsZXNfYW1vdW50CnB1dHMgdmVuZGluZ19tYWNoaW5lLmlucHV0X2Ftb3VudApwdXRzIHZlbmRpbmdfbWFjaGluZS5qdWljZV9zdG9ja19pbmZvcm1hdGlvbgpwdXRzIHZlbmRpbmdfbWFjaGluZS5idXlhYmxlX2p1aWNlX2xpc3QKcHV0cyB2ZW5kaW5nX21hY2hpbmUuYnV5KCfjg6zjg4Pjg4njg5bjg6snKQpwdXRzIHZlbmRpbmdfbWFjaGluZS5zYWxlc19hbW91bnQKcHV0cyB2ZW5kaW5nX21hY2hpbmUuaW5wdXRfYW1vdW50CnB1dHMgdmVuZGluZ19tYWNoaW5lLmp1aWNlX3N0b2NrX2luZm9ybWF0aW9uCnB1dHMgdmVuZGluZ19tYWNoaW5lLmJ1eWFibGVfanVpY2VfbGlzdAp2ZW5kaW5nX21hY2hpbmUuYWRkX21vbmV5KDUwMCkKcHV0cyB2ZW5kaW5nX21hY2hpbmUuYnV5KCfjg6zjg4Pjg4njg5bjg6s/JykKcHV0cyB2ZW5kaW5nX21hY2hpbmUuc2FsZXNfYW1vdW50CnB1dHMgdmVuZGluZ19tYWNoaW5lLmlucHV0X2Ftb3VudApwdXRzIHZlbmRpbmdfbWFjaGluZS5qdWljZV9zdG9ja19pbmZvcm1hdGlvbgpwdXRzIHZlbmRpbmdfbWFjaGluZS5idXlhYmxlX2p1aWNlX2xpc3QKdmVuZGluZ19tYWNoaW5lLmFkZF9tb25leSgxMDAwKQpwdXRzIHZlbmRpbmdfbWFjaGluZS5idXkoJ+ODrOODg+ODieODluODqycpCnB1dHMgdmVuZGluZ19tYWNoaW5lLmJ1eSgn44Os44OD44OJ44OW44OrJykKcHV0cyB2ZW5kaW5nX21hY2hpbmUuYnV5KCfjg6zjg4Pjg4njg5bjg6snKQpwdXRzIHZlbmRpbmdfbWFjaGluZS5idXkoJ+ODrOODg+ODieODluODqycpCnB1dHMgdmVuZGluZ19tYWNoaW5lLnNhbGVzX2Ftb3VudApwdXRzIHZlbmRpbmdfbWFjaGluZS5pbnB1dF9hbW91bnQKcHV0cyB2ZW5kaW5nX21hY2hpbmUuanVpY2Vfc3RvY2tfaW5mb3JtYXRpb24KcHV0cyB2ZW5kaW5nX21hY2hpbmUuYnV5YWJsZV9qdWljZV9saXN0CnB1dHMgdmVuZGluZ19tYWNoaW5lLmJ1eSgn44Os44OD44OJ44OW44OrJykKcHV0cyB2ZW5kaW5nX21hY2hpbmUuc2FsZXNfYW1vdW50CnB1dHMgdmVuZGluZ19tYWNoaW5lLmlucHV0X2Ftb3VudApwdXRzIHZlbmRpbmdfbWFjaGluZS5qdWljZV9zdG9ja19pbmZvcm1hdGlvbgpwdXRzIHZlbmRpbmdfbWFjaGluZS5idXlhYmxlX2p1aWNlX2xpc3QK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBkZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkZWYgYnV5YWJsZV9qdWljZV9zdG9ja3MKICAgIGp1aWNlX3N0b2Nrcy5zZWxlY3QgeyB8anVpY2Vfc3RvY2t8IGp1aWNlX3N0b2NrLmJ1eWFibGU/KEBpbnB1dF9hbW91bnQpIH0KICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
