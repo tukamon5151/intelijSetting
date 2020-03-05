@@ -431,13 +431,7 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/change_stock.rb" timestamp="1583422845217">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
+      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/change_stock.rb" timestamp="1583422845217" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/picture_uploader.jsx" timestamp="1515896293099">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="44" />
@@ -510,13 +504,7 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" timestamp="1583423526040">
-        <mark key="'" line="61" column="26" />
-        <mark key="[" line="62" column="81" />
-        <mark key="]" line="62" column="87" />
-        <mark key="." line="62" column="87" />
-        <mark key="^" line="62" column="87" />
-      </file>
+      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" timestamp="1583423526040" />
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="20" column="10" />
