@@ -268,6 +268,9 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/decidim-user_extension/lib/decidim/user_extension/engine.rb" timestamp="1617197186818">
+        <mark key="'" line="62" column="10" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/package.json" timestamp="1549678418688">
         <mark key="[" line="21" column="53" />
         <mark key="]" line="21" column="54" />
@@ -431,7 +434,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/change_stock.rb" timestamp="1583422845217" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/admin/picture_uploader.jsx" timestamp="1515896293099">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="8" column="44" />
@@ -504,7 +506,6 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" timestamp="1583423526040" />
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="20" column="10" />
@@ -932,7 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
       <jump line="2" column="2" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
@@ -1032,6 +1032,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/app.rb" />
       <jump line="9" column="23" filename="$USER_HOME$/Project/Ruby/vending_machine/src/change_stock.rb" />
       <jump line="61" column="26" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
+      <jump line="62" column="10" filename="$USER_HOME$/Project/Ruby/decidim-cfj/decidim-user_extension/lib/decidim/user_extension/engine.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
