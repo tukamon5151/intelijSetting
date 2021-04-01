@@ -921,6 +921,7 @@
         <mark key="^" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/puma.rb" timestamp="1617283511051" />
       <file name="$USER_HOME$/Project/Rails/draft/app/controllers/articles_controller.rb" timestamp="1508421778129">
         <mark key="[" line="20" column="65" />
         <mark key="]" line="20" column="79" />
