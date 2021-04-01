@@ -638,11 +638,12 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" timestamp="1617256596657">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="2" />
-        <mark key="." line="79" column="2" />
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" timestamp="1617259479169">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Project/Iroha/dance/app/views/layouts/application.html.erb" timestamp="1503809434407">
         <mark key="[" line="21" column="0" />
