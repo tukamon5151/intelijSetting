@@ -701,12 +701,12 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" timestamp="1617249593116">
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" timestamp="1617250340196">
         <mark key="'" line="4" column="10" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/layout.css" timestamp="1548651864625">
         <mark key="[" line="0" column="0" />
