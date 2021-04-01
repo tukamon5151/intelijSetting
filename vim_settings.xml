@@ -701,6 +701,13 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" timestamp="1617249593116">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/src/components/layout.css" timestamp="1548651864625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -933,11 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/src/templates/sample-template.js" />
-      <jump line="2" column="2" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/gatsby-node.js" />
-      <jump line="10" column="10" filename="$USER_HOME$/Project/blog/src/templates/blog-template.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/blog/src/templates/blog-template.js" />
       <jump line="17" column="11" filename="$USER_HOME$/Project/blog/src/templates/blog-template.js" />
       <jump line="144" column="15" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="3" column="0" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
@@ -1033,13 +1035,18 @@
       <jump line="9" column="23" filename="$USER_HOME$/Project/Ruby/vending_machine/src/change_stock.rb" />
       <jump line="61" column="26" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
       <jump line="62" column="10" filename="$USER_HOME$/Project/Ruby/decidim-cfj/decidim-user_extension/lib/decidim/user_extension/engine.rb" />
+      <jump line="16" column="6" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" />
+      <jump line="72" column="6" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" />
+      <jump line="63" column="1" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" />
+      <jump line="4" column="10" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/tmp/nginx.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>returbable</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
@@ -1048,31 +1055,31 @@
         <text encoding="base64">ICAgICAgQ2hhbmdlU3RvY2submV3KDUwMCwgMTApLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFjY2Vzc19sb2cgIC92YXIvbG9nL25naW54L2FjY2Vzcy5sb2cgIG1haW47Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXJyb3JfbG9nIC92YXIvbG9nL25naW54L2Vycm9yLmxvZzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXJyb3JfbG9nIC92YXIvbG9nL25naW54L2Vycm9yLmxvZzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgY2hhbmcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpvaWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
