@@ -55,6 +55,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.ebextensions/03_sidekiq.config" timestamp="1617365763026" />
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/packs/article_editor.jsx" timestamp="1508418975108">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="44" />
@@ -96,6 +97,13 @@
         <mark key="]" line="9" column="79" />
         <mark key="." line="9" column="79" />
         <mark key="^" line="9" column="79" />
+      </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/postdeploy/50_restart_sidekiq.sh" timestamp="1617365417558">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
       </file>
       <file name="$USER_HOME$/Project/blog/src/pages/About.js" timestamp="1550385244476">
         <mark key="[" line="9" column="15" />
@@ -518,6 +526,13 @@
         <mark key="]" line="9" column="62" />
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
+      </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/predeploy/03_mute_sidekiq.sh" timestamp="1617365372095">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
@@ -973,9 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="10" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
-      <jump line="101" column="17" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
-      <jump line="139" column="16" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="25" column="0" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="38" column="18" filename="$USER_HOME$/Project/my-site/src/components/Seo.tsx" />
       <jump line="109" column="16" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
@@ -1073,6 +1085,9 @@
       <jump line="17" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" />
       <jump line="69" column="48" filename="$USER_HOME$/Project/Ruby/decidim-cfj/config/initializers/decidim.rb" />
+      <jump line="11" column="1" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/predeploy/03_mute_sidekiq.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/predeploy/03_mute_sidekiq.sh" />
+      <jump line="34" column="15" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/postdeploy/50_restart_sidekiq.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
