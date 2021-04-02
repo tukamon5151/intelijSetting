@@ -109,7 +109,8 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/initializers/decidim.rb" timestamp="1617337647661">
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/initializers/decidim.rb" timestamp="1617340004953">
+        <mark key="'" line="69" column="48" />
         <mark key="[" line="7" column="59" />
         <mark key="]" line="7" column="58" />
         <mark key="." line="7" column="58" />
@@ -672,11 +673,11 @@
       <file name="$USER_HOME$/Project/React/react-tutorial/node_modules/axios/index.d.ts" timestamp="1558939683325">
         <mark key="'" line="111" column="63" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/Gemfile" timestamp="1617329788156">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="20" />
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/Gemfile" timestamp="1617340343255">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/pie.scss" timestamp="1515852793164">
         <mark key="[" line="1" column="15" />
@@ -733,7 +734,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/routes.rb" timestamp="1617331169626" />
       <file name="$USER_HOME$/Project/React/react-tutorial/src/modules/users/index.ts" timestamp="1558140406342">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="36" />
@@ -928,7 +928,6 @@
         <mark key="^" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/puma.rb" timestamp="1617283511051" />
       <file name="$USER_HOME$/Project/Rails/draft/app/controllers/articles_controller.rb" timestamp="1508421778129">
         <mark key="[" line="20" column="65" />
         <mark key="]" line="20" column="79" />
@@ -961,7 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="42" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="9" column="10" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
       <jump line="101" column="17" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
       <jump line="139" column="16" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
@@ -1061,6 +1059,7 @@
       <jump line="111" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" />
       <jump line="17" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" />
+      <jump line="69" column="48" filename="$USER_HOME$/Project/Ruby/decidim-cfj/config/initializers/decidim.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
