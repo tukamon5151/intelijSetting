@@ -284,6 +284,12 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/decidim-user_extension/lib/decidim/user_extension/concerns/controllers/needs_user_extension.rb" timestamp="1617354560421">
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="22" column="72" />
+        <mark key="^" line="22" column="72" />
+        <mark key="." line="22" column="72" />
+      </file>
       <file name="$USER_HOME$/Project/blog/src/templates/blog-template.js" timestamp="1550397935142">
         <mark key="[" line="31" column="43" />
         <mark key="]" line="31" column="11" />
@@ -801,6 +807,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/locales/ja.yml" timestamp="1617354048150" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
