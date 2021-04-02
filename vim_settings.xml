@@ -109,6 +109,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/initializers/decidim.rb" timestamp="1617337647661">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="58" />
+        <mark key="." line="7" column="58" />
+        <mark key="^" line="7" column="58" />
+      </file>
       <file name="$USER_HOME$/Project/React/react-tutorial/src/components/Submit.tsx" timestamp="1558615835482">
         <mark key="'" line="12" column="21" />
         <mark key="[" line="13" column="0" />
@@ -1057,11 +1063,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/nginx/nginx.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMgU2V0dGluZ3MgZm9yIGEgVExTIGVuYWJsZWQgc2VydmVyLgojCiMgICAgc2VydmVyIHsKIyAgICAgICAgbGlzdGVuICAgICAgIDQ0MyBzc2wgaHR0cDI7CiMgICAgICAgIGxpc3RlbiAgICAgICBbOjpdOjQ0MyBzc2wgaHR0cDI7CiMgICAgICAgIHNlcnZlcl9uYW1lICBfOwojICAgICAgICByb290ICAgICAgICAgL3Vzci9zaGFyZS9uZ2lueC9odG1sOwojCiMgICAgICAgIHNzbF9jZXJ0aWZpY2F0ZSAiL2V0Yy9wa2kvbmdpbngvc2VydmVyLmNydCI7CiMgICAgICAgIHNzbF9jZXJ0aWZpY2F0ZV9rZXkgIi9ldGMvcGtpL25naW54L3ByaXZhdGUvc2VydmVyLmtleSI7CiMgICAgICAgICMgSXQgaXMgKnN0cm9uZ2x5KiByZWNvbW1lbmRlZCB0byBnZW5lcmF0ZSB1bmlxdWUgREggcGFyYW1ldGVycwojICAgICAgICAjIEdlbmVyYXRlIHRoZW0gd2l0aDogb3BlbnNzbCBkaHBhcmFtIC1vdXQgL2V0Yy9wa2kvbmdpbngvZGhwYXJhbXMucGVtIDIwNDgKIyAgICAgICAgI3NzbF9kaHBhcmFtICIvZXRjL3BraS9uZ2lueC9kaHBhcmFtcy5wZW0iOwojICAgICAgICBzc2xfc2Vzc2lvbl9jYWNoZSBzaGFyZWQ6U1NMOjFtOwojICAgICAgICBzc2xfc2Vzc2lvbl90aW1lb3V0ICAxMG07CiMgICAgICAgIHNzbF9wcm90b2NvbHMgVExTdjEgVExTdjEuMSBUTFN2MS4yOwojICAgICAgICBzc2xfY2lwaGVycyBISUdIOlNFRUQ6IWFOVUxMOiFlTlVMTDohRVhQT1JUOiFERVM6IVJDNDohTUQ1OiFQU0s6IVJTQVBTSzohYURIOiFhRUNESDohRURILURTUy1ERVMtQ0JDMy1TSEE6IUtSQjUtREVTLUNCQzMtU0hBOiFTUlA7CiMgICAgICAgIHNzbF9wcmVmZXJfc2VydmVyX2NpcGhlcnMgb247CiMKIyAgICAgICAgIyBMb2FkIGNvbmZpZ3VyYXRpb24gZmlsZXMgZm9yIHRoZSBkZWZhdWx0IHNlcnZlciBibG9jay4KIyAgICAgICAgaW5jbHVkZSAvZXRjL25naW54L2RlZmF1bHQuZC8qLmNvbmY7CiMKIyAgICAgICAgZXJyb3JfcGFnZSA0MDQgLzQwNC5odG1sOwojICAgICAgICAgICAgbG9jYXRpb24gPSAvNDB4Lmh0bWwgewojICAgICAgICB9CiMKIyAgICAgICAgZXJyb3JfcGFnZSA1MDAgNTAyIDUwMyA1MDQgLzUweC5odG1sOwojICAgICAgICAgICAgbG9jYXRpb24gPSAvNTB4Lmh0bWwgewojICAgICAgICB9CiMgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
