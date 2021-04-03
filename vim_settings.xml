@@ -985,6 +985,12 @@
         <mark key="^" line="46" column="24" />
         <mark key="." line="46" column="24" />
       </file>
+      <file name="$USER_HOME$/Project/Docker/getting-started/app/docker-compose.yml" timestamp="1617440156848">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/draft/app/controllers/articles_controller.rb" timestamp="1508421778129">
         <mark key="[" line="20" column="65" />
         <mark key="]" line="20" column="79" />
@@ -1120,10 +1126,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Add</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
