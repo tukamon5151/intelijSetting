@@ -71,6 +71,12 @@
         <mark key="." line="12" column="49" />
         <mark key="^" line="12" column="49" />
       </file>
+      <file name="$USER_HOME$/Project/Docker/getting-started/app/src/static/js/app.js" timestamp="1617434325874">
+        <mark key="[" line="55" column="84" />
+        <mark key="]" line="55" column="84" />
+        <mark key="^" line="55" column="84" />
+        <mark key="." line="55" column="84" />
+      </file>
       <file name="$USER_HOME$/Project/React/react-tutorial/src/modules/users/action.ts" timestamp="1558097120848">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="75" />
@@ -821,6 +827,11 @@
         <mark key="." line="26" column="19" />
         <mark key="^" line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/Docker/getting-started/app/Dockerfile" timestamp="1617433958901">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/gatsby-browser.js" timestamp="1549695381215">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="58" />
@@ -1109,10 +1120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>inport</text>
