@@ -52,12 +52,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.ebextensions/03_sidekiq.config" timestamp="1617365763026" />
       <file name="$USER_HOME$/Project/Rails/draft/app/javascript/packs/article_editor.jsx" timestamp="1508418975108">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="44" />
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618033061915">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/Project/React/react-tutorial/src/models/User.ts" timestamp="1558156057609">
         <mark key="[" line="1" column="6" />
@@ -76,6 +82,12 @@
         <mark key="]" line="108" column="56" />
         <mark key="^" line="108" column="56" />
         <mark key="." line="108" column="56" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/index.ts" timestamp="1618033865822">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/Project/React/react-tutorial/src/modules/users/action.ts" timestamp="1558097120848">
         <mark key="[" line="2" column="43" />
@@ -249,6 +261,12 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/interfaces/index.ts" timestamp="1618032628197">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/views/facilities/_user_demographics.html.erb" timestamp="1515852769597">
         <mark key="[" line="32" column="52" />
@@ -537,6 +555,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.module.ts" timestamp="1618033841020">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/Ruby/decidim-cfj/Procfile" timestamp="1617369029715">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="30" />
@@ -603,6 +627,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/indext.ts" timestamp="1618033024287">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/ikou-destination.scss" timestamp="1515846621288">
         <mark key="[" line="67" column="19" />
         <mark key="]" line="67" column="14" />
@@ -626,6 +656,12 @@
         <mark key="]" line="16" column="24" />
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/create-task.dto.ts" timestamp="1618032994857">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/age-rate.scss" timestamp="1515851372661">
         <mark key="[" line="10" column="18" />
@@ -671,6 +707,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="4" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618033882130">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Constants.js" timestamp="1522653466171">
         <mark key="[" line="3" column="16" />
@@ -730,6 +773,12 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/interfaces/task.interface.ts" timestamp="1618032586749">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/pie.scss" timestamp="1515852793164">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="13" />
@@ -778,6 +827,12 @@
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618033566243">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/layout.css" timestamp="1548651864625">
         <mark key="[" line="0" column="0" />
@@ -858,7 +913,6 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/config/locales/ja.yml" timestamp="1617354048150" />
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/stylesheets/facility-minimum-info.scss" timestamp="1515847696564">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1036,15 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="16" filename="$USER_HOME$/Project/my-site/src/templates/BlogShow.tsx" />
-      <jump line="49" column="27" filename="$USER_HOME$/Project/my-site/src/pages/index.tsx" />
-      <jump line="20" column="2" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
-      <jump line="32" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
-      <jump line="31" column="14" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Users.tsx" />
-      <jump line="14" column="37" filename="$USER_HOME$/Project/React/react-tutorial/src/App.tsx" />
-      <jump line="21" column="33" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="2" column="27" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="22" column="57" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="40" column="20" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="17" column="8" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
@@ -1136,56 +1181,65 @@
       <jump line="34" column="15" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/postdeploy/50_restart_sidekiq.sh" />
       <jump line="34" column="16" filename="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/postdeploy/00_restart_sidekiq.sh" />
       <jump line="1" column="17" filename="$USER_HOME$/Project/Docker/getting-started/Dockerfile" />
+      <jump line="6" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" />
+      <jump line="10" column="4" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" />
+      <jump line="13" column="9" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" />
+      <jump line="8" column="4" filename="$USER_HOME$/Project/React/nestjs/src/app.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCAtLXByb2R1Y3Rpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TasksService</text>
       </register>
       <register name="/" type="4">
-        <text>inport</text>
+        <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWNobyAiVEVSTS9xdWlldGluZyBzaWRla2lxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHlhcm4gaW5zdGFsbCAtLXByb2R1Y3Rpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiaG9nZSIK</text>
+        <text encoding="base64">ICAgIFRhc2tzU2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgY29uZmlnLmZvZ19wdWJsaWMgICAgID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgIFRhc2tzQ29udHJvbGxlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBob3N0OiAgICAgICAgICAgICAgICAgICdzMy5hcC1ub3J0aGVhc3QtMS5hbWF6b25hd3MuY29tJywKICAgICAgIyBlbmRwb2ludDogICAgICAgICAgICAgICdodHRwczovL3MzLmV4YW1wbGUuY29tOjgwODAnCg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgVGFza3NDb250cm9sbGVyIH0gZnJvbSAnLi90YXNrcy5jb250cm9sbGVyJzsKZXhwb3J0IHsgVGFza3NTZXJ2aWNlIH0gZnJvbSAnLi90YXNrcy5zcnZpY2UnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgU2V0dGluZ3MgZm9yIGEgVExTIGVuYWJsZWQgc2VydmVyLgojCiMgICAgc2VydmVyIHsKIyAgICAgICAgbGlzdGVuICAgICAgIDQ0MyBzc2wgaHR0cDI7CiMgICAgICAgIGxpc3RlbiAgICAgICBbOjpdOjQ0MyBzc2wgaHR0cDI7CiMgICAgICAgIHNlcnZlcl9uYW1lICBfOwojICAgICAgICByb290ICAgICAgICAgL3Vzci9zaGFyZS9uZ2lueC9odG1sOwojCiMgICAgICAgIHNzbF9jZXJ0aWZpY2F0ZSAiL2V0Yy9wa2kvbmdpbngvc2VydmVyLmNydCI7CiMgICAgICAgIHNzbF9jZXJ0aWZpY2F0ZV9rZXkgIi9ldGMvcGtpL25naW54L3ByaXZhdGUvc2VydmVyLmtleSI7CiMgICAgICAgICMgSXQgaXMgKnN0cm9uZ2x5KiByZWNvbW1lbmRlZCB0byBnZW5lcmF0ZSB1bmlxdWUgREggcGFyYW1ldGVycwojICAgICAgICAjIEdlbmVyYXRlIHRoZW0gd2l0aDogb3BlbnNzbCBkaHBhcmFtIC1vdXQgL2V0Yy9wa2kvbmdpbngvZGhwYXJhbXMucGVtIDIwNDgKIyAgICAgICAgI3NzbF9kaHBhcmFtICIvZXRjL3BraS9uZ2lueC9kaHBhcmFtcy5wZW0iOwojICAgICAgICBzc2xfc2Vzc2lvbl9jYWNoZSBzaGFyZWQ6U1NMOjFtOwojICAgICAgICBzc2xfc2Vzc2lvbl90aW1lb3V0ICAxMG07CiMgICAgICAgIHNzbF9wcm90b2NvbHMgVExTdjEgVExTdjEuMSBUTFN2MS4yOwojICAgICAgICBzc2xfY2lwaGVycyBISUdIOlNFRUQ6IWFOVUxMOiFlTlVMTDohRVhQT1JUOiFERVM6IVJDNDohTUQ1OiFQU0s6IVJTQVBTSzohYURIOiFhRUNESDohRURILURTUy1ERVMtQ0JDMy1TSEE6IUtSQjUtREVTLUNCQzMtU0hBOiFTUlA7CiMgICAgICAgIHNzbF9wcmVmZXJfc2VydmVyX2NpcGhlcnMgb247CiMKIyAgICAgICAgIyBMb2FkIGNvbmZpZ3VyYXRpb24gZmlsZXMgZm9yIHRoZSBkZWZhdWx0IHNlcnZlciBibG9jay4KIyAgICAgICAgaW5jbHVkZSAvZXRjL25naW54L2RlZmF1bHQuZC8qLmNvbmY7CiMKIyAgICAgICAgZXJyb3JfcGFnZSA0MDQgLzQwNC5odG1sOwojICAgICAgICAgICAgbG9jYXRpb24gPSAvNDB4Lmh0bWwgewojICAgICAgICB9CiMKIyAgICAgICAgZXJyb3JfcGFnZSA1MDAgNTAyIDUwMyA1MDQgLzUweC5odG1sOwojICAgICAgICAgICAgbG9jYXRpb24gPSAvNTB4Lmh0bWwgewojICAgICAgICB9CiMgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXJfbmFtZSAgXzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0BuZXN0anMvY29tbW9uJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBwcm94eSB0aGUgUEhQIHNjcmlwdHMgdG8gQXBhY2hlIGxpc3RlbmluZyBvbiAxMjcuMC4wLjE6ODAKICAgICAgICAjCiAgICAgICAgI2xvY2F0aW9uIH4gXC5waHAkIHsKICAgICAgICAjICAgIHByb3h5X3Bhc3MgICBodHRwOi8vMTI3LjAuMC4xOwogICAgICAgICN9CgogICAgICAgICMgcGFzcyB0aGUgUEhQIHNjcmlwdHMgdG8gRmFzdENHSSBzZXJ2ZXIgbGlzdGVuaW5nIG9uIDEyNy4wLjAuMTo5MDAwCiAgICAgICAgIwogICAgICAgICNsb2NhdGlvbiB+IFwucGhwJCB7CiAgICAgICAgIyAgICByb290ICAgICAgICAgICBodG1sOwogICAgICAgICMgICAgZmFzdGNnaV9wYXNzICAgMTI3LjAuMC4xOjkwMDA7CiAgICAgICAgIyAgICBmYXN0Y2dpX2luZGV4ICBpbmRleC5waHA7CiAgICAgICAgIyAgICBmYXN0Y2dpX3BhcmFtICBTQ1JJUFRfRklMRU5BTUUgIC9zY3JpcHRzJGZhc3RjZ2lfc2NyaXB0X25hbWU7CiAgICAgICAgIyAgICBpbmNsdWRlICAgICAgICBmYXN0Y2dpX3BhcmFtczsKICAgICAgICAjfQoKICAgICAgICAjIGRlbnkgYWNjZXNzIHRvIC5odGFjY2VzcyBmaWxlcywgaWYgQXBhY2hlJ3MgZG9jdW1lbnQgcm9vdAogICAgICAgICMgY29uY3VycyB3aXRoIG5naW54J3Mgb25lCiAgICAgICAgIwogICAgICAgICNsb2NhdGlvbiB+IC9cLmh0IHsKICAgICAgICAjICAgIGRlbnkgIGFsbDsKICAgICAgICAjfQo=</text>
+        <text encoding="base64">aW0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inport</last-search>
+      <last-search encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>inport</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1202,6 +1256,7 @@
         <entry>accounts_has</entry>
         <entry encoding="base64">XDxSZWFjdFw+</entry>
         <entry>inport</entry>
+        <entry encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
