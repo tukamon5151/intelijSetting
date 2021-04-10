@@ -58,12 +58,11 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618033061915">
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618035380759">
         <mark key="'" line="14" column="9" />
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="42" />
-        <mark key="." line="15" column="42" />
-        <mark key="^" line="15" column="42" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/react-tutorial/src/models/User.ts" timestamp="1558156057609">
         <mark key="[" line="1" column="6" />
@@ -106,6 +105,12 @@
         <mark key="]" line="1" column="62" />
         <mark key="." line="1" column="62" />
         <mark key="^" line="1" column="62" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/index.ts" timestamp="1618035313944">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Project/React/react-tutorial/src/modules/store.ts" timestamp="1558936273144">
         <mark key="[" line="9" column="79" />
@@ -297,6 +302,13 @@
         <mark key="]" line="9" column="39" />
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" timestamp="1618035271910">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Project/my-site/.eslintignore" timestamp="1549687298837">
         <mark key="[" line="0" column="0" />
@@ -573,12 +585,6 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/Ruby/decidim-cfj/.platform/hooks/predeploy/03_mute_sidekiq.sh" timestamp="1617367983162">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/Rails/snabi/app/controllers/api/v1/biz/application_controller.rb" timestamp="1516596961872">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="20" column="10" />
@@ -708,12 +714,12 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618033882130">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="14" />
+      <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Project/Rails/snabi/frontend/javascripts/components/ArticleEditor/Constants.js" timestamp="1522653466171">
         <mark key="[" line="3" column="16" />
@@ -828,7 +834,7 @@
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618033566243">
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618035374565">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="17" />
@@ -1090,7 +1096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="57" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="40" column="20" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="17" column="8" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="12" column="3" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
@@ -1190,13 +1195,14 @@
       <jump line="13" column="9" filename="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" />
       <jump line="8" column="4" filename="$USER_HOME$/Project/React/nestjs/src/app.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/nestjs/src/task/index.ts" />
+      <jump line="0" column="36" filename="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>TasksService</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -1205,31 +1211,31 @@
         <text encoding="base64">ZWNobyAiVEVSTS9xdWlldGluZyBzaWRla2lxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRhc2tzU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgLmZvZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRhc2tzQ29udHJvbGxlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgVGFza3NDb250cm9sbGVyIH0gZnJvbSAnLi90YXNrcy5jb250cm9sbGVyJzsKZXhwb3J0IHsgVGFza3NTZXJ2aWNlIH0gZnJvbSAnLi90YXNrcy5zcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVxdWVzdCwgUmVzcG9uc2UsfSBmcm9tICdAbmVzdGpzL2NvbW1vbic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0BuZXN0anMvY29tbW9uJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW0sCg==</text>
+        <text encoding="base64">ICAgIFRhc2tzU2VydmljZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFRhc2tzQ29udHJvbGxlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IHsgVGFza3NDb250cm9sbGVyIH0gZnJvbSAnLi90YXNrcy5jb250cm9sbGVyJzsKZXhwb3J0IHsgVGFza3NTZXJ2aWNlIH0gZnJvbSAnLi90YXNrcy5zcnZpY2UnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
