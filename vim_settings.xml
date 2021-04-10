@@ -82,6 +82,11 @@
         <mark key="^" line="108" column="56" />
         <mark key="." line="108" column="56" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/Dockerfile" timestamp="1618096854898">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/index.ts" timestamp="1618033865822">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="44" />
@@ -651,6 +656,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618097290558">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/Project/my-site/src/components/BlogCard.jsx" timestamp="1549703987547">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="2" column="1" />
@@ -1198,11 +1209,11 @@
       <jump line="0" column="36" filename="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>db</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -1211,31 +1222,31 @@
         <text encoding="base64">ZWNobyAiVEVSTS9xdWlldGluZyBzaWRla2lxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">dmVyc2lvbiAiMyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmZvZGQK</text>
+        <text encoding="base64">Q01EIFsieWFybiIsICJkZXYiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">RlJPTSBiYXNlIGFzIGJ1aWxkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVxdWVzdCwgUmVzcG9uc2UsfSBmcm9tICdAbmVzdGpzL2NvbW1vbic7Cg==</text>
+        <text encoding="base64">QlVJZGRrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRhc2tzU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgLmZvZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRhc2tzQ29udHJvbGxlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgVGFza3NDb250cm9sbGVyIH0gZnJvbSAnLi90YXNrcy5jb250cm9sbGVyJzsKZXhwb3J0IHsgVGFza3NTZXJ2aWNlIH0gZnJvbSAnLi90YXNrcy5zcnZpY2UnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
