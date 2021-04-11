@@ -180,11 +180,12 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618104777537">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
+      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618105106671">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Project/Iroha/dance/front/src/js/module/modal.js" timestamp="1503819073294">
         <mark key="[" line="48" column="0" />
@@ -726,6 +727,12 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618105245300">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
         <mark key="'" line="11" column="4" />
         <mark key="[" line="20" column="19" />
@@ -1105,8 +1112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="3" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="22" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/constants/Avator.tsx" />
       <jump line="24" column="34" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="28" column="11" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="50" column="25" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
@@ -1205,13 +1210,15 @@
       <jump line="0" column="36" filename="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" />
       <jump line="14" column="6" filename="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" />
+      <jump line="12" column="0" filename="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DATABASE_URL</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>DATABASE_URL</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -1220,31 +1227,31 @@
         <text encoding="base64">ZWNobyAiVEVSTS9xdWlldGluZyBzaWRla2lxIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfUEFTU1dPUkQ6IGRvY2tlcgo=</text>
+        <text encoding="base64">ICBpZDoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgTVlTUUxfUEFTU1dPUkQ6IGRvY2tlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogZG9jZWtyCg==</text>
+        <text encoding="base64">ICAgICAgTVlTUUxfUEFTU1dPUkQ6IGRvY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmVyc2lvbiAiMyIK</text>
+        <text encoding="base64">ICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogZG9jZWtyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q01EIFsieWFybiIsICJkZXYiXQo=</text>
+        <text encoding="base64">dmVyc2lvbiAiMyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSBiYXNlIGFzIGJ1aWxkCg==</text>
+        <text encoding="base64">Q01EIFsieWFybiIsICJkZXYiXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RlJPTSBiYXNlIGFzIGJ1aWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QlVJZGRrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">QlVJZGRrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
