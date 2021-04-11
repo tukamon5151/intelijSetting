@@ -727,11 +727,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618105245300">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618106407968">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
         <mark key="'" line="11" column="4" />
@@ -1215,10 +1215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>prisma</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>prisma</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
