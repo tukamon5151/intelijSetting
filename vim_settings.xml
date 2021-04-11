@@ -87,12 +87,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/Docker/getting-started/app/src/static/js/app.js" timestamp="1617437282856">
-        <mark key="[" line="108" column="53" />
-        <mark key="]" line="108" column="56" />
-        <mark key="^" line="108" column="56" />
-        <mark key="." line="108" column="56" />
-      </file>
       <file name="$USER_HOME$/Project/React/next-prisma/Dockerfile" timestamp="1618096854898">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -204,6 +198,7 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/node_modules/.prisma/client/index.d.ts" timestamp="1618132492326" />
     </filemarks>
     <jumps>
       <jump line="50" column="25" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
