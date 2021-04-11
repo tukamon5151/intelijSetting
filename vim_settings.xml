@@ -180,7 +180,7 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618105106671">
+      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618117656996">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="39" />
         <mark key="]" line="15" column="19" />
@@ -660,12 +660,12 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618104028095">
+      <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618117491868">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="30" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="$USER_HOME$/Project/my-site/src/components/BlogCard.jsx" timestamp="1549703987547">
         <mark key="[" line="0" column="30" />
@@ -727,11 +727,11 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618106407968">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="6" column="41" />
+      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618117436690">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
       </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
         <mark key="'" line="11" column="4" />
@@ -1112,7 +1112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="34" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="28" column="11" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="50" column="25" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="4" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/modules/users/reducer.ts" />
@@ -1211,6 +1210,7 @@
       <jump line="14" column="6" filename="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" />
       <jump line="12" column="0" filename="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" />
+      <jump line="14" column="13" filename="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" />
     </jumps>
     <registers>
