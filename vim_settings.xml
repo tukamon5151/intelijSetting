@@ -81,79 +81,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618035380759">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/Dockerfile" timestamp="1618096854898">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/index.ts" timestamp="1618033865822">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/index.ts" timestamp="1618035313944">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618119079732">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/interfaces/index.ts" timestamp="1618032628197">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" timestamp="1618035271910">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618035374565">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.module.ts" timestamp="1618033841020">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/indext.ts" timestamp="1618033024287">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/Project/Docker/getting-started/app/.gickerignore" timestamp="1617441291690">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618119686005">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="31" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/create-task.dto.ts" timestamp="1618032994857">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618117436690">
         <mark key="[" line="6" column="38" />
@@ -168,17 +106,29 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618035380759">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/Dockerfile" timestamp="1618264104113">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/index.ts" timestamp="1618033865822">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/interfaces/task.interface.ts" timestamp="1618032586749">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618035374565">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/Project/Docker/getting-started/app/Dockerfile" timestamp="1617441196097">
         <mark key="[" line="2" column="12" />
@@ -186,19 +136,63 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/index.ts" timestamp="1618035313944">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/interfaces/index.ts" timestamp="1618032628197">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/indext.ts" timestamp="1618033024287">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/Project/Docker/getting-started/app/.gickerignore" timestamp="1617441291690">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618264063833">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="27" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" timestamp="1618035271910">
+        <mark key="'" line="0" column="36" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/create-task.dto.ts" timestamp="1618032994857">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618119079732">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/Project/Docker/getting-started/app/src/static/index.html" timestamp="1617441636383">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="22" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/Docker/getting-started/app/docker-compose.yml" timestamp="1617440156848">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/node_modules/.prisma/client/index.d.ts" timestamp="1618132492326" />
     </filemarks>
     <jumps>
       <jump line="50" column="25" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
@@ -305,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gLjovYXBwCg==</text>
+      <register name="&quot;" type="4">
+        <text>400i6</text>
       </register>
       <register name="-" type="4">
-        <text>prisma</text>
+        <text>400i6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
