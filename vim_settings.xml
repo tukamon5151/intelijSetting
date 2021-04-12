@@ -87,6 +87,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/stories/Button.stories.js" timestamp="1618267005939">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="17" />
+      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.module.ts" timestamp="1618033841020">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="26" />
@@ -130,12 +136,6 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/Docker/getting-started/app/Dockerfile" timestamp="1617441196097">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/index.ts" timestamp="1618035313944">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="25" />
@@ -153,12 +153,6 @@
         <mark key="]" line="0" column="49" />
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/Project/Docker/getting-started/app/.gickerignore" timestamp="1617441291690">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618264063833">
         <mark key="'" line="0" column="0" />
@@ -180,6 +174,7 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/.storybook/preview.js" timestamp="1618266253610" />
       <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618119079732">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="12" />
@@ -300,10 +295,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>400i6</text>
+        <text>Fuga</text>
       </register>
       <register name="-" type="4">
-        <text>400i6</text>
+        <text>Fuga</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
