@@ -81,35 +81,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Login/index.ts" timestamp="1618495220526">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Login/Login.stories.tsx" timestamp="1618494989103">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/session.ts" timestamp="1618487576820">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="14" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/.eslintrc.js" timestamp="1618494645511">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@chakra-ui/button/dist/types/button.d.ts" timestamp="1618481746413" />
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/Login/Login.tsx" timestamp="1618478228909">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="13" column="4" />
-        <mark key="^" line="13" column="4" />
-        <mark key="." line="13" column="3" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/Login/Login.tsx" timestamp="1618494701754">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Top/Top.tsx" timestamp="1618481700105">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/LoginModal/LoginModal.tsx" timestamp="1618481810267">
-        <mark key="[" line="34" column="51" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="57" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/LoginModal/LoginModal.tsx" timestamp="1618495177363">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="58" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/index.tsx" timestamp="1618491206966">
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/index.tsx" timestamp="1618493273424">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/next.config.js" timestamp="1618491105578">
         <mark key="[" line="0" column="0" />
@@ -117,30 +135,18 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/_app.tsx" timestamp="1618476457362">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="48" />
-        <mark key="." line="7" column="47" />
-        <mark key="^" line="7" column="48" />
+      <file name="$USER_HOME$/Project/React/trello-copy/hooks/useUser.tsx" timestamp="1618496470992">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="16" column="76" />
+        <mark key="^" line="16" column="76" />
+        <mark key="." line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/Link/index.ts" timestamp="1618479215674">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/GoogleLoginButton/index.ts" timestamp="1618480069761">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/.gitignore" timestamp="1618481146893">
-        <mark key="'" line="22" column="5" />
-        <mark key="[" line="26" column="17" />
-        <mark key="]" line="27" column="4" />
-        <mark key="^" line="27" column="4" />
-        <mark key="." line="27" column="3" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Login/Login.tsx" timestamp="1618496585759">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@types/next-auth/index.d.ts" timestamp="1618489858861">
         <mark key="'" line="27" column="8" />
@@ -158,9 +164,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/GoogleLoginButton/GoogleLoginButton.stories.tsx" timestamp="1618480038275">
-        <mark key="j" line="4" column="29" />
-      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].ts" timestamp="1618490435388">
         <mark key="'" line="15" column="10" />
         <mark key="[" line="15" column="80" />
@@ -168,35 +171,33 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/GoogleLoginButton/GoogleLoginButton.tsx" timestamp="1618480808002">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="21" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/GoogleLoginButton/GoogleLoginButton.tsx" timestamp="1618496650120">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="83" />
+        <mark key="^" line="20" column="83" />
+        <mark key="." line="20" column="82" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/next-auth/dist/providers/index.js" timestamp="1618475999424" />
       <file name="$USER_HOME$/Project/React/trello-copy/lib/request/session.ts" timestamp="1618481458320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/LoginModal/LoginModal.stories.tsx" timestamp="1618480738860">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/hoge.tsx" timestamp="1618495677039">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="15" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" timestamp="1618496611513">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="24" column="77" />
+        <mark key="." line="24" column="76" />
+        <mark key="^" line="24" column="77" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="17" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="32" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="0" column="19" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
-      <jump line="4" column="8" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
-      <jump line="24" column="4" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
-      <jump line="32" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
       <jump line="27" column="4" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
       <jump line="7" column="9" filename="$USER_HOME$/Project/Ruby/vending_machine/src/juice_stock.rb" />
       <jump line="33" column="0" filename="$USER_HOME$/Project/Ruby/vending_machine/src/vending_machine.rb" />
@@ -289,15 +290,23 @@
       <jump line="13" column="10" filename="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].ts" />
       <jump line="136" column="17" filename="$USER_HOME$/Project/React/trello-copy/node_modules/@types/next-auth/index.d.ts" />
       <jump line="27" column="8" filename="$USER_HOME$/Project/React/trello-copy/node_modules/@types/next-auth/index.d.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/Project/React/trello-copy/hooks/useUser.tsx" />
+      <jump line="20" column="21" filename="$USER_HOME$/Project/React/trello-copy/hooks/useUser.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/hooks/useUser.tsx" />
+      <jump line="15" column="10" filename="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" />
+      <jump line="23" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" />
+      <jump line="27" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/hoge.tsx" />
+      <jump line="26" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/hoge.tsx" />
+      <jump line="18" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Image</text>
+        <text>asPath</text>
       </register>
       <register name="-" type="4">
-        <text>Image</text>
+        <text>asPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -306,31 +315,31 @@
         <text encoding="base64">ICAgICAgICAgIDxMaXN0SXRlbT57dXNlci5pbWFnZX08L0xpc3RJdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEltYWdlIGZyb20gJ25leHQvaW1hZ2UnCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZXNzaW9uKTsK</text>
+        <text encoding="base64">aW1kZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaXN0SXRlbT57dXNlcn08L0xpc3RJdGVtPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dC9yb3V0ZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsTWFwcGluZzogewogICAgICBVc2VyOiAndXNlcicsCiAgICAgIEFjY291bnQ6ICdhY2NvdW50JywKICAgICAgU2Vzc2lvbjogJ3Nlc3Npb24nLAogICAgICBWZXJpZmljYXRpb25SZXF1ZXN0OiAndmVyaWZpY2F0aW9uUmVxdWVzdCcKICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Vzc2lvbikK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Vzc2lvbiwgdXNlcikK</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2l0aEFkZGl0aW9uYWxQYXJhbXMgfSBmcm9tICduZXh0LWF1dGgvX3V0aWxzJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgc2lnbmlufSBmcm9tICduZXh0LWF1dGgvY2xpZW50Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHNlc3Npb24K</text>
+        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
