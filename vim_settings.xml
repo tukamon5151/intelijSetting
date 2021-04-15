@@ -81,60 +81,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618450190044">
+      <file name="$USER_HOME$/Project/React/trello-copy/.storybook/main.js" timestamp="1618464611772">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/Dockerfile" timestamp="1618460934219">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/docker-compose.yml" timestamp="1618465034552">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="16" />
+        <mark key="^" line="34" column="17" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/_app.tsx" timestamp="1618464275465">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/.prettierrc.json" timestamp="1618463698034">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/prisma.ts" timestamp="1618460623854">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="15" />
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618035374565">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/stories/Button.stories.js" timestamp="1618267005939">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="17" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/Dockerfile" timestamp="1618448807625">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/docker-compose.yml" timestamp="1618450019579">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="16" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618117436690">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618035380759">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/stories/Button.js" timestamp="1618281642765">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/Button/index.ts" timestamp="1618465061260">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/Dockerfile" timestamp="1618287355615">
         <mark key="[" line="7" column="0" />
@@ -142,12 +130,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/index.ts" timestamp="1618035313944">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/index.js" timestamp="1618463710144" />
       <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618287219241">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -155,11 +138,56 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/.env" timestamp="1618450001642">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="60" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="6" column="59" />
+      <file name="$USER_HOME$/Project/React/trello-copy/.env" timestamp="1618458297900">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/hello.ts" timestamp="1618464009071">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="3" column="64" />
+        <mark key="^" line="3" column="64" />
+        <mark key="." line="3" column="63" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618461409637">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/package.json" timestamp="1618463368332">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="44" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/_app.js" timestamp="1618462641708">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="47" />
+        <mark key="^" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/.eslintrc.js" timestamp="1618463719876">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/components/Button/Button.stories.tsx" timestamp="1618465093982">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" timestamp="1618463877799">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="53" />
+        <mark key="^" line="41" column="53" />
+        <mark key="." line="41" column="52" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" timestamp="1618290209776">
         <mark key="'" line="0" column="0" />
@@ -167,42 +195,15 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618119079732">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/index.tsx" timestamp="1618463851385">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="66" column="20" />
+        <mark key="." line="66" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/components/Providor.tsx" />
-      <jump line="7" column="37" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="119" column="17" filename="$USER_HOME$/Project/React/react-tutorial/node_modules/redux/index.d.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="5" column="35" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="6" column="22" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="94" column="34" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="11" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
-      <jump line="17" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="9" column="21" filename="$USER_HOME$/Project/React/react-tutorial/src/components/FormItem.tsx" />
-      <jump line="6" column="69" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="140" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="180" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="107" column="17" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="98" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="25" column="2" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="10" column="11" filename="$USER_HOME$/Project/React/react-tutorial/src/components/Submit.tsx" />
-      <jump line="12" column="21" filename="$USER_HOME$/Project/React/react-tutorial/src/components/Submit.tsx" />
-      <jump line="16" column="41" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="167" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="18" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Signup.tsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="92" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="20" column="14" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="97" column="26" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="6" column="11" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
-      <jump line="23" column="18" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
       <jump line="21" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/modules/users/actions.ts" />
       <jump line="0" column="6" filename="$USER_HOME$/Project/React/react-tutorial/src/modules/auth/reducer.ts" />
       <jump line="140" column="39" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
@@ -275,16 +276,43 @@
       <jump line="12" column="0" filename="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
+      <jump line="12" column="11" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
+      <jump line="16" column="0" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
+      <jump line="14" column="12" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
+      <jump line="4" column="6" filename="$USER_HOME$/Project/React/trello-copy/lib/prisma.ts" />
+      <jump line="10" column="10" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="23" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="11" column="40" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="2" column="14" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="15" column="10" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="3" column="38" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="29" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="2" column="39" filename="$USER_HOME$/Project/React/trello-copy/lib/prisma.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/lib/prisma.ts" />
+      <jump line="22" column="25" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="18" column="10" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="5" column="11" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="44" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
+      <jump line="6" column="5" filename="$USER_HOME$/Project/React/trello-copy/pages/_app.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/_app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/_app.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/index.tsx" />
+      <jump line="19" column="11" filename="$USER_HOME$/Project/React/trello-copy/pages/index.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Example</text>
       </register>
       <register name="-" type="4">
-        <text>postgresqi</text>
+        <text>Example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -293,31 +321,31 @@
         <text encoding="base64">ICAgICAgLSAvYXBwL25vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6IFsKICAgICAgJ2Vycm9yJywKICAgIF0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRyYWlsaW5nQ29tbWE6ICdhbGwnLAogICAgICAgIGVuZE9mTGluZTogJ2xmJywKICAgICAgICBzZW1pOiBmYWxzZSwKICAgICAgICBzaW5nbGVRdW90ZTogdHJ1ZSwKICAgICAgICBwcmludFdpZHRoOiA4MCwKICAgICAgICB0YWJXaWR0aDogMiwKICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdwcmV0dGllci9AdHlwZXNjcmlwdC1lc2xpbnQnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text>kk</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2FyZH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWw6</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hha3JhUHJvdmlkZXIgfSBmcm9tICdAY2hha3JhLXVpL3JlYWN0Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hha3JhfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hha3JhUHJvdmlkZXIgfSBmcm9tICdAY2hha3VyYS11aS9yZWFjdCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RVhQT1NFIDMwMDAK</text>
+        <text encoding="base64">ICBub2RlX21vZHVsZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAgICAgLSBub2RlX21vZHVsZXM6L2FwcC9ub2RlX21vZHVsZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
