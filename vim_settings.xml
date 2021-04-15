@@ -81,6 +81,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618450190044">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.srvice.ts" timestamp="1618035374565">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="19" />
@@ -99,17 +106,35 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/docker-compose.yml" timestamp="1618449804452">
+      <file name="$USER_HOME$/Project/React/trello-copy/docker-compose.yml" timestamp="1618450019579">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="15" column="17" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618117436690">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618035380759">
         <mark key="'" line="14" column="9" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/stories/Button.js" timestamp="1618281642765">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/Dockerfile" timestamp="1618287355615">
         <mark key="[" line="7" column="0" />
@@ -136,6 +161,12 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="6" column="59" />
       </file>
+      <file name="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" timestamp="1618290209776">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618119079732">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="12" />
@@ -143,40 +174,8 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618449978970">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618117436690">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-      </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/app.module.ts" timestamp="1618035300280">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/stories/Button.js" timestamp="1618281642765">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" timestamp="1618290209776">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="13" filename="$USER_HOME$/Project/React/react-tutorial/src/modules/users/reducer.ts" />
-      <jump line="12" column="3" filename="$USER_HOME$/Project/React/react-tutorial/src/components/Providor.tsx" />
       <jump line="13" column="0" filename="$USER_HOME$/Project/React/react-tutorial/src/components/Providor.tsx" />
       <jump line="7" column="37" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/User.tsx" />
       <jump line="119" column="17" filename="$USER_HOME$/Project/React/react-tutorial/node_modules/redux/index.d.ts" />
@@ -275,12 +274,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" />
       <jump line="12" column="0" filename="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>postgresqi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>postgresqi</text>
@@ -292,31 +293,31 @@
         <text encoding="base64">ICAgICAgLSAvYXBwL25vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbXlzcWw6</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RVhQT1NFIDMwMDAK</text>
+        <text>kk</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">ICAgICAgbXlzcWw6</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBob2dlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBob2dlCiAgICovCg==</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
+        <text encoding="base64">RVhQT1NFIDMwMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicmVmcyI6IHsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
