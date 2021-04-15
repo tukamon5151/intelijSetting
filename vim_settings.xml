@@ -117,13 +117,6 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/.storybook/main.js" timestamp="1618473133505">
-        <mark key="'" line="11" column="25" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/pages/_app.tsx" timestamp="1618476457362">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="48" />
@@ -161,14 +154,21 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618486668665">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/GoogleLoginButton/GoogleLoginButton.stories.tsx" timestamp="1618480038275">
         <mark key="j" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].ts" timestamp="1618482779162">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].ts" timestamp="1618486827443">
+        <mark key="'" line="3" column="42" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/GoogleLoginButton/GoogleLoginButton.tsx" timestamp="1618480808002">
         <mark key="[" line="12" column="16" />
@@ -191,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/Project/React/react-tutorial/src/components/PrivateRoute.tsx" />
-      <jump line="24" column="26" filename="$USER_HOME$/Project/React/react-tutorial/src/components/PrivateRoute.tsx" />
       <jump line="147" column="8" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
       <jump line="50" column="19" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
       <jump line="132" column="10" filename="$USER_HOME$/Project/React/react-tutorial/src/pages/Login.tsx" />
@@ -291,15 +289,17 @@
       <jump line="14" column="12" filename="$USER_HOME$/Project/React/trello-copy/components/templates/Top/Top.tsx" />
       <jump line="29" column="0" filename="$USER_HOME$/Project/React/trello-copy/components/organizations/LoginModal/LoginModal.tsx" />
       <jump line="22" column="5" filename="$USER_HOME$/Project/React/trello-copy/.gitignore" />
+      <jump line="16" column="42" filename="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFjY291bnRkZGspCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -308,31 +308,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IE9wZW4gPSAoYXJncykgPT4gPE1vZGFsIHsuLi5hcmdzfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGFjY291bnRkZGspCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bGV0IHByaXNtYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bW9kZWwgQWNjb3VudCB7Cn0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGFjY291bnRkZGspCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1kZGtrCg==</text>
+        <text encoding="base64">ICAgICAgY29uZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPEJveD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAg44Ot44Kw44Kk44Oz44GX44Gm44G+44GZ44Gt44GC44Gq44GfCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
