@@ -142,11 +142,10 @@
         <mark key="^" line="16" column="76" />
         <mark key="." line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Login/Login.tsx" timestamp="1618496585759">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Login/Login.tsx" timestamp="1618496715084">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@types/next-auth/index.d.ts" timestamp="1618489858861">
         <mark key="'" line="27" column="8" />
@@ -189,12 +188,12 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" timestamp="1618496611513">
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" timestamp="1618496708127">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="24" column="77" />
-        <mark key="." line="24" column="76" />
-        <mark key="^" line="24" column="77" />
+        <mark key="[" line="24" column="78" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -302,8 +301,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>asPath</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsKICByZWZlcnJlcj86IHN0cmluZwp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>asPath</text>
@@ -315,31 +314,31 @@
         <text encoding="base64">ICAgICAgICAgIDxMaXN0SXRlbT57dXNlci5pbWFnZX08L0xpc3RJdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHsKICByZWZlcnJlcj86IHN0cmluZwp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1kZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dC9yb3V0ZXInCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1kZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dC9yb3V0ZXInCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dCc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2lnbmlufSBmcm9tICduZXh0LWF1dGgvY2xpZW50Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAnbmV4dCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFByb3BzIHt9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2lnbmlufSBmcm9tICduZXh0LWF1dGgvY2xpZW50Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
