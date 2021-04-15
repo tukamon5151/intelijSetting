@@ -100,23 +100,17 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="14" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/_app.tsx" timestamp="1618464275465">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/_app.tsx" timestamp="1618476457362">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Top/Top.stories.tsx" timestamp="1618471076048">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/Button/index.ts" timestamp="1618465061260">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@chakra-ui/react/dist/types/index.d.ts" timestamp="1618467763152" />
       <file name="$USER_HOME$/Project/React/trello-copy/.storybook/preview.tsx" timestamp="1618472620827">
@@ -132,17 +126,23 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/hello.ts" timestamp="1618464009071">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="3" column="64" />
-        <mark key="^" line="3" column="64" />
-        <mark key="." line="3" column="63" />
-      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/package.json" timestamp="1618474291069">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="8" column="45" />
-        <mark key="." line="41" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].ts" timestamp="1618476259315">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/next-auth/dist/providers/index.js" timestamp="1618475999424" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/auth/[...nextauth].js" timestamp="1618475986294">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="42" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/Button/Button.stories.tsx" timestamp="1618465093982">
         <mark key="[" line="6" column="10" />
@@ -155,13 +155,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" timestamp="1618463877799">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="41" column="53" />
-        <mark key="]" line="41" column="53" />
-        <mark key="^" line="41" column="53" />
-        <mark key="." line="41" column="52" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/.storybook/preview.js" timestamp="1618471809177">
         <mark key="[" line="13" column="61" />
@@ -301,10 +294,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3PSIxMDAlIgo=</text>
+        <text encoding="base64">ICAgIDxDaGFrcmFQcm92aWRlcj4KICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPgogICAgPC9DaGFrcmFQcm92aWRlcj4K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -313,31 +306,31 @@
         <text encoding="base64">ICAgICAgLSBub2RlX21vZHVsZXM6L2FwcC9ub2RlX21vZHVsZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3PSIxMDAlIgo=</text>
+        <text encoding="base64">ICAgIDxDaGFrcmFQcm92aWRlcj4KICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPgogICAgPC9DaGFrcmFQcm92aWRlcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwYXRocy5tYWNybyI6ICJeMy4wLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGJhc2UgZnJvbSAncGF0aHMubWFjcm8nCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxDZW50ZXIgYmc9eydibHVlLjMwMCd9IHB5PXsxMDB9PgogICAgICA8VlN0YWNrIHNwYWNpbmc9ezV9PgogICAgICAgIDxIZWFkaW5nIGFzPSJoMSIgbWI9ezEwfT4KICAgICAgICAgIFRyZWxsb+OBp+ODgeODvOODoOOBrueUn+eUo+aAp+OCkuOCouODg+ODl+OAggogICAgICAgIDwvSGVhZGluZz4KICAgICAgICA8VGV4dD4KICAgICAgICAgIOOCs+ODqeODnOODrOODvOOCt+ODp+ODs+OAgeODl+ODreOCuOOCp+OCr+ODiOeuoeeQhuOAgeeUn+eUo+aAp+OBruWQkeS4iuOAgumrmOWxpOODk+ODq+OBp+OCguiHquWuheOBruOCquODleOCo+OCueOBp+OCguOAgVRyZWxsb+OBquOCieODgeODvOODoOOBruS7leS6i+OBrumAsuOCgeaWueOBq+WQiOOCj+OBm+OBpuWFqOOBpuOCkumBlOaIkOWHuuadpeOBvuOBmeOAggogICAgICAgIDwvVGV4dD4KICAgICAgICA8RmxleCBtaW5IPXs0MH0+CiAgICAgICAgICA8SW5wdXQgcGxhY2Vob2xkZXI9IuODoeODvOODq+OCouODieODrOOCuSIgbXI9ezV9IGJnPXsnd2hpdGUnfSAvPgogICAgICAgICAgPEJ1dHRvbiBjb2xvclNjaGVtZT0iYmx1ZSI+44Ki44Kr44Km44Oz44OI44KS5L2c5oiQ44O754Sh5paZ44Gn44GZ77yBPC9CdXR0b24+CiAgICAgICAgPC9GbGV4PgogICAgICAgIDxCb3g+CiAgICAgICAgICA8TGluayBocmVmPSIvIj7jg63jgrDjgqTjg7M8L0xpbms+CiAgICAgICAgPC9Cb3g+CiAgICAgIDwvVlN0YWNrPgogICAgPC9DZW50ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxCCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIOOCiOOBhuOBk+OBnVRyZWxsb+OCs+ODlOODvOOBuAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3PSIxMDAlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8SGVhZGluZyBhcz0iaDEiIG1iPXsxMH0+CiAgICAgICAgICDjgojjgYbjgZPjgZ1UcmVsbG/jgrPjg5Tjg7zjgbgK</text>
+        <text encoding="base64">ICAgICJwYXRocy5tYWNybyI6ICJeMy4wLjEiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhvZ2UK</text>
+        <text encoding="base64">aW1wb3J0IGJhc2UgZnJvbSAncGF0aHMubWFjcm8nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxDZW50ZXIgYmc9eydibHVlLjMwMCd9IHB5PXsxMDB9PgogICAgICA8VlN0YWNrIHNwYWNpbmc9ezV9PgogICAgICAgIDxIZWFkaW5nIGFzPSJoMSIgbWI9ezEwfT4KICAgICAgICAgIFRyZWxsb+OBp+ODgeODvOODoOOBrueUn+eUo+aAp+OCkuOCouODg+ODl+OAggogICAgICAgIDwvSGVhZGluZz4KICAgICAgICA8VGV4dD4KICAgICAgICAgIOOCs+ODqeODnOODrOODvOOCt+ODp+ODs+OAgeODl+ODreOCuOOCp+OCr+ODiOeuoeeQhuOAgeeUn+eUo+aAp+OBruWQkeS4iuOAgumrmOWxpOODk+ODq+OBp+OCguiHquWuheOBruOCquODleOCo+OCueOBp+OCguOAgVRyZWxsb+OBquOCieODgeODvOODoOOBruS7leS6i+OBrumAsuOCgeaWueOBq+WQiOOCj+OBm+OBpuWFqOOBpuOCkumBlOaIkOWHuuadpeOBvuOBmeOAggogICAgICAgIDwvVGV4dD4KICAgICAgICA8RmxleCBtaW5IPXs0MH0+CiAgICAgICAgICA8SW5wdXQgcGxhY2Vob2xkZXI9IuODoeODvOODq+OCouODieODrOOCuSIgbXI9ezV9IGJnPXsnd2hpdGUnfSAvPgogICAgICAgICAgPEJ1dHRvbiBjb2xvclNjaGVtZT0iYmx1ZSI+44Ki44Kr44Km44Oz44OI44KS5L2c5oiQ44O754Sh5paZ44Gn44GZ77yBPC9CdXR0b24+CiAgICAgICAgPC9GbGV4PgogICAgICAgIDxCb3g+CiAgICAgICAgICA8TGluayBocmVmPSIvIj7jg63jgrDjgqTjg7M8L0xpbms+CiAgICAgICAgPC9Cb3g+CiAgICAgIDwvVlN0YWNrPgogICAgPC9DZW50ZXI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
