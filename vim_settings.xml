@@ -93,11 +93,17 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.module.ts" timestamp="1618033841020">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="6" column="26" />
+      <file name="$USER_HOME$/Project/React/trello-copy/Dockerfile" timestamp="1618448807625">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/docker-compose.yml" timestamp="1618449804452">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/task/tasks.controller.ts" timestamp="1618035380759">
         <mark key="'" line="14" column="9" />
@@ -111,25 +117,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/index.ts" timestamp="1618033865822">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-      </file>
       <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/index.ts" timestamp="1618035313944">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/indext.ts" timestamp="1618033024287">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/pages/api/hello.js" timestamp="1618290303978" />
       <file name="$USER_HOME$/Project/React/next-prisma/docker-compose.yml" timestamp="1618287219241">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="0" />
@@ -137,12 +130,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/package.json" timestamp="1618279077901" />
-      <file name="$USER_HOME$/Project/React/nestjs/src/task/dto/create-task.dto.ts" timestamp="1618032994857">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/Project/React/trello-copy/.env" timestamp="1618450001642">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="6" column="59" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/prisma/schema.prisma" timestamp="1618119079732">
         <mark key="'" line="0" column="0" />
@@ -150,6 +142,12 @@
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618449978970">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Project/React/next-prisma/.env" timestamp="1618117436690">
         <mark key="[" line="6" column="38" />
@@ -169,14 +167,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Project/React/nestjs/src/common/middleware/logger.middleware.ts" timestamp="1618035271910">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/Project/React/next-prisma/.storybook/preview.js" timestamp="1618266253610" />
       <file name="$USER_HOME$/Project/React/next-prisma/.storybook/main.js" timestamp="1618290209776">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
@@ -289,11 +279,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RVhQT1NFIDMwMDAK</text>
+      <register name="&quot;" type="4">
+        <text>postgresqi</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>postgresqi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -302,31 +292,31 @@
         <text encoding="base64">ICAgICAgLSAvYXBwL25vZGVfbW9kdWxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RVhQT1NFIDMwMDAK</text>
+        <text encoding="base64">ICAgICAgbXlzcWw6</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBob2dlCg==</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBob2dlCiAgICovCg==</text>
+        <text encoding="base64">RVhQT1NFIDMwMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
+        <text encoding="base64">ICAgICAgLSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAicmVmcyI6IHsKICB9Cg==</text>
+        <text encoding="base64">ICBob2dlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdAY2hha3JhLXVpL3JlYWN0JzogeyBkaXNhYmxlOiB0cnVlIH0K</text>
+        <text encoding="base64">ICAvKioKICAgKiBob2dlCiAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBdCg==</text>
+        <text encoding="base64">ICAicmVmcyI6IHsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
