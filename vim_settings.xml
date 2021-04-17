@@ -155,17 +155,18 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="24" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/ApiMiddleware/runMiddleware.ts" timestamp="1618621829516">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/hooks/useUser.tsx" timestamp="1618578416077">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="23" />
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="29" />
         <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/services/updateMeService.ts" timestamp="1618576072904">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1618578101092">
         <mark key="'" line="20" column="0" />
@@ -286,11 +287,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>updateUser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICApID0+IHZvaWQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>updateUser</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -299,31 +300,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhgYm9keTogJHtyZXEuYm9keX1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXNlcmRkfQo=</text>
+        <text encoding="base64">ICApID0+IHZvaWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJlcTogTmV4dEFwaVJlcXVlc3QsCiAgICByZXM6IE5leHRBcGlSZXNwb25zZSwKICAgIHJlc3VsdDogYW55LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcy5zdGF0dXMoMjAwKS5lbmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJEdG8pCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVXNlcmRkfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyRHRvKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgdXNlckR0bzogJHt1c2VyRHRvfWApCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhgYm9keTogJHtKU09OLnBhcnNlKHJlcS5ib2R5KX1gKQogIGNvbnNvbGUubG9nKGBib2R5OnVzZXI6ICR7cmVxLmJvZHlbInVzZXIiXX1gKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHJlcy5zdGF0dXMoMjAwKS5lbmQoKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXJEdG8pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyRHRvKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgdXNlckR0bzogJHt1c2VyRHRvfWApCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
