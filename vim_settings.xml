@@ -81,30 +81,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/me.tsx" timestamp="1618630405650">
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/me.tsx" timestamp="1618633207802">
         <mark key="'" line="9" column="48" />
-        <mark key="[" line="63" column="47" />
-        <mark key="]" line="64" column="22" />
-        <mark key="^" line="64" column="22" />
-        <mark key="." line="64" column="21" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" timestamp="1618628520703">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="33" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" timestamp="1618632806496">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="24" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/client/request.ts" timestamp="1618628683452">
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/client/request.ts" timestamp="1618632578816">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="55" />
         <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/client/userRequest.ts" timestamp="1618628328862">
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="46" />
-        <mark key="." line="9" column="45" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/client/userRequest.ts" timestamp="1618632790187">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="39" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/server/middleware/initMiddleware.ts" timestamp="1618627129335">
         <mark key="[" line="2" column="47" />
@@ -117,12 +117,6 @@
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/ProfileTextForm/ProfileTextForm.stories.tsx" timestamp="1618620141007">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="25" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/server/ApiMiddleware/initMiddleware.ts" timestamp="1618623168565">
         <mark key="'" line="17" column="0" />
@@ -157,6 +151,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/next.config.js" timestamp="1618631447775">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/.gitignore" timestamp="1618629738514">
         <mark key="'" line="22" column="5" />
@@ -285,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -298,31 +297,31 @@
         <text encoding="base64">ICAgIGNiKG51bGwsIGAuL3B1YmxpYy91cGxvYWRzJHtmaWxlLmZpZWxkbmFtZX1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNiKG51bGwsICcuL3B1YmxpYy91cGxvYWRzJykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWxlID0gcmVxLmZpbGUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaG9nZScsIHJlcS5ib2R5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbWFnZSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuZmlsZSkK</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhd2FpdCBtdWx0ZXJTaW5nbGUocmVxLCByZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTogUHJvbWlzZTxVc2VyRHRvPiA9PiB7Cg==</text>
+        <text encoding="base64">Y29uc3QgaXNCb2R5SW5pdCA9IChhcmdzOiBCb2R5SW5pdCB8IGFueSk6IGFyZ3MgaXMgQm9keUluaXQgPT4gewp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LCByZXEuZmlsZSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5ID0gSlNPTi5wYXJzZShyZXEuYm9keSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhKSkK</text>
+        <text encoding="base64">ICBpZiAodHlwZW9mIGRhdGEgPT09ICdzdHJpbmcnKSB7CiAgICBib2R5ID0gCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
