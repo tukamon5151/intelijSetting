@@ -81,11 +81,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Boards/Boards.tsx" timestamp="1618672112090">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Boards/Boards.tsx" timestamp="1618672170065">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/.storybook/preview.tsx" timestamp="1618671589150">
         <mark key="'" line="13" column="0" />
@@ -290,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>Props</text>
@@ -303,31 +303,31 @@
         <text encoding="base64">ICAgICAgPFNpZGViYXJJdGVtIGljb249e0dyVGVtcGxhdGV9IHRleHQ9IuODhuODs+ODl+ODrOODvOODiCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBQcm9wcyB7fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29sbwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEJveD7jg5zjg7zjg4k8L0JveD4KICAgICAgPEJveD7jg4bjg7Pjg5fjg6zjg7zjg4g8L0JveD4KICAgICAgPEJveD7jg5vjg7zjg6A8L0JveD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwYXRoOiBzdHJpbmcK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgey4uLm90aGVyfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBQcm9wcyB7fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29sbwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPEJveD7jg5zjg7zjg4k8L0JveD4KICAgICAgPEJveD7jg4bjg7Pjg5fjg6zjg7zjg4g8L0JveD4KICAgICAgPEJveD7jg5vjg7zjg6A8L0JveD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwYXRoOiBzdHJpbmcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgey4uLm90aGVyfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QmFzZS5hcmdzID0gewogIGlzQWN0aXZlOiBmYWxzZSwKICBpY29uOiA8ZGl2PmhvZ2U8L2Rpdj4sCiAgdGV4dDogJ3RleHQnCn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
