@@ -81,12 +81,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/me.tsx" timestamp="1618629440406">
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/me.tsx" timestamp="1618630405650">
         <mark key="'" line="9" column="48" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="51" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="64" column="22" />
+        <mark key="^" line="64" column="22" />
+        <mark key="." line="64" column="21" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" timestamp="1618628520703">
         <mark key="[" line="31" column="23" />
@@ -177,12 +177,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/multer.ts" timestamp="1618629727658">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/next/types/index.d.ts" timestamp="1618621887234" />
     </filemarks>
@@ -292,43 +286,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBqc29uID0gYXdhaXQgcGF0Y2goJy9hcGkvbWUnLCB7IHVzZXIgfSkKICByZXR1cm4ganNvbi51c2VyIGFzIFVzZXIK</text>
+        <text encoding="base64">ICAgIGNiKG51bGwsIGAuL3B1YmxpYy91cGxvYWRzJHtmaWxlLmZpZWxkbmFtZX1gKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWxlID0gcmVxLmZpbGUK</text>
+        <text encoding="base64">ICAgIGNiKG51bGwsICcuL3B1YmxpYy91cGxvYWRzJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbWFnZSkK</text>
+        <text encoding="base64">ICBjb25zdCBmaWxlID0gcmVxLmZpbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuZmlsZSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbWFnZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhd2FpdCBtdWx0ZXJTaW5nbGUocmVxLCByZXMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuZmlsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KTogUHJvbWlzZTxVc2VyRHRvPiA9PiB7Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBtdWx0ZXJTaW5nbGUocmVxLCByZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LCByZXEuZmlsZSkK</text>
+        <text encoding="base64">KTogUHJvbWlzZTxVc2VyRHRvPiA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5ID0gSlNPTi5wYXJzZShyZXEuYm9keSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LCByZXEuZmlsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhKSkK</text>
+        <text encoding="base64">ICBjb25zdCBib2R5ID0gSlNPTi5wYXJzZShyZXEuYm9keSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKQogIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2godXJsLCB7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhKSkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
