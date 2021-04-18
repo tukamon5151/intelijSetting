@@ -147,7 +147,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.tsx" timestamp="1618703262126">
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.tsx" timestamp="1618708879394">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="12" column="15" />
         <mark key="^" line="12" column="15" />
@@ -159,11 +159,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardCard/BoardCard.tsx" timestamp="1618706426384">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="40" column="20" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardCard/BoardCard.tsx" timestamp="1618708413283">
+        <mark key="'" line="33" column="38" />
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="84" column="37" />
+        <mark key="." line="84" column="36" />
+        <mark key="^" line="84" column="37" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.stories.tsx" timestamp="1618701706382">
         <mark key="[" line="9" column="0" />
@@ -185,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
       <jump line="4" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
       <jump line="18" column="10" filename="$USER_HOME$/Project/React/trello-copy/pages/board.tsx" />
@@ -285,15 +285,16 @@
       <jump line="22" column="15" filename="$USER_HOME$/Project/React/trello-copy/hooks/useMyPage.tsx" />
       <jump line="14" column="7" filename="$USER_HOME$/Project/React/trello-copy/components/templates/Boards/Boards.tsx" />
       <jump line="16" column="0" filename="$USER_HOME$/Project/React/trello-copy/components/organizations/Sidebar/Sidebar.tsx" />
+      <jump line="32" column="38" filename="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardCard/BoardCard.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L0JveD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uUHJvcGVydHk9InJpZ2h0IgogICAgICAgICAgICAgIHRyYW5zaXRpb25EdXJhdGlvbj0iLjE1cyIK</text>
       </register>
       <register name="-" type="4">
-        <text>bgcolor</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -302,31 +303,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogJ3NjYWxlKDEuMSknCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L0JveD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uUHJvcGVydHk9InJpZ2h0IgogICAgICAgICAgICAgIHRyYW5zaXRpb25EdXJhdGlvbj0iLjE1cyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Qm94Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0cmFuc2l0aW9uPSJyaWdodCAxcyBlYXNlLWluLW91dCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNmb3JtOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNmb3JtOiAndHJhbnNsYXRlWCgtMTIpJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmlnaHQ6IDIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXNvcj0icG9pbnRlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1c29yPSJwb2ludGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNmb3JtOiAndHJhbnNsYXRlWCgyKScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0QWJzb2x1dGVVcmwgfSBmcm9tICcuLi8uLi8uLi9saWIvZ2V0QWJzb2x1dGVVcmwnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L0JveD4xCg==</text>
+        <text encoding="base64">ICAgICAgICA8L0JveD4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
