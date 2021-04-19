@@ -81,18 +81,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/dto/board.ts" timestamp="1618818250928">
+      <file name="$USER_HOME$/Project/React/trello-copy/dto/board.ts" timestamp="1618819489213">
         <mark key="'" line="0" column="15" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="20" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/boards.tsx" timestamp="1618812256663">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="31" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/boards.tsx" timestamp="1618821597350">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/Provider/MeProviderContainer.tsx" timestamp="1618817704406">
         <mark key="[" line="26" column="33" />
@@ -100,25 +100,13 @@
         <mark key="^" line="26" column="44" />
         <mark key="." line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/types.ts" timestamp="1618806435491">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/CreateBoardModal/CreateBoardModal.stories.tsx" timestamp="1618823022213">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/.eslintrc.js" timestamp="1618816866595">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="61" />
-        <mark key="." line="48" column="60" />
-        <mark key="^" line="48" column="61" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/@types/valueOf.d.ts" timestamp="1618807345701">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/mypage.tsx" timestamp="1618811443839">
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/mypage.tsx" timestamp="1618821524090">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="18" />
         <mark key="." line="18" column="17" />
@@ -130,7 +118,12 @@
         <mark key="." line="58" column="61" />
         <mark key="^" line="58" column="62" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@types/react/index.d.ts" timestamp="1618808482165" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardPreviewForm/BoardPreviewForm.tsx" timestamp="1618826364362">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="14" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/client/boardRequest.ts" timestamp="1618818542832">
         <mark key="'" line="0" column="47" />
         <mark key="[" line="22" column="33" />
@@ -138,68 +131,78 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/templates/Boards/Boards.tsx" timestamp="1618800367825">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="16" column="50" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" timestamp="1618821570634">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/Provider/BaseProvider.tsx" timestamp="1618800347439">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="34" />
+      <file name="$USER_HOME$/Project/React/trello-copy/package.json" timestamp="1618820013718">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" timestamp="1618816972182">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="18" />
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/repositories/board.ts" timestamp="1618820149703">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/@types/TypeUtil.d.ts" timestamp="1618816207775">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/CreateBoardModal/index.ts" timestamp="1618820871115">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="52" />
+        <mark key="^" line="0" column="52" />
+        <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/client/request.ts" timestamp="1618809488164">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="38" />
-        <mark key="." line="1" column="37" />
-        <mark key="^" line="1" column="38" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/boards/index.ts" timestamp="1618819852863">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/boards/index.ts" timestamp="1618818226390">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/Provider/BoardProviderContainer.tsx" timestamp="1618822489399">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="29" column="87" />
+        <mark key="." line="29" column="86" />
+        <mark key="^" line="29" column="87" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/Provider/BoardProviderContainer.tsx" timestamp="1618817695928">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="48" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.tsx" timestamp="1618817046545">
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.tsx" timestamp="1618820806325">
         <mark key="'" line="24" column="19" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="37" />
+        <mark key="." line="67" column="36" />
+        <mark key="^" line="67" column="37" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/hooks/useBoards.tsx" timestamp="1618818419860">
+      <file name="$USER_HOME$/Project/React/trello-copy/hooks/useBoards.tsx" timestamp="1618821272358">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="41" column="58" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="35" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/tsconfig.json" timestamp="1618806894821">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="32" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/CreateBoardModal/CreateBoardModal.tsx" timestamp="1618824184043">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="54" />
+        <mark key="^" line="44" column="54" />
+        <mark key="." line="44" column="53" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/index.tsx" timestamp="1618821585693">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/.prisma/client/index.d.ts" timestamp="1618819658625" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardPreviewForm/BoardPreviewForm.stories.tsx" timestamp="1618825258318">
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/hoge.tsx" />
       <jump line="26" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/hoge.tsx" />
       <jump line="18" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" />
       <jump line="9" column="48" filename="$USER_HOME$/Project/React/trello-copy/node_modules/nookies/dist/index.d.ts" />
@@ -299,15 +302,16 @@
       <jump line="59" column="22" filename="$USER_HOME$/Project/React/trello-copy/hooks/useMe.tsx" />
       <jump line="22" column="0" filename="$USER_HOME$/Project/React/trello-copy/hooks/useMe.tsx" />
       <jump line="55" column="0" filename="$USER_HOME$/Project/React/trello-copy/hooks/useMe.tsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/Project/React/trello-copy/components/organizations/CreateBoardModal/CreateBoardModal.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8SW5wdXQKICAgICAgICAgIG5hbWU9InRpdGxlIgogICAgICAgICAgcGxhY2Vob2xkZXI9IuODnOODvOODieOCv+OCpOODiOODq+OBrui/veWKoCIKICAgICAgICAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBDb250cm9sbGVyXD4=</text>
@@ -316,31 +320,31 @@
         <text encoding="base64">cGU8VD4gPSB2YWx1ZU9mPFBpY2s8UmV0dXJuVHlwZTxUPiwgJ2Rpc3BhdGNoZXJzJz4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIOOBvuOBoOOCueOCv+ODvOOBruapn+iDveOCkuS9nOOBo+OBpuOBhOOBquOBhOOBn+OCgeOAgeS+v+WunOS4iuOBk+OBruanmOOBquW9ouOBq+OBl+OBpuOBhOOCiwogICAgLy8gVE9ETzogQm9hcmREdG/jgatpbml0aWFsaXpl44GZ44KL6Zqb44Gr44K544K/44O844OH44O844K/44GL44KJYm9va+WApOOCkuaxuuWumuOBmeOCi+OCiOOBhuOBq+OBmeOCiwo=</text>
+        <text encoding="base64">ICAgICAgICA8SW5wdXQKICAgICAgICAgIG5hbWU9InRpdGxlIgogICAgICAgICAgcGxhY2Vob2xkZXI9IuODnOODvOODieOCv+OCpOODiOODq+OBrui/veWKoCIKICAgICAgICAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvYXJkcy5tYXAoKGJvYXJkKSA9PiAoYm9hcmQuc3RhciA9IHRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uPSJhYnNvbHV0ZSIgdG9wPXsyfQogICAgICAgICAgbGVmdD17Mn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbj0icmVsYXRpdmUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPElucHV0IG5hbWU9InRpdGxlIiBwbGFjZWhvbGRlcj0i44Oc44O844OJ44K/44Kk44OI44Or44Gu6L+95YqgIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbml0aWFsaXplKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWN0aW9uLnBheWxvYWQuYm9hcmQpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPC9Cb3g+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBvbkNsaWNrQWRkQm9hcmQgPSAoKSA9PiB7CiAgICBjcmVhdGVCb2FyZCgpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgPEJveD4K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
