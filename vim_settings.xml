@@ -82,12 +82,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/boards.tsx" timestamp="1618908006043">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="4" />
-      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/client/userRequest.ts" timestamp="1618910376775">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="23" column="71" />
@@ -138,12 +132,6 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/hooks/useLogin.tsx" timestamp="1618907485652">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="18" column="10" />
-      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/server/repositories/board.ts" timestamp="1618916999787">
         <mark key="[" line="53" column="44" />
         <mark key="]" line="53" column="42" />
@@ -190,6 +178,12 @@
         <mark key="]" line="16" column="1" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/boards/[id].tsx" timestamp="1618961324183">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/pages/api/me/index.ts" timestamp="1618908600054">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="25" column="23" />
@@ -202,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="39" filename="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" />
       <jump line="17" column="7" filename="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" />
       <jump line="35" column="20" filename="$USER_HOME$/Project/React/trello-copy/components/organizations/ProfileForm/ProfileForm.tsx" />
       <jump line="15" column="4" filename="$USER_HOME$/Project/React/trello-copy/components/molecules/IconChanger/IconChanger.tsx" />
@@ -302,15 +295,16 @@
       <jump line="58" column="16" filename="$USER_HOME$/Project/React/trello-copy/hooks/useBoards.tsx" />
       <jump line="50" column="17" filename="$USER_HOME$/Project/React/trello-copy/hooks/useBoards.tsx" />
       <jump line="4" column="12" filename="$USER_HOME$/Project/React/trello-copy/lib/client/request.ts" />
+      <jump line="14" column="14" filename="$USER_HOME$/Project/React/trello-copy/pages/boards/[id].tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>undefined</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -319,31 +313,31 @@
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpCg==</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBnZXRTdGF0aWNQcm9wczogR2V0U3RhdGljUHJvcHMgPSBhc3luYyAoY29udGV4dCkgPT4gewp9CgpleHBvcnQgY29uc3QgZ2V0U3RhdGljUGF0aHM6IEdldFN0YXRpY1BhdGhzID0gYXN5bmMgKCkgPT4gewp9CgpleHBvcnQgY29uc3QgZ2V0U2VydmVyU2lkZVByb3BzOiBHZXRTZXJ2ZXJTaWRlUHJvcHMgPSBhc3luYyAoY29udGV4dCkgPT4gewp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB8IHsKICAgICAgdHlwZTogJ2dldCcKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdGhpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdob2dlJykK</text>
+        <text encoding="base64">ICB8IHsKICAgICAgdHlwZTogJ2dldCcKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaG9nZScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdob2dlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvYXJkcykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaG9nZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGU6IHsgdXNlcklkIH0sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvYXJkcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGU6IHsgdXNlcklkIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5xdWVyeS5pZCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5xdWVyeS5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
