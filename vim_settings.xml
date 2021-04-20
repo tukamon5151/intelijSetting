@@ -119,11 +119,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/board.ts" timestamp="1618911211331">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="43" />
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/board.ts" timestamp="1618912628602">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="69" />
+        <mark key="." line="1" column="68" />
+        <mark key="^" line="1" column="69" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/pages/api/board_stars.ts" timestamp="1618911301239">
         <mark key="[" line="16" column="0" />
@@ -144,6 +144,12 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="18" column="10" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/repositories/board.ts" timestamp="1618912601256">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/server/selector/board.ts" timestamp="1618911128618">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="6" />
@@ -161,16 +167,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/plainToClass.ts" timestamp="1618906540982">
-        <mark key="[" line="3" column="85" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="31" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/class-transformer/types/index.d.ts" timestamp="1618906088933">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="115" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.tsx" timestamp="1618910057299">
         <mark key="'" line="24" column="19" />
@@ -191,6 +187,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/repositories/boardStar.ts" timestamp="1618912587737">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/pages/api/me/index.ts" timestamp="1618908600054">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="25" column="23" />
@@ -199,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="17" filename="$USER_HOME$/Project/React/trello-copy/components/atoms/Input/Input.tsx" />
-      <jump line="24" column="4" filename="$USER_HOME$/Project/React/trello-copy/components/atoms/Input/Input.tsx" />
       <jump line="24" column="0" filename="$USER_HOME$/Project/React/trello-copy/components/atoms/Textarea/Textarea.tsx" />
       <jump line="2" column="30" filename="$USER_HOME$/Project/React/trello-copy/components/atoms/Textarea/Textarea.tsx" />
       <jump line="23" column="0" filename="$USER_HOME$/Project/React/trello-copy/components/atoms/Textarea/Textarea.tsx" />
@@ -299,48 +299,50 @@
       <jump line="9" column="14" filename="$USER_HOME$/Project/React/trello-copy/pages/api/board_stars.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/api/board_stars.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/Project/React/trello-copy/pages/api/board_stars.ts" />
+      <jump line="4" column="16" filename="$USER_HOME$/Project/React/trello-copy/lib/server/repositories/boardStar.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/lib/server/repositories/boardStar.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQm9hcmRTdGFyUmVxdWVzdCB9IGZyb20gJy4uL3JlcG9zaXRvcmllcy8nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>boardStar</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmV4dEFwaVJlcXVlc3QsIE5leHRBcGlSZXNwb25zZSB9IGZyb20gJ25leHQnCmltcG9ydCB7IHBsYWluVG9DbGFzcyB9IGZyb20gJ2NsYXNzLXRyYW5zZm9ybWVyJwppbXBvcnQgeyBnZXRDdXJyZW50VXNlciB9IGZyb20gJy4uLy4uL2xpYi9zZXJ2ZXIvc2Vzc2lvbicKaW1wb3J0IHsgY3JlYXRlQm9hcmRTdGFyIH0gZnJvbSAnLi4vLi4vbGliL3NlcnZlci9yZXBvc2l0b3JpZXMvYm9hcmRTdGFyJwppbXBvcnQgeyBSZXNwb25zZUJvYXJkIH0gZnJvbSAnLi4vLi4vZHRvL2JvYXJkJwppbXBvcnQgeyB3aXRoU3RhciB9IGZyb20gJy4uLy4uL2xpYi9zZXJ2ZXIvc2VsZWN0b3IvYm9hcmQnCgpleHBvcnQgZGVmYXVsdCBhc3luYyBmdW5jdGlvbiBoYW5kbGVyKAogIHJlcTogTmV4dEFwaVJlcXVlc3QsCiAgcmVzOiBOZXh0QXBpUmVzcG9uc2UsCikgewogIGNvbnN0IGN1cnJlbnRVc2VyID0gYXdhaXQgZ2V0Q3VycmVudFVzZXIocmVxKQoKICBpZiAoIWN1cnJlbnRVc2VyKSB7CiAgICByZXR1cm4gcmVzLnN0YXR1cyg0MDQpLmVuZCgpCiAgfQoKICBpZiAocmVxLm1ldGhvZCA9PT0gJ1BPU1QnKSB7CiAgICBjb25zdCBib2FyZElkID0gSlNPTi5wYXJzZShyZXEuYm9keSkuYm9hcmRJZCBhcyBudW1iZXIgfCB1bmRlZmluZWQKICAgIGlmICghYm9hcmRJZCkgewogICAgICByZXR1cm4gcmVzLnN0YXR1cyg0MDQpLmVuZCgpCiAgICB9CgogICAgY29uc3QgYm9hcmQgPSB3aXRoU3RhcigKICAgICAgYXdhaXQgY3JlYXRlQm9hcmRTdGFyKGN1cnJlbnRVc2VyPy5pZCBhcyBudW1iZXIsIGJvYXJkSWQpLAogICAgICBjdXJyZW50VXNlci5pZCwKICAgICkKICAgIHJlcwogICAgICAuc3RhdHVzKDIwMCkKICAgICAgLmpzb24oCiAgICAgICAgcGxhaW5Ub0NsYXNzKFJlc3BvbnNlQm9hcmQsIGJvYXJkLCB7IGV4Y2x1ZGVFeHRyYW5lb3VzVmFsdWVzOiB0cnVlIH0pLAogICAgICApCiAgfSBlbHNlIHsKICAgIHJlcy5zdGF0dXMoNDA0KS5lbmQoKQogIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcHJpc21hIH0gZnJvbSAnLi4vcHJpc21hJwppbXBvcnQgeyBCb2FyZFdpdGhTdGFyUmVsYXRpb24gfSBmcm9tICcuL2JvYXJkJwoKZXhwb3J0IGNvbnN0IGNyZWF0ZUJvYXJkU3RhclJlcXVlc3QgPSBhc3luYyAoCiAgdXNlcklkOiBudW1iZXIsCiAgYm9hcmRJZDogbnVtYmVyLAopOiBQcm9taXNlPEJvYXJkV2l0aFN0YXJSZWxhdGlvbj4gPT4gewogIHJldHVybiBhd2FpdCBwcmlzbWEuYm9hcmQudXBkYXRlKHsKICAgIHdoZXJlOiB7IGlkOiBib2FyZElkIH0sCiAgICBkYXRhOiB7CiAgICAgIGJvYXJkU3RhclJlbGF0aW9uczogewogICAgICAgIGNyZWF0ZTogeyB1c2VySWQgfSwKICAgICAgfSwKICAgIH0sCiAgICBpbmNsdWRlOiB7IGJvYXJkU3RhclJlbGF0aW9uczogdHJ1ZSB9LAogIH0pCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQm9hcmRTdGFyUmVxdWVzdCB9IGZyb20gJy4uL3JlcG9zaXRvcmllcy8nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghYm9hcmRJZCkgeyByZXR1cm4gcmVzLnN0YXR1cyg0MDQpLmVuZCgpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcGxhaW5Ub0NsYXNzIH0gZnJvbSAnY2xhc3MtdHJhbnNmb3JtZXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2VCb2FyZCB9IGZyb20gJy4uLy4uL2R0by9ib2FyZCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgcHJpc21hIH0gZnJvbSAnLi4vcHJpc21hJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbGFpblRvQ2xhc3MoUmVzcG9uc2VCb2FyZCwgYm9hcmQsIHsgZXhjbHVkZUV4dHJhbmVvdXNWYWx1ZXM6IHRydWUgfSksCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQm9hcmRXaXRoU3RhclJlbGF0aW9uIH0gZnJvbSAnLi9ib2FyZCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aFN0YXIgfSBmcm9tICcuLi8uLi9saWIvc2VydmVyL3NlbGVjdG9yL2JvYXJkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQm9hcmRTdGFyUmVxdWVzdCB9IGZyb20gJy4uLy4uL2xpYi9zZXJ2ZXIvcmVwb3NpdG9yaWVzL2JvYXJkU3RhcicK</text>
+        <text encoding="base64">ICAgIGlmICghYm9hcmRJZCkgeyByZXR1cm4gcmVzLnN0YXR1cyg0MDQpLmVuZCgpCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJvYXJkID0gd2l0aFN0YXIoCiAgICAgIGF3YWl0IGNyZWF0ZUJvYXJkU3RhclJlcXVlc3QoY3VycmVudFVzZXI/LmlkIGFzIG51bWJlciwgYm9hcmRJZCksCiAgICAgIGN1cnJlbnRVc2VyLmlkLAogICAgKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcGxhaW5Ub0NsYXNzIH0gZnJvbSAnY2xhc3MtdHJhbnNmb3JtZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQm9hcmRTdGFyIH0gZnJvbSAnLi4vLi4vLi4vLi4vbGliL3NlcnZlci9yZXBvc2l0b3JpZXMvYm9hcmRTdGFyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2VCb2FyZCB9IGZyb20gJy4uLy4uL2R0by9ib2FyZCcK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
