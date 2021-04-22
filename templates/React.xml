@@ -24,4 +24,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="rfr" value="// @Modules&#10;import { forwardRef } from 'react'&#10;&#10;// @Interfaces&#10;export type Props = {&#10;}&#10;&#10;// @Component&#10;export const $TM_FILENAME_BASE$ = forwardRef&lt;unkown, Props&gt;(function $TM_FILENAME_BASE$(props, ref) {&#10;  return (&#10;    &lt;div&gt;&lt;/div&gt;&#10;  )&#10;})" description="forwardRef component" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
