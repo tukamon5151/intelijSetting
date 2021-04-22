@@ -31,4 +31,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="story" value="import { $TM_FILENAME_BASE$, Props } from './$TM_FILENAME_BASE$'&#10;&#10;export default {&#10;  title: 'path',&#10;  component: $TM_FILENAME_BASE$&#10;}&#10;&#10;const Template = (args: Props): React.ReactElement =&gt; &lt;$TM_FILENAME_BASE$ {...args} /&gt;&#10;&#10;export const Base = Template.bind({})" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
