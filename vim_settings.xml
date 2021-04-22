@@ -95,11 +95,17 @@
         <mark key="." line="80" column="34" />
         <mark key="^" line="80" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/list.ts" timestamp="1619069870324">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="47" />
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/list.ts" timestamp="1619072570122">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/board.ts" timestamp="1619072358133">
+        <mark key="[" line="64" column="2" />
+        <mark key="]" line="64" column="78" />
+        <mark key="." line="64" column="77" />
+        <mark key="^" line="64" column="78" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@chakra-ui/system/dist/types/system.d.ts" timestamp="1619065376164" />
       <file name="$USER_HOME$/Project/React/trello-copy/pages/login.tsx" timestamp="1619068221476">
@@ -115,29 +121,17 @@
         <mark key="^" line="0" column="40" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/RoundSquareButton/RoundSquareButton.tsx" timestamp="1619062583555">
-        <mark key="[" line="13" column="41" />
-        <mark key="]" line="13" column="41" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="41" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/lists/index.ts" timestamp="1619069763745">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/lists/index.ts" timestamp="1619072580549">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/dto/list.ts" timestamp="1619069737852">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="2" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardList/BoardList.tsx" timestamp="1619063181336">
-        <mark key="'" line="25" column="19" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@chakra-ui/styled-system/dist/types/config/others.d.ts" timestamp="1619065372134" />
       <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardListButton/BoardListButton.tsx" timestamp="1619064268834">
@@ -152,12 +146,6 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="13" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardListButton/BoardListButton.stories.tsx" timestamp="1619063093005">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/molecules/HeaderLeftItem/HeaderLeftItem.tsx" timestamp="1619066882345">
         <mark key="'" line="15" column="42" />
@@ -178,6 +166,13 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/.prisma/client/index.d.ts" timestamp="1619072541600">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="6" />
+        <mark key="^" line="27" column="6" />
+        <mark key="." line="27" column="5" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1619068695747">
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="20" />
@@ -186,7 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Project/React/trello-copy/model/client/User.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/model/client/User.ts" />
       <jump line="10" column="5" filename="$USER_HOME$/Project/React/trello-copy/hooks/useCurrentUser.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/hooks/useCurrentUser.tsx" />
@@ -286,12 +280,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/components/molecules/HomeButton/HomeButton.tsx" />
       <jump line="70" column="2" filename="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardCard/BoardCard.tsx" />
       <jump line="8" column="5" filename="$USER_HOME$/Project/React/trello-copy/components/molecules/BoardCard/BoardCard.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Project/React/trello-copy/node_modules/.prisma/client/index.d.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>createBoard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>createBoard</text>
@@ -306,7 +301,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text>export type Board</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
@@ -315,19 +310,19 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpqCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGN1cnJlbnRVc30K</text>
+        <text encoding="base64">ICAgIGpqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
