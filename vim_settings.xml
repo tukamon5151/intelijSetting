@@ -82,18 +82,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/BoardTitleInput/BoardTitleInput.tsx" timestamp="1619181257645">
+      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/BoardTitleInput/BoardTitleInput.tsx" timestamp="1619183286409">
         <mark key="'" line="8" column="12" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="28" column="55" />
-      </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/pages/api/boards/[id]/lists/index.ts" timestamp="1619145954525">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="23" column="50" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@types/react/index.d.ts" timestamp="1619169633807" />
       <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/list.ts" timestamp="1619146009054">
@@ -127,7 +121,7 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/@types/TypeUtil.d.ts" timestamp="1619180148317">
+      <file name="$USER_HOME$/Project/React/trello-copy/@types/TypeUtil.d.ts" timestamp="1619182389059">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -162,17 +156,23 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/lib/isNotEmptyString.ts" timestamp="1619183121274">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/ListMenuIcon/ListMenuIcon.tsx" timestamp="1619166920077">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="29" />
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardHeader/BoardHeader.tsx" timestamp="1619178693107">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardHeader/BoardHeader.tsx" timestamp="1619183021480">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="24" column="62" />
+        <mark key="." line="24" column="61" />
+        <mark key="^" line="24" column="62" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/client/requests/listRequest.ts" timestamp="1619146095453">
         <mark key="'" line="2" column="0" />
@@ -299,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWx1ZSA9PT0gJycpIHsKICAgICAgdXBkYXRlVGl0bGUodmFsdWUpCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
@@ -312,31 +312,31 @@
         <text encoding="base64">ICAgIGlmICghdGl0bGUpIHJldHVybgogICAgYXdhaXQgdXBkYXRlQm9hcmQoeyBpZDogYm9hcmQuaWQsIHRpdGxlIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWx1ZSA9PT0gJycpIHsKICAgICAgdXBkYXRlVGl0bGUodmFsdWUpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVRpdGxlKCcnKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZVRpdGxlKHRpdGxlKQo=</text>
+        <text encoding="base64">Y29uc3QgYTogTm90RW1wdHlTdHJpbmc8c3RyaW5nPiA9ICdob2dlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlIE5vdEVtcHR5U3RyaW5nID0gc3RyaW5nICYgVCBleHRlbmRzICdob2dlJyA/IG5ldmVyIDogVAo=</text>
+        <text encoding="base64">Y29uc3QgYTogTm90RW1wdHlTdHJpbmcgPSAnaG9nZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8gbmV2ZXIKICAgIDogc3RyaW5nICYgJycgZXh0ZW5kcyBzdHJpbmcKICAgID8gbmV2ZXIKICAgIDogc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVRpdGxlKHZhbHVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlIEVtcHR5U3RyaW5nID0gJycK</text>
+        <text encoding="base64">ICAgIHVwZGF0ZVRpdGxlKHZhbHVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eXBlIEVtcHR5U3RyaW5nID0gJycgLy8gY29uc3QgYTogRW1wdHlTdHJpbmcgPSAnaG9nZScK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlIEVtcHR5U3RyaW5nID0gIiIKICB0eXBlIE5vdEVtcHR5U3RyaW5nID0gRXhjbHVkZTxzdHJpbmcsIEVtcHR5U3RyaW5nPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
