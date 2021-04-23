@@ -88,12 +88,12 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/BoardTitleInput/BoardTitleInput.tsx" timestamp="1619169190579">
+      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/BoardTitleInput/BoardTitleInput.tsx" timestamp="1619171633625">
         <mark key="'" line="9" column="12" />
-        <mark key="[" line="27" column="78" />
-        <mark key="]" line="27" column="92" />
-        <mark key="." line="27" column="91" />
-        <mark key="^" line="27" column="92" />
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="27" column="51" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/pages/api/boards/[id]/lists/index.ts" timestamp="1619145954525">
         <mark key="[" line="5" column="0" />
@@ -101,7 +101,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="23" column="50" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@types/react/index.d.ts" timestamp="1619169380206" />
+      <file name="$USER_HOME$/Project/React/trello-copy/node_modules/@types/react/index.d.ts" timestamp="1619169633807" />
       <file name="$USER_HOME$/Project/React/trello-copy/lib/server/useCase/list.ts" timestamp="1619146009054">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -146,12 +146,10 @@
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/BoardTitleInput/useBoardTitleInpu.tsx" timestamp="1619169571511">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="14" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/atoms/BoardTitleInput/useBoardTitleInpu.tsx" timestamp="1619171367126">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ListComponent/ListComponent.tsx" timestamp="1619167690591">
         <mark key="'" line="2" column="26" />
@@ -305,44 +303,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlZj17aW5wdXRSZWZ9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>iyPress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlTGlzdHNEaXNwYXRjaCB9IGZyb20gJy4uLy4uLy4uL2xpYi9jbGllbnQvaG9va3MvdXNlTGlzdHMnCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGl0bGUpIHJldHVybgogICAgYXdhaXQgdXBkYXRlQm9hcmQoeyBpZDogYm9hcmQuaWQsIHRpdGxlIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hvZ2UnLCBpbnB1dFJlZi5jdXJyZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlZj17aW5wdXRSZWZ9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9uS2V5UHJlc3M9e29uS2V5UHJlc3N9CiAgICAgICAgICBvbkJsdXI9e29uQmx1cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKQo=</text>
+        <text encoding="base64">ICBjb25zdCBpbnB1dFJlZiA9IHVzZVJlZjxIVE1MSW5wdXRFbGVtZW50PihudWxsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVXBkYXRlQm9hcmQgfSBmcm9tICcuLi8uLi8uLi9kdG8vYm9hcmQnCg==</text>
+        <text encoding="base64">ICAgIGlucHV0UmVmLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9uQmx1ciBoYW5kbGVLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZU9uQmx1ciwK</text>
+        <text encoding="base64">ICBjb25zdCB1cGRhdGVUaXRsZSA9IGFzeW5jICh0aXRsZTogc3RyaW5nKSA9PiB7CiAgICBpZiAoIXRpdGxlKSByZXR1cm4KICAgIGF3YWl0IHVwZGF0ZUJvYXJkKHsgaWQ6IGJvYXJkLmlkLCB0aXRsZSB9KQogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRpdGxlID0gZS50YXJnZXQudmFsdWUK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHVwZGF0ZVRpdGxlKGUudGFyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghdGl0bGUpIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIGUucHJldmVudERlZmF1bHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1cGRhdGVCb2FyZDogKGR0bzogVXBkYXRlQm9hcmQpID0+IFByb21pc2U8Qm9hcmQ+Cg==</text>
+        <text encoding="base64">ICAgIG9uQmx1ciwK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
