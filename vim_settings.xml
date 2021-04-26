@@ -194,6 +194,12 @@
         <mark key="." line="31" column="42" />
         <mark key="^" line="31" column="43" />
       </file>
+      <file name="$USER_HOME$/Project/React/trello-copy/prisma/schema.prisma" timestamp="1619480488717">
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="59" column="36" />
+        <mark key="." line="59" column="35" />
+        <mark key="^" line="59" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="14" filename="$USER_HOME$/Project/React/trello-copy/pages/api/board_stars.ts" />
