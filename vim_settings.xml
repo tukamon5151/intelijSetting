@@ -143,12 +143,6 @@
         <mark key="^" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/framer-motion/types/motion/types.d.ts" timestamp="1619514595213" />
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardBody/BoardBody.tsx" timestamp="1619524907895">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="15" />
-      </file>
       <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ListComponent/useListDrag.tsx" timestamp="1619531073047">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="1" column="9" />
@@ -168,10 +162,11 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ListComponent/ListComponent.tsx" timestamp="1619531033952">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ListComponent/ListComponent.tsx" timestamp="1619532864248">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/client/hooks/useSortable.tsx" timestamp="1619509615207">
         <mark key="[" line="8" column="57" />
@@ -286,10 +281,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>RefObject</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>RefObject</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyXD4=</text>
