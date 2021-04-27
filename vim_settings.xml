@@ -115,9 +115,9 @@
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/framer-motion/types/render/dom/types.d.ts" timestamp="1619514397554" />
       <file name="$USER_HOME$/Project/React/trello-copy/node_modules/framer-motion/types/render/dom/motion.d.ts" timestamp="1619514345788" />
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardBody/useBoardBody.tsx" timestamp="1619531080818">
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/BoardBody/useBoardBody.tsx" timestamp="1619531101134">
         <mark key="'" line="1" column="29" />
-        <mark key="[" line="0" column="55" />
+        <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="40" />
