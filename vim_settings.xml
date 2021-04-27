@@ -180,12 +180,12 @@
         <mark key="^" line="13" column="67" />
         <mark key="." line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ListComponent/ListComponent.tsx" timestamp="1619506666265">
+      <file name="$USER_HOME$/Project/React/trello-copy/components/organizations/ListComponent/ListComponent.tsx" timestamp="1619507536456">
         <mark key="'" line="39" column="14" />
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="26" />
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="9" />
+        <mark key="^" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/Project/React/trello-copy/lib/client/hooks/useSortable.tsx" timestamp="1619497972510">
         <mark key="[" line="25" column="0" />
