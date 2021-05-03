@@ -16,4 +16,11 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
