@@ -1,0 +1,10 @@
+<application>
+  <component name="PlantUmlSettingsNew">
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="customPlantumlJarPath" value="" />
+    <option name="includedPaths" value="" />
+    <option name="lastBundledVersion" value="1.2022.1" />
+    <option name="remoteRendering" value="true" />
+    <option name="serverPrefix" value="http://localhost:9999" />
+  </component>
+</application>
