@@ -1,5 +1,5 @@
 <templateSet group="React">
-  <template name="rfc" value="// ===&#10;// @modules&#10;&#10;// ===&#10;// @interface&#10;&#10;interface Props {&#10;}&#10;&#10;// ===&#10;// @view&#10;export const $TM_FILENAME_BASE$: React.VFC&lt;Props&gt; = props =&gt; {&#10;  return (&#10;  )&#10;};" description="Typescript React Function Component boilerplate" toReformat="false" toShortenFQNames="true">
+  <template name="rfc" value="// ===&#10;// @modules&#10;import React from 'react'&#10;&#10;// ===&#10;// @interface&#10;&#10;interface Props {&#10;}&#10;&#10;// ===&#10;// @view&#10;export const $TM_FILENAME_BASE$: React.VFC&lt;Props&gt; = props =&gt; {&#10;  return (&#10;  )&#10;};" description="Typescript React Function Component boilerplate" toReformat="false" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -11,7 +11,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="npage" value="// ===&#10;// @modules&#10;// ===&#10;import { GetStaticProps, GetStaticPaths, GetServerSideProps, NextPage } from 'next';&#10;&#10;// ===&#10;// @Types&#10;// ===&#10;&#10;&#10;// ===&#10;// @Component&#10;// ===&#10;&#10;const $TM_FILENAME_BASE$: NextPage = () =&gt; {&#10;  return (&#10;    &lt;div&gt;&lt;/div&gt;&#10;  )&#10;}&#10;&#10;// ===&#10;// @export&#10;// ===&#10;&#10;export const getStaticProps: GetStaticProps = async (context) =&gt; {&#10;}&#10;&#10;export const getStaticPaths: GetStaticPaths = async () =&gt; {&#10;}&#10;&#10;export const getServerSideProps: GetServerSideProps = async (context) =&gt; {&#10;}&#10;&#10;export default $TM_FILENAME_BASE$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="npage" value="// ===&#10;// @modules&#10;// ===&#10;import React from 'react'&#10;import { &#10;  GetStaticProps,&#10;  GetStaticPaths,&#10;  GetServerSideProps,&#10;  NextPage&#10;} from 'next';&#10;&#10;// ===&#10;// @Types&#10;// ===&#10;&#10;&#10;// ===&#10;// @Component&#10;// ===&#10;&#10;const $TM_FILENAME_BASE$: NextPage = () =&gt; {&#10;  return (&#10;    &lt;div&gt;&lt;/div&gt;&#10;  )&#10;}&#10;&#10;// ===&#10;// @export&#10;// ===&#10;&#10;export const getStaticProps: GetStaticProps = async (context) =&gt; {&#10;}&#10;&#10;export const getStaticPaths: GetStaticPaths = async () =&gt; {&#10;}&#10;&#10;export const getServerSideProps: GetServerSideProps = async (context) =&gt; {&#10;}&#10;&#10;export default $TM_FILENAME_BASE$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
