@@ -5,6 +5,6 @@
     <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2022.1" />
     <option name="remoteRendering" value="true" />
-    <option name="serverPrefix" value="http://localhost:9999" />
+    <option name="serverPrefix" value="http://localhost:8080" />
   </component>
 </application>
