@@ -4,11 +4,6 @@
     <option name="customPlantumlJarPath" value="" />
     <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2022.1" />
-    <option name="previewSettings">
-      <PreviewSettings>
-        <option name="splitEditorLayout" value="Show preview only" />
-      </PreviewSettings>
-    </option>
     <option name="remoteRendering" value="true" />
     <option name="serverPrefix" value="http://localhost:8080" />
   </component>
