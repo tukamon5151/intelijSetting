@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="提供メニュー超概念モデル.puml" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="dotenv" type="AUTO_DETECTED" />
       <mapping pattern="app-nginx" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
